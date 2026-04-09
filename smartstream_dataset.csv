@@ -1,0 +1,1001 @@
+user_id,title,content_type,genre,platform,device,watch_date,watch_hour,watch_day,watch_month,duration_minutes,completed,user_rating,ai_match_score,country,language,age_group,subscription_tier,is_binge,was_recommended,trailer_watched,added_to_watchlist,shared_content,release_year,imdb_score
+USR4811,Interstellar,Movie,Horror,Netflix,Smart TV,2024-11-23,1,Saturday,November,183,False,4,95.5,Canada,Japanese,35-44,Standard,True,True,True,False,False,2019,8.3
+USR8527,Parasite,Series,Drama,Netflix,Laptop,2024-12-23,18,Monday,December,44,True,4,91.3,India,German,18-24,Basic,False,False,True,True,True,2023,7.8
+USR5374,Se7en,Documentary,Mystery,Apple TV+,Tablet,2024-04-26,13,Friday,April,65,False,5,78.6,France,Japanese,35-44,Basic,False,True,True,False,False,2022,8.0
+USR6155,The Last of Us,Anime,Documentary,Apple TV+,Smart TV,2024-04-22,22,Monday,April,28,True,4,91.8,Australia,Hindi,45-54,Standard,True,True,False,True,False,2022,7.4
+USR2040,Mindhunter,Series,Mystery,Netflix,Mobile,2024-07-23,20,Tuesday,July,32,True,3,85.6,USA,Portuguese,25-34,Premium,False,True,False,False,False,2020,5.0
+USR5889,Fullmetal Alchemist,Movie,Drama,Netflix,Smart TV,2024-11-24,16,Sunday,November,120,True,5,82.8,UK,English,25-34,Basic,False,False,False,False,False,2018,5.5
+USR9727,3 Body Problem,Documentary,Documentary,Netflix,Smart TV,2024-07-04,21,Thursday,July,107,True,2,99.0,India,Hindi,25-34,Basic,False,True,True,False,False,2019,5.4
+USR4608,Dark S3,Series,Romance,Amazon Prime,Tablet,2024-06-08,18,Saturday,June,23,False,2,79.2,India,Japanese,18-24,Premium,False,True,True,False,False,2019,7.4
+USR2612,Succession,Series,Sci-Fi,Amazon Prime,Mobile,2024-10-19,15,Saturday,October,48,True,4,94.7,USA,English,45-54,Basic,True,True,True,True,False,2018,8.1
+USR4502,Ozark,Documentary,Documentary,Netflix,Laptop,2024-08-14,9,Wednesday,August,75,True,3,83.7,Brazil,English,13-17,Basic,False,False,True,False,False,2024,7.2
+USR9238,Inception,Anime,Comedy,Netflix,Smart TV,2024-10-11,2,Friday,October,32,True,2,97.2,India,Portuguese,18-24,Basic,False,True,True,True,False,2019,7.8
+USR5915,WandaVision,Series,Romance,Amazon Prime,Mobile,2024-10-23,11,Wednesday,October,42,True,3,66.5,USA,Spanish,18-24,Standard,False,False,True,True,False,2020,6.8
+USR5905,Gone Girl,Documentary,Drama,Netflix,Tablet,2024-02-05,0,Monday,February,112,True,5,81.8,India,French,25-34,Premium,False,True,True,True,False,2023,5.8
+USR5291,Killers of the Flower Moon,Documentary,Action,Netflix,Tablet,2024-11-20,0,Wednesday,November,50,True,5,95.8,Germany,Japanese,25-34,Free,True,False,False,False,False,2022,7.7
+USR6794,Spirited Away,Movie,Thriller,Netflix,Tablet,2024-10-09,19,Wednesday,October,128,True,5,89.5,Brazil,Hindi,35-44,Basic,False,False,False,False,False,2018,5.1
+USR8711,Wednesday,Anime,Drama,HBO Max,Tablet,2024-04-01,4,Monday,April,44,True,4,94.6,India,German,25-34,Premium,False,True,False,False,False,2018,5.7
+USR5349,The Bear,Series,Action,Disney+,Tablet,2024-05-22,9,Wednesday,May,38,True,5,84.1,India,Hindi,35-44,Basic,False,True,True,False,False,2023,7.4
+USR6143,Gone Girl,Movie,Fantasy,Amazon Prime,Laptop,2024-08-11,22,Sunday,August,92,True,4,84.4,Japan,Korean,25-34,Basic,True,True,True,True,False,2021,5.6
+USR8238,The Mandalorian,Anime,Sci-Fi,Disney+,Mobile,2024-12-12,18,Thursday,December,40,True,3,88.4,Australia,Hindi,45-54,Premium,False,True,True,False,False,2018,6.4
+USR4185,Zodiac,Anime,Sci-Fi,Netflix,Smart TV,2024-04-30,15,Tuesday,April,24,True,5,85.3,Australia,Hindi,18-24,Standard,True,False,False,True,False,2019,8.4
+USR8251,One Piece,Series,Thriller,Netflix,Tablet,2024-12-22,18,Sunday,December,57,True,5,71.2,Japan,French,25-34,Premium,True,True,False,False,False,2024,7.7
+USR3267,Shogun 2024,Movie,Anime,Amazon Prime,Smart TV,2024-11-22,12,Friday,November,160,True,4,73.2,USA,Korean,35-44,Free,True,True,True,True,False,2024,7.8
+USR7865,Parasite,Short Film,Thriller,Apple TV+,Mobile,2024-10-26,21,Saturday,October,22,True,4,66.1,Germany,Japanese,35-44,Basic,True,True,True,True,False,2021,7.6
+USR8564,Severance,Documentary,Fantasy,HBO Max,Mobile,2024-03-25,19,Monday,March,55,True,5,93.9,India,Hindi,18-24,Basic,False,True,False,False,False,2018,6.4
+USR1333,One Piece,Movie,Action,HBO Max,Smart TV,2024-08-28,22,Wednesday,August,82,False,5,76.8,India,English,35-44,Standard,True,True,False,True,False,2023,5.6
+USR2245,Attack on Titan,Documentary,Sci-Fi,Netflix,Mobile,2024-02-28,14,Wednesday,February,93,True,5,94.4,Australia,Japanese,18-24,Premium,False,True,True,False,False,2020,6.6
+USR3506,Peaky Blinders,Series,Drama,Amazon Prime,Smart TV,2024-09-29,18,Sunday,September,45,True,3,93.7,India,Hindi,35-44,Standard,False,False,True,False,False,2020,5.5
+USR8988,The Last of Us,Documentary,Thriller,Apple TV+,Smart TV,2024-05-05,16,Sunday,May,48,False,4,74.3,USA,English,25-34,Standard,False,True,False,True,False,2021,7.5
+USR7046,Loki,Series,Sci-Fi,Amazon Prime,Laptop,2024-09-07,19,Saturday,September,47,True,4,83.6,Canada,English,55+,Standard,True,True,True,True,False,2020,7.3
+USR4180,Breaking Bad,Anime,Crime,Disney+,Smart TV,2024-03-02,18,Saturday,March,38,True,4,84.5,USA,English,13-17,Standard,True,False,False,False,True,2024,6.3
+USR9056,Dune Part Two,Movie,Thriller,Netflix,Mobile,2024-09-08,4,Sunday,September,197,False,4,73.8,Canada,Korean,18-24,Premium,False,True,True,False,False,2022,9.6
+USR4404,Fullmetal Alchemist,Movie,Action,Amazon Prime,Mobile,2024-11-12,18,Tuesday,November,90,True,4,99.0,India,Korean,18-24,Basic,True,True,True,False,False,2019,4.6
+USR2880,Parasite,Anime,Horror,Amazon Prime,Laptop,2024-05-27,20,Monday,May,43,True,5,97.5,USA,English,25-34,Free,True,False,False,False,False,2021,6.3
+USR1423,Poor Things,Series,Drama,Amazon Prime,Smart TV,2024-03-04,20,Monday,March,49,True,4,76.7,USA,Korean,45-54,Standard,True,False,False,False,False,2019,6.9
+USR2713,Killers of the Flower Moon,Series,Comedy,Netflix,Desktop,2024-08-28,13,Wednesday,August,52,False,5,71.5,USA,Korean,25-34,Premium,False,True,True,True,False,2024,8.0
+USR4335,Stranger Things,Documentary,Documentary,Netflix,Tablet,2024-07-25,18,Thursday,July,108,True,4,82.4,Canada,German,25-34,Standard,True,False,False,True,True,2022,7.3
+USR5479,Narcos,Series,Thriller,HBO Max,Tablet,2024-01-08,22,Monday,January,53,True,5,81.1,Japan,Portuguese,18-24,Standard,True,False,False,False,False,2020,7.3
+USR8935,Chernobyl,Movie,Anime,Netflix,Smart TV,2024-07-31,21,Wednesday,July,200,True,4,82.7,USA,Spanish,25-34,Premium,False,False,True,False,False,2021,5.1
+USR9229,Attack on Titan,Movie,Comedy,HBO Max,Mobile,2024-01-23,16,Tuesday,January,113,False,5,99.0,USA,English,45-54,Free,False,True,True,False,False,2018,7.1
+USR8994,Parasite,Documentary,Sci-Fi,Disney+,Mobile,2024-08-28,13,Wednesday,August,113,True,5,91.3,India,English,35-44,Premium,False,False,True,True,False,2024,7.7
+USR3950,Killers of the Flower Moon,Series,Horror,HBO Max,Smart TV,2024-02-21,11,Wednesday,February,31,True,4,86.9,India,Japanese,25-34,Standard,True,True,True,False,False,2023,6.3
+USR5097,WandaVision,Documentary,Comedy,Netflix,Mobile,2024-01-05,19,Friday,January,83,True,5,99.0,Japan,English,25-34,Standard,True,True,False,False,False,2024,8.4
+USR6772,Wednesday,Series,Thriller,Apple TV+,Laptop,2024-12-03,20,Tuesday,December,40,True,5,99.0,Canada,Japanese,35-44,Standard,False,False,False,False,False,2020,6.8
+USR3695,Money Heist,Movie,Drama,Netflix,Tablet,2024-08-13,17,Tuesday,August,168,True,3,81.2,France,German,55+,Basic,False,False,True,True,False,2019,8.2
+USR5295,Attack on Titan,Anime,Mystery,HBO Max,Tablet,2024-12-12,5,Thursday,December,39,True,1,75.6,USA,Japanese,25-34,Standard,True,True,False,True,False,2023,8.7
+USR9807,3 Body Problem,Series,Comedy,Disney+,Laptop,2024-02-02,4,Friday,February,53,True,2,86.8,USA,Hindi,55+,Standard,True,True,False,False,False,2024,7.4
+USR9920,The Social Network,Series,Crime,Netflix,Laptop,2024-09-07,3,Saturday,September,45,True,4,86.8,USA,Hindi,18-24,Free,False,True,False,False,False,2018,8.4
+USR3417,Demon Slayer,Documentary,Sci-Fi,Netflix,Mobile,2024-01-26,21,Friday,January,72,True,3,97.4,India,French,18-24,Free,True,True,False,True,True,2024,8.0
+USR2786,The Mandalorian,Series,Thriller,Netflix,Smart TV,2024-05-01,20,Wednesday,May,50,True,2,81.5,UK,German,13-17,Premium,False,True,True,False,True,2021,7.5
+USR9984,Zodiac,Series,Thriller,Disney+,Mobile,2024-07-24,11,Wednesday,July,30,True,3,90.7,USA,Portuguese,25-34,Standard,False,True,False,False,False,2024,6.6
+USR5176,The Wire,Anime,Sci-Fi,Amazon Prime,Smart TV,2024-10-09,12,Wednesday,October,25,True,4,80.3,France,Korean,25-34,Free,True,True,False,False,True,2018,8.2
+USR6761,Blue Eye Samurai,Short Film,Action,Disney+,Mobile,2024-10-27,23,Sunday,October,11,True,4,98.3,Canada,English,35-44,Basic,True,False,True,False,False,2024,5.3
+USR6062,Game of Thrones,Documentary,Mystery,Apple TV+,Laptop,2024-08-07,1,Wednesday,August,79,True,5,83.8,USA,English,18-24,Standard,True,False,False,True,False,2021,7.0
+USR2336,Stranger Things,Series,Sci-Fi,Netflix,Smart TV,2024-08-02,8,Friday,August,31,True,5,95.1,UK,Hindi,35-44,Standard,True,True,True,True,False,2022,6.7
+USR2965,Dark S3,Series,Drama,Netflix,Desktop,2024-09-06,20,Friday,September,30,True,5,90.1,UK,Hindi,18-24,Standard,True,True,False,False,False,2023,7.5
+USR6321,Killers of the Flower Moon,Series,Comedy,Netflix,Smart TV,2024-01-22,4,Monday,January,40,False,5,77.6,Japan,Japanese,45-54,Premium,True,False,True,False,False,2021,7.7
+USR3419,Squid Game,Anime,Sci-Fi,Apple TV+,Smart TV,2024-06-07,13,Friday,June,33,True,3,78.4,India,English,18-24,Basic,False,True,False,False,False,2022,6.2
+USR5961,Stranger Things,Series,Fantasy,Disney+,Laptop,2024-10-23,15,Wednesday,October,31,True,5,73.7,Canada,Hindi,18-24,Standard,True,True,True,False,False,2018,5.7
+USR8792,Interstellar,Series,Drama,Disney+,Desktop,2024-11-10,19,Sunday,November,58,True,5,84.8,India,English,18-24,Premium,True,True,False,True,False,2021,6.9
+USR2079,Game of Thrones,Series,Romance,Amazon Prime,Tablet,2024-08-12,20,Monday,August,25,True,5,74.5,India,Korean,25-34,Standard,False,False,False,True,False,2019,8.4
+USR9624,Poor Things,Movie,Romance,Disney+,Smart TV,2024-06-28,21,Friday,June,159,True,4,84.1,Australia,Hindi,25-34,Basic,True,True,False,False,False,2019,6.8
+USR7172,Shogun 2024,Movie,Documentary,Netflix,Laptop,2024-03-20,21,Wednesday,March,161,True,2,93.5,India,French,35-44,Premium,True,True,True,False,False,2021,5.2
+USR8218,WandaVision,Movie,Horror,Amazon Prime,Mobile,2024-11-08,13,Friday,November,124,True,4,79.7,Germany,Spanish,25-34,Standard,True,True,False,False,True,2021,9.1
+USR4637,The Mandalorian,Series,Thriller,Apple TV+,Tablet,2024-07-09,8,Tuesday,July,54,True,4,82.0,Brazil,German,25-34,Basic,True,True,True,True,False,2018,9.0
+USR2298,Oppenheimer,Movie,Sci-Fi,Netflix,Tablet,2024-11-28,15,Thursday,November,195,False,5,70.1,USA,French,25-34,Standard,True,True,True,True,True,2021,7.6
+USR1025,One Piece,Documentary,Comedy,Netflix,Tablet,2024-11-23,20,Saturday,November,75,True,4,83.8,USA,Japanese,18-24,Standard,True,True,False,False,False,2022,7.1
+USR2698,Attack on Titan,Movie,Documentary,Netflix,Mobile,2024-10-10,13,Thursday,October,92,True,4,75.7,Germany,English,13-17,Standard,False,True,False,False,False,2023,8.5
+USR7524,Parasite,Documentary,Thriller,Apple TV+,Mobile,2024-04-03,12,Wednesday,April,50,True,3,84.4,UK,English,35-44,Basic,False,True,False,True,False,2021,7.5
+USR7955,Poor Things,Anime,Fantasy,Amazon Prime,Desktop,2024-07-23,11,Tuesday,July,38,False,5,75.6,UK,Portuguese,18-24,Basic,True,True,True,False,False,2019,7.2
+USR6952,Interstellar,Series,Comedy,Disney+,Tablet,2024-12-19,2,Thursday,December,25,True,5,78.6,Japan,Korean,55+,Free,False,False,True,True,False,2020,6.4
+USR6150,The Social Network,Series,Action,Disney+,Laptop,2024-07-04,7,Thursday,July,58,True,5,92.3,USA,Portuguese,13-17,Basic,True,False,True,False,False,2019,6.9
+USR6236,Gone Girl,Movie,Fantasy,Amazon Prime,Smart TV,2024-11-09,23,Saturday,November,188,True,5,90.3,USA,English,25-34,Premium,False,True,False,False,False,2022,6.2
+USR6067,Ozark,Movie,Sci-Fi,Netflix,Laptop,2024-04-24,18,Wednesday,April,108,False,4,95.0,South Korea,Korean,25-34,Premium,False,True,False,False,False,2023,7.4
+USR5982,Killers of the Flower Moon,Movie,Documentary,Apple TV+,Laptop,2024-09-21,21,Saturday,September,89,True,4,93.6,India,German,18-24,Premium,True,True,True,True,False,2020,9.8
+USR1674,Oppenheimer,Series,Romance,Netflix,Laptop,2024-03-05,20,Tuesday,March,61,True,3,76.2,India,German,35-44,Basic,True,True,False,True,False,2022,6.4
+USR4342,Game of Thrones,Series,Drama,Netflix,Tablet,2024-05-28,15,Tuesday,May,32,True,5,77.7,Canada,English,35-44,Standard,False,False,True,False,False,2020,7.9
+USR6364,Your Name,Series,Sci-Fi,Netflix,Smart TV,2024-05-03,23,Friday,May,37,True,5,83.0,Germany,English,18-24,Premium,True,False,False,True,False,2021,8.2
+USR5333,The Wire,Movie,Drama,Netflix,Mobile,2024-05-03,21,Friday,May,77,True,4,93.6,Germany,Hindi,25-34,Standard,True,True,True,False,False,2020,6.1
+USR9193,The Bear,Anime,Thriller,HBO Max,Mobile,2024-11-15,10,Friday,November,26,True,5,87.0,India,English,25-34,Standard,True,True,False,True,False,2019,6.2
+USR6427,Fight Club,Short Film,Horror,Netflix,Smart TV,2024-07-20,16,Saturday,July,19,False,5,89.7,India,Hindi,25-34,Premium,False,True,False,True,False,2024,6.0
+USR2800,Andor,Series,Horror,Disney+,Smart TV,2024-10-23,21,Wednesday,October,31,False,5,77.3,India,English,18-24,Standard,True,False,False,False,False,2018,6.1
+USR5331,One Piece,Movie,Sci-Fi,Amazon Prime,Laptop,2024-12-27,17,Friday,December,162,True,3,78.1,UK,German,25-34,Basic,False,False,False,False,False,2021,7.0
+USR3399,Breaking Bad,Series,Action,HBO Max,Laptop,2024-06-11,21,Tuesday,June,47,True,4,82.5,India,German,18-24,Premium,False,False,True,False,False,2022,8.6
+USR8739,Blue Eye Samurai,Movie,Thriller,Disney+,Smart TV,2024-12-22,2,Sunday,December,134,True,3,99.0,Australia,English,55+,Premium,True,True,False,False,False,2024,7.9
+USR3880,The Bear,Movie,Romance,HBO Max,Smart TV,2024-05-27,22,Monday,May,84,False,5,76.2,South Korea,Hindi,25-34,Premium,False,False,False,True,False,2018,6.6
+USR8518,The Social Network,Movie,Mystery,Amazon Prime,Mobile,2024-06-20,20,Thursday,June,124,True,4,99.0,USA,English,35-44,Premium,False,False,True,False,False,2024,6.4
+USR5374,Game of Thrones,Series,Thriller,Disney+,Smart TV,2024-08-06,13,Tuesday,August,38,True,4,89.5,USA,Korean,13-17,Standard,False,True,True,True,False,2022,8.0
+USR7121,Narcos,Anime,Horror,Disney+,Desktop,2024-12-26,8,Thursday,December,37,True,5,81.2,Australia,German,35-44,Premium,False,False,False,False,False,2022,7.8
+USR9525,The Mandalorian,Series,Drama,HBO Max,Smart TV,2024-08-16,8,Friday,August,56,True,3,93.2,India,English,35-44,Free,True,False,True,False,False,2018,5.1
+USR9866,Succession,Series,Anime,Disney+,Mobile,2024-10-13,14,Sunday,October,24,True,4,90.4,France,English,55+,Free,True,False,False,False,False,2021,5.5
+USR2943,Severance,Short Film,Drama,Apple TV+,Tablet,2024-07-10,7,Wednesday,July,27,True,5,76.4,South Korea,Hindi,18-24,Premium,False,False,False,False,False,2021,8.4
+USR1256,Squid Game,Series,Sci-Fi,Amazon Prime,Smart TV,2024-09-29,21,Sunday,September,24,True,5,91.2,India,English,13-17,Standard,False,True,False,False,False,2019,9.3
+USR9540,Wednesday,Movie,Mystery,Netflix,Tablet,2024-01-29,11,Monday,January,157,True,5,75.7,USA,English,25-34,Standard,False,True,False,False,True,2020,6.5
+USR3365,WandaVision,Anime,Anime,Netflix,Mobile,2024-11-25,11,Monday,November,37,True,5,89.6,France,Japanese,55+,Standard,True,True,True,False,False,2024,8.1
+USR4555,Loki,Movie,Horror,Netflix,Smart TV,2024-07-08,20,Monday,July,123,True,5,80.0,India,German,25-34,Premium,True,True,False,False,False,2019,5.9
+USR9147,WandaVision,Series,Sci-Fi,HBO Max,Mobile,2024-12-22,12,Sunday,December,44,True,4,86.3,India,Portuguese,25-34,Premium,False,True,True,False,False,2019,6.1
+USR6530,Money Heist,Movie,Crime,Disney+,Mobile,2024-01-09,16,Tuesday,January,137,True,4,89.1,Germany,Hindi,35-44,Standard,True,False,True,True,False,2019,8.0
+USR4791,Dune Part Two,Short Film,Crime,Amazon Prime,Tablet,2024-10-04,14,Friday,October,10,True,2,98.2,Australia,English,25-34,Basic,False,True,False,False,False,2018,8.1
+USR3937,Blue Eye Samurai,Series,Thriller,Amazon Prime,Smart TV,2024-09-29,14,Sunday,September,65,True,5,86.5,France,Hindi,18-24,Standard,True,True,False,True,False,2021,7.2
+USR8798,Succession,Movie,Horror,Netflix,Tablet,2024-10-16,3,Wednesday,October,83,True,5,99.0,Canada,Korean,18-24,Premium,False,True,False,False,False,2018,8.9
+USR1256,The Last of Us,Movie,Documentary,Apple TV+,Mobile,2024-04-27,9,Saturday,April,83,True,5,88.0,Canada,Spanish,35-44,Basic,True,True,True,False,False,2022,7.3
+USR6580,Demon Slayer,Series,Horror,Apple TV+,Laptop,2024-06-18,15,Tuesday,June,28,True,4,96.7,Germany,German,25-34,Premium,True,True,False,False,False,2021,8.1
+USR3527,Mindhunter,Movie,Action,Amazon Prime,Laptop,2024-08-09,8,Friday,August,143,True,2,83.3,USA,English,13-17,Basic,True,True,True,True,False,2022,8.0
+USR4977,Your Name,Series,Thriller,Amazon Prime,Smart TV,2024-09-19,14,Thursday,September,40,True,4,79.2,UK,Korean,18-24,Basic,True,True,True,True,False,2024,6.6
+USR7224,Game of Thrones,Series,Crime,Disney+,Mobile,2024-02-09,22,Friday,February,22,False,3,78.4,UK,Hindi,45-54,Standard,False,True,False,False,False,2019,6.4
+USR4273,Attack on Titan,Short Film,Drama,Disney+,Mobile,2024-07-22,13,Monday,July,22,True,4,79.7,South Korea,English,35-44,Free,False,False,True,False,False,2018,6.8
+USR7566,Parasite,Anime,Thriller,Netflix,Smart TV,2024-07-28,23,Sunday,July,36,True,4,89.8,UK,German,35-44,Standard,False,True,False,False,False,2018,8.2
+USR8052,Blue Eye Samurai,Anime,Romance,Amazon Prime,Laptop,2024-02-25,23,Sunday,February,34,True,5,99.0,India,English,25-34,Standard,False,True,True,False,False,2022,8.1
+USR4389,Inception,Series,Drama,Netflix,Smart TV,2024-12-19,13,Thursday,December,31,False,3,67.3,UK,Hindi,25-34,Standard,True,True,False,True,False,2023,8.6
+USR4022,Severance,Anime,Sci-Fi,HBO Max,Smart TV,2024-02-25,10,Sunday,February,36,True,4,87.2,Australia,Hindi,13-17,Standard,True,True,True,False,False,2024,7.8
+USR6134,Demon Slayer,Documentary,Thriller,Netflix,Tablet,2024-12-26,19,Thursday,December,78,True,4,87.7,USA,Hindi,18-24,Basic,True,True,False,False,False,2022,8.1
+USR4043,Black Mirror,Anime,Drama,Netflix,Smart TV,2024-02-13,7,Tuesday,February,41,True,4,81.9,Canada,Korean,35-44,Premium,False,True,True,True,False,2018,7.6
+USR9006,Killers of the Flower Moon,Short Film,Comedy,Netflix,Mobile,2024-07-02,14,Tuesday,July,25,True,4,74.2,India,English,35-44,Basic,True,True,True,False,False,2024,6.6
+USR4580,Peaky Blinders,Series,Thriller,Netflix,Laptop,2024-09-10,20,Tuesday,September,24,True,5,88.4,India,French,35-44,Basic,False,True,True,False,False,2018,6.3
+USR6747,Parasite,Movie,Horror,Disney+,Tablet,2024-05-01,21,Wednesday,May,127,True,5,78.5,USA,Japanese,25-34,Standard,True,True,False,False,False,2018,6.5
+USR5055,Fight Club,Short Film,Anime,HBO Max,Desktop,2024-03-10,8,Sunday,March,17,True,5,87.8,USA,English,35-44,Standard,True,True,False,False,False,2023,6.8
+USR6869,Dune Part Two,Anime,Documentary,Amazon Prime,Mobile,2024-05-22,20,Wednesday,May,24,True,5,71.0,Japan,Hindi,55+,Premium,True,True,True,False,True,2024,6.1
+USR8009,Andor,Documentary,Fantasy,Apple TV+,Smart TV,2024-09-05,15,Thursday,September,65,False,1,74.3,South Korea,German,45-54,Basic,False,False,True,False,True,2023,5.7
+USR4705,Inception,Movie,Comedy,Netflix,Laptop,2024-11-28,10,Thursday,November,75,False,5,86.2,Australia,English,35-44,Premium,False,True,True,True,False,2023,8.8
+USR3688,The Mandalorian,Movie,Drama,Netflix,Mobile,2024-02-22,2,Thursday,February,111,True,5,91.3,USA,English,35-44,Premium,False,True,True,False,True,2018,5.1
+USR1439,Gone Girl,Anime,Drama,Amazon Prime,Laptop,2024-10-28,18,Monday,October,41,True,4,85.2,Brazil,English,35-44,Basic,True,True,False,False,False,2021,8.8
+USR6986,Parasite,Movie,Romance,Netflix,Tablet,2024-02-27,21,Tuesday,February,174,True,4,92.6,Australia,Spanish,55+,Premium,True,True,True,True,True,2024,7.3
+USR2294,Interstellar,Series,Romance,Amazon Prime,Mobile,2024-07-22,8,Monday,July,61,False,4,84.0,France,Portuguese,18-24,Basic,False,False,False,False,False,2021,6.8
+USR1185,Killers of the Flower Moon,Movie,Thriller,Amazon Prime,Mobile,2024-05-02,5,Thursday,May,119,True,5,79.7,UK,English,25-34,Premium,True,True,False,False,False,2018,6.6
+USR3734,The Wire,Movie,Comedy,Amazon Prime,Smart TV,2024-01-16,13,Tuesday,January,205,True,4,96.1,India,Spanish,45-54,Standard,True,False,True,False,True,2018,7.0
+USR7819,House of the Dragon,Series,Fantasy,Netflix,Desktop,2024-08-29,14,Thursday,August,63,True,5,99.0,USA,English,25-34,Standard,False,True,False,False,False,2018,7.6
+USR7033,Attack on Titan,Documentary,Anime,Netflix,Smart TV,2024-08-26,20,Monday,August,83,False,4,77.6,South Korea,Portuguese,35-44,Standard,True,False,True,False,True,2022,7.5
+USR4902,Narcos,Series,Horror,Netflix,Smart TV,2024-06-26,3,Wednesday,June,41,True,5,85.4,UK,English,55+,Standard,True,False,False,False,False,2020,6.1
+USR5778,Money Heist,Short Film,Thriller,Netflix,Smart TV,2024-08-22,19,Thursday,August,23,True,4,86.3,Brazil,German,25-34,Premium,True,True,True,False,True,2024,6.8
+USR2964,Poor Things,Movie,Thriller,Amazon Prime,Smart TV,2024-10-26,12,Saturday,October,190,True,5,90.5,India,Korean,45-54,Standard,True,False,True,True,False,2020,7.9
+USR3290,Planet Earth III,Series,Romance,Netflix,Desktop,2024-07-21,11,Sunday,July,57,True,4,93.0,India,French,55+,Free,False,True,False,False,False,2020,7.4
+USR1829,Killers of the Flower Moon,Movie,Thriller,HBO Max,Mobile,2024-02-08,5,Thursday,February,159,True,5,97.0,France,Hindi,35-44,Standard,True,True,True,False,False,2021,8.9
+USR9614,Squid Game,Movie,Romance,Netflix,Smart TV,2024-03-17,13,Sunday,March,146,True,2,76.4,Canada,Spanish,45-54,Premium,False,True,False,False,False,2022,7.9
+USR4813,Killers of the Flower Moon,Series,Sci-Fi,Netflix,Smart TV,2024-06-13,17,Thursday,June,52,True,2,96.0,India,Korean,25-34,Premium,False,True,False,True,False,2024,6.0
+USR3328,Your Name,Series,Documentary,Apple TV+,Smart TV,2024-07-17,1,Wednesday,July,59,True,5,72.9,France,French,45-54,Premium,True,True,True,True,False,2018,6.1
+USR3320,Planet Earth III,Series,Drama,Disney+,Tablet,2024-09-26,2,Thursday,September,42,True,5,82.3,Japan,French,55+,Basic,False,True,True,True,True,2019,7.8
+USR3872,Mindhunter,Documentary,Crime,Disney+,Smart TV,2024-08-11,10,Sunday,August,90,True,5,97.1,USA,Korean,18-24,Standard,False,False,True,False,False,2018,6.9
+USR3750,Fullmetal Alchemist,Series,Fantasy,HBO Max,Smart TV,2024-04-03,11,Wednesday,April,26,True,3,67.8,Brazil,English,35-44,Standard,False,True,True,True,True,2020,6.2
+USR8855,Your Name,Anime,Thriller,Amazon Prime,Mobile,2024-02-25,17,Sunday,February,33,True,5,89.2,Australia,Korean,18-24,Free,False,True,True,False,True,2019,8.2
+USR8113,Killers of the Flower Moon,Movie,Thriller,HBO Max,Desktop,2024-07-11,14,Thursday,July,82,True,5,72.8,India,English,55+,Standard,False,False,False,False,False,2018,9.9
+USR1421,The Last of Us,Series,Action,Amazon Prime,Smart TV,2024-01-26,18,Friday,January,62,True,5,88.4,India,English,18-24,Premium,True,True,False,False,True,2022,7.2
+USR2584,Poor Things,Movie,Fantasy,Amazon Prime,Mobile,2024-07-17,17,Wednesday,July,143,True,3,84.3,Australia,Spanish,25-34,Premium,True,True,True,False,False,2023,8.4
+USR3415,Planet Earth III,Series,Sci-Fi,Netflix,Mobile,2024-08-31,20,Saturday,August,55,True,4,86.3,France,Hindi,55+,Basic,True,True,True,True,False,2019,7.0
+USR1202,Se7en,Movie,Action,Netflix,Laptop,2024-11-17,21,Sunday,November,158,True,4,86.2,Canada,Hindi,25-34,Standard,True,True,False,False,False,2022,6.8
+USR3356,One Piece,Documentary,Documentary,Apple TV+,Tablet,2024-02-21,1,Wednesday,February,105,True,4,84.0,Canada,Korean,13-17,Premium,True,True,False,False,False,2018,8.8
+USR6257,Stranger Things,Documentary,Drama,Netflix,Mobile,2024-06-21,12,Friday,June,62,True,5,83.8,Germany,Japanese,18-24,Standard,False,True,False,False,False,2018,6.7
+USR1944,Squid Game,Documentary,Thriller,Disney+,Mobile,2024-09-20,9,Friday,September,67,True,4,86.9,India,English,25-34,Basic,True,True,True,False,False,2019,5.9
+USR5670,Oppenheimer,Series,Comedy,HBO Max,Mobile,2024-07-09,20,Tuesday,July,38,True,5,78.0,USA,English,35-44,Premium,False,True,False,True,False,2018,6.9
+USR5511,Peaky Blinders,Movie,Fantasy,Disney+,Laptop,2024-12-15,19,Sunday,December,153,True,5,91.1,Brazil,French,25-34,Basic,True,True,False,False,True,2023,7.2
+USR5895,Andor,Series,Action,Netflix,Laptop,2024-07-10,21,Wednesday,July,42,False,4,77.8,India,Spanish,45-54,Premium,False,True,False,False,False,2023,7.3
+USR9759,Fullmetal Alchemist,Short Film,Sci-Fi,Amazon Prime,Mobile,2024-09-11,13,Wednesday,September,16,True,4,97.2,Germany,German,35-44,Standard,False,False,False,True,True,2019,7.6
+USR6428,The Wire,Anime,Action,HBO Max,Desktop,2024-05-12,20,Sunday,May,29,True,3,94.4,USA,English,45-54,Standard,False,True,False,True,False,2022,6.3
+USR8496,Shogun 2024,Documentary,Drama,Netflix,Smart TV,2024-03-02,23,Saturday,March,97,True,3,87.6,USA,Korean,35-44,Standard,False,True,False,True,False,2024,6.7
+USR1618,Parasite,Series,Sci-Fi,Apple TV+,Laptop,2024-03-27,23,Wednesday,March,49,True,4,90.9,India,Hindi,13-17,Basic,False,True,False,False,False,2023,8.1
+USR6535,Peaky Blinders,Movie,Thriller,Amazon Prime,Smart TV,2024-06-25,20,Tuesday,June,191,True,5,87.2,Brazil,Portuguese,25-34,Premium,True,True,False,False,False,2019,7.3
+USR9761,One Piece,Anime,Thriller,Disney+,Mobile,2024-04-24,13,Wednesday,April,23,True,5,88.7,India,Portuguese,35-44,Standard,True,True,True,False,False,2021,8.1
+USR9381,One Piece,Movie,Horror,Disney+,Smart TV,2024-12-25,14,Wednesday,December,110,True,4,78.8,India,English,18-24,Basic,True,True,False,True,False,2020,5.8
+USR3443,Poor Things,Movie,Comedy,Netflix,Desktop,2024-03-23,21,Saturday,March,103,True,5,84.7,Germany,English,35-44,Premium,False,True,False,True,True,2024,7.3
+USR3793,Game of Thrones,Documentary,Documentary,Amazon Prime,Laptop,2024-03-30,0,Saturday,March,50,True,5,81.5,USA,Hindi,35-44,Premium,True,False,True,False,False,2020,7.4
+USR8908,Your Name,Anime,Comedy,Amazon Prime,Tablet,2024-07-16,3,Tuesday,July,27,True,5,87.1,Australia,English,25-34,Basic,True,True,False,False,True,2021,7.7
+USR6542,Inception,Documentary,Comedy,Netflix,Laptop,2024-02-27,20,Tuesday,February,118,True,4,99.0,UK,Korean,18-24,Standard,True,True,False,False,False,2022,7.4
+USR5557,Succession,Movie,Romance,Netflix,Tablet,2024-11-09,12,Saturday,November,200,True,2,94.6,UK,Japanese,25-34,Premium,True,True,False,True,False,2020,5.4
+USR9328,Spirited Away,Short Film,Horror,Netflix,Mobile,2024-03-01,23,Friday,March,29,True,5,94.8,India,Korean,55+,Basic,True,True,True,False,False,2021,7.5
+USR2741,The Bear,Series,Comedy,Netflix,Laptop,2024-12-02,17,Monday,December,40,True,5,92.5,Brazil,Hindi,45-54,Standard,True,True,True,True,False,2019,7.2
+USR9260,3 Body Problem,Documentary,Sci-Fi,Amazon Prime,Laptop,2024-08-22,20,Thursday,August,60,True,5,95.9,South Korea,English,35-44,Standard,True,True,False,False,False,2023,7.6
+USR5067,Stranger Things,Movie,Anime,Netflix,Laptop,2024-10-23,23,Wednesday,October,182,True,5,79.5,USA,English,25-34,Premium,True,True,False,False,False,2022,6.6
+USR3913,Interstellar,Anime,Crime,Disney+,Smart TV,2024-06-09,7,Sunday,June,43,True,4,80.3,Canada,Japanese,35-44,Premium,False,True,False,False,False,2024,6.6
+USR5695,Fight Club,Movie,Documentary,Apple TV+,Mobile,2024-09-30,11,Monday,September,126,True,5,89.4,USA,French,35-44,Basic,False,True,False,True,False,2023,7.3
+USR6122,Spirited Away,Documentary,Horror,Disney+,Smart TV,2024-10-14,22,Monday,October,51,True,4,88.1,India,Korean,18-24,Premium,False,True,True,False,False,2020,5.3
+USR2955,Mindhunter,Series,Romance,Apple TV+,Desktop,2024-10-28,23,Monday,October,33,True,5,83.6,India,English,25-34,Basic,False,True,True,False,True,2020,7.9
+USR9529,Dune Part Two,Movie,Crime,Disney+,Laptop,2024-11-01,17,Friday,November,156,True,4,74.6,Germany,English,25-34,Standard,True,False,False,True,False,2024,7.3
+USR1653,Fight Club,Series,Mystery,Apple TV+,Desktop,2024-11-12,18,Tuesday,November,63,True,4,96.9,Brazil,Hindi,45-54,Free,True,False,True,False,False,2022,7.3
+USR4453,Gone Girl,Series,Thriller,HBO Max,Smart TV,2024-09-17,17,Tuesday,September,56,True,3,65.6,Canada,English,35-44,Premium,True,False,False,False,False,2024,7.0
+USR5237,Narcos,Anime,Sci-Fi,Amazon Prime,Smart TV,2024-02-06,2,Tuesday,February,39,True,5,87.3,USA,Japanese,25-34,Free,False,True,False,False,False,2022,7.4
+USR1504,Loki,Anime,Thriller,HBO Max,Smart TV,2024-01-24,13,Wednesday,January,36,True,2,86.6,India,English,35-44,Premium,False,True,False,True,False,2024,6.3
+USR4441,Chernobyl,Series,Crime,Amazon Prime,Mobile,2024-11-27,17,Wednesday,November,56,False,4,85.6,India,German,45-54,Free,True,True,True,True,False,2022,7.3
+USR6420,Chernobyl,Documentary,Crime,HBO Max,Mobile,2024-01-28,10,Sunday,January,57,True,2,78.7,India,Korean,18-24,Standard,False,True,True,False,False,2022,6.9
+USR3200,Fight Club,Series,Drama,Netflix,Mobile,2024-03-19,15,Tuesday,March,63,True,3,91.0,Germany,French,25-34,Basic,True,True,True,False,False,2024,7.2
+USR4485,The Bear,Documentary,Sci-Fi,Disney+,Laptop,2024-03-12,21,Tuesday,March,48,True,5,82.6,Canada,Japanese,55+,Standard,False,True,True,False,False,2020,4.9
+USR3299,The Mandalorian,Series,Action,Amazon Prime,Mobile,2024-03-09,19,Saturday,March,61,True,5,76.9,India,Japanese,25-34,Premium,True,False,False,True,False,2019,5.4
+USR2691,Zodiac,Movie,Sci-Fi,Disney+,Mobile,2024-02-02,1,Friday,February,86,True,5,87.0,South Korea,Japanese,25-34,Standard,False,True,True,False,False,2024,6.1
+USR3276,The Mandalorian,Series,Drama,HBO Max,Mobile,2024-02-09,21,Friday,February,52,False,4,75.3,India,English,35-44,Basic,True,True,False,True,False,2024,9.0
+USR3207,Fullmetal Alchemist,Anime,Comedy,Amazon Prime,Smart TV,2024-06-18,6,Tuesday,June,23,True,1,93.0,UK,French,18-24,Basic,False,True,True,False,False,2023,9.0
+USR3979,One Piece,Documentary,Crime,Netflix,Laptop,2024-12-04,18,Wednesday,December,97,True,3,76.0,Australia,English,35-44,Basic,True,True,True,False,True,2019,7.4
+USR2925,Poor Things,Documentary,Action,Amazon Prime,Smart TV,2024-09-24,21,Tuesday,September,49,True,5,92.5,UK,English,35-44,Premium,False,False,False,False,False,2018,7.9
+USR8817,Wednesday,Series,Sci-Fi,Apple TV+,Laptop,2024-12-23,3,Monday,December,58,False,5,77.2,France,English,35-44,Standard,True,True,False,True,False,2022,8.2
+USR6990,One Piece,Series,Sci-Fi,Apple TV+,Mobile,2024-01-04,21,Thursday,January,38,True,4,91.6,USA,Korean,35-44,Standard,False,True,True,False,False,2020,7.9
+USR6544,Spirited Away,Movie,Horror,Disney+,Tablet,2024-10-22,3,Tuesday,October,116,True,4,77.8,Canada,Korean,18-24,Basic,False,False,False,False,False,2018,5.7
+USR3871,Fullmetal Alchemist,Movie,Drama,Disney+,Laptop,2024-02-02,19,Friday,February,148,True,5,92.3,UK,English,45-54,Premium,True,True,False,False,False,2022,6.7
+USR9482,Dark S3,Anime,Drama,Disney+,Desktop,2024-03-27,14,Wednesday,March,43,True,4,90.5,Germany,English,18-24,Basic,False,False,True,False,False,2022,7.7
+USR5222,Parasite,Series,Comedy,Netflix,Smart TV,2024-04-09,22,Tuesday,April,43,True,4,74.8,Japan,Japanese,35-44,Premium,False,False,False,False,False,2021,7.1
+USR9776,Dark S3,Documentary,Comedy,Netflix,Mobile,2024-10-27,14,Sunday,October,85,True,5,86.4,Australia,English,25-34,Basic,False,True,False,True,False,2019,6.4
+USR5091,One Piece,Movie,Crime,Disney+,Tablet,2024-10-20,10,Sunday,October,142,False,5,79.7,USA,Spanish,18-24,Free,False,True,True,False,False,2024,7.2
+USR3101,Succession,Series,Drama,HBO Max,Tablet,2024-09-03,11,Tuesday,September,54,False,3,79.3,UK,Hindi,55+,Free,True,False,False,False,True,2022,6.8
+USR8722,One Piece,Movie,Thriller,Disney+,Mobile,2024-08-23,17,Friday,August,122,True,5,91.1,USA,English,25-34,Standard,False,True,True,False,False,2022,7.8
+USR7906,Black Mirror,Movie,Thriller,Netflix,Smart TV,2024-12-17,15,Tuesday,December,113,False,3,77.9,India,French,35-44,Standard,True,True,True,False,True,2018,7.6
+USR5222,Chernobyl,Movie,Sci-Fi,Netflix,Tablet,2024-12-19,17,Thursday,December,167,True,4,95.9,India,English,45-54,Premium,True,True,False,True,False,2020,8.2
+USR6527,Narcos,Anime,Comedy,Disney+,Tablet,2024-06-15,21,Saturday,June,26,True,5,80.2,Canada,Japanese,45-54,Free,True,True,True,True,False,2023,7.8
+USR4844,Gone Girl,Movie,Comedy,Apple TV+,Mobile,2024-07-21,21,Sunday,July,122,False,4,67.3,USA,Korean,35-44,Basic,True,True,False,False,True,2024,5.7
+USR3071,3 Body Problem,Series,Mystery,Netflix,Laptop,2024-07-22,11,Monday,July,36,True,4,99.0,UK,English,13-17,Basic,False,False,True,False,False,2022,8.5
+USR6073,Chernobyl,Movie,Crime,Amazon Prime,Mobile,2024-08-15,17,Thursday,August,186,True,5,72.2,UK,English,18-24,Basic,True,True,True,False,False,2019,7.7
+USR9981,The Wire,Movie,Action,Disney+,Mobile,2024-06-25,18,Tuesday,June,149,True,5,85.2,India,French,25-34,Basic,False,True,False,True,True,2023,6.3
+USR3988,3 Body Problem,Series,Anime,Disney+,Laptop,2024-05-02,14,Thursday,May,39,True,4,83.4,USA,Japanese,35-44,Basic,False,True,True,True,False,2019,8.8
+USR7084,WandaVision,Movie,Thriller,Amazon Prime,Smart TV,2024-02-22,12,Thursday,February,182,True,3,86.2,Australia,English,18-24,Premium,True,True,True,False,False,2024,7.3
+USR2539,Inception,Documentary,Documentary,Netflix,Laptop,2024-05-08,10,Wednesday,May,49,True,4,85.1,Australia,English,25-34,Premium,False,True,False,False,False,2018,9.1
+USR5523,Attack on Titan,Series,Drama,Amazon Prime,Smart TV,2024-05-09,12,Thursday,May,49,False,4,74.2,India,Spanish,13-17,Free,False,True,False,False,True,2019,4.6
+USR6690,The Mandalorian,Movie,Romance,HBO Max,Desktop,2024-09-12,6,Thursday,September,102,True,5,83.0,Germany,English,25-34,Standard,True,True,False,False,False,2021,6.9
+USR5844,Money Heist,Series,Action,Amazon Prime,Mobile,2024-04-07,2,Sunday,April,32,True,5,92.3,Canada,Hindi,35-44,Standard,False,False,False,False,False,2020,6.1
+USR2577,Inception,Anime,Action,Amazon Prime,Mobile,2024-02-02,14,Friday,February,32,False,5,74.9,Australia,English,55+,Basic,True,True,True,True,False,2021,7.2
+USR2310,WandaVision,Series,Romance,Disney+,Smart TV,2024-12-02,19,Monday,December,35,True,1,87.3,Japan,English,25-34,Premium,True,True,False,False,False,2018,8.9
+USR3931,Spirited Away,Documentary,Thriller,Netflix,Mobile,2024-02-06,17,Tuesday,February,69,True,4,89.7,Germany,Hindi,18-24,Standard,True,True,False,False,True,2019,7.7
+USR8054,House of the Dragon,Series,Drama,Netflix,Desktop,2024-10-08,21,Tuesday,October,42,True,4,78.0,Canada,Japanese,18-24,Premium,False,True,False,False,False,2023,7.6
+USR5521,Spirited Away,Short Film,Action,Amazon Prime,Desktop,2024-01-18,1,Thursday,January,20,True,3,82.8,UK,Japanese,35-44,Free,True,True,True,False,False,2020,8.1
+USR7251,Poor Things,Movie,Comedy,HBO Max,Laptop,2024-06-02,18,Sunday,June,99,True,3,82.7,Germany,German,25-34,Premium,True,False,True,False,False,2024,5.3
+USR1827,Fight Club,Short Film,Romance,Disney+,Smart TV,2024-11-04,16,Monday,November,20,False,4,78.1,Germany,Hindi,25-34,Standard,True,True,True,False,True,2018,7.1
+USR7476,The Social Network,Series,Thriller,Amazon Prime,Smart TV,2024-08-31,16,Saturday,August,30,False,3,71.2,Canada,Japanese,55+,Standard,True,True,True,False,False,2018,7.2
+USR8245,One Piece,Series,Drama,Netflix,Smart TV,2024-12-09,18,Monday,December,44,True,3,77.3,India,English,45-54,Basic,True,False,False,True,True,2022,5.6
+USR9952,Inception,Documentary,Documentary,Netflix,Laptop,2024-03-16,20,Saturday,March,71,True,1,91.7,Germany,Japanese,35-44,Premium,False,True,True,False,False,2020,8.0
+USR6901,Blue Eye Samurai,Movie,Sci-Fi,Disney+,Smart TV,2024-03-28,19,Thursday,March,144,True,2,66.2,India,French,35-44,Basic,True,False,True,True,False,2022,7.8
+USR1301,Chernobyl,Movie,Action,Amazon Prime,Desktop,2024-02-15,16,Thursday,February,160,True,4,91.0,Australia,Hindi,25-34,Premium,False,True,True,True,False,2024,7.3
+USR4726,Narcos,Short Film,Crime,Netflix,Smart TV,2024-01-16,23,Tuesday,January,26,True,5,81.6,USA,English,55+,Premium,True,True,True,True,False,2024,7.6
+USR3589,House of the Dragon,Documentary,Drama,Disney+,Mobile,2024-04-13,19,Saturday,April,63,True,5,99.0,India,Japanese,35-44,Basic,False,True,True,True,False,2021,9.9
+USR5372,Demon Slayer,Series,Crime,HBO Max,Desktop,2024-06-04,1,Tuesday,June,33,True,3,82.9,Canada,English,18-24,Standard,True,True,True,False,False,2023,9.1
+USR4646,Gone Girl,Series,Documentary,Amazon Prime,Smart TV,2024-11-28,22,Thursday,November,22,True,5,85.7,South Korea,Spanish,18-24,Premium,False,False,False,True,False,2019,7.5
+USR1630,Inception,Series,Thriller,Disney+,Mobile,2024-08-06,17,Tuesday,August,60,True,5,80.8,India,Hindi,45-54,Premium,True,True,False,True,False,2024,8.6
+USR9470,Shogun 2024,Short Film,Sci-Fi,Amazon Prime,Tablet,2024-11-18,18,Monday,November,19,False,3,86.0,UK,Japanese,18-24,Standard,True,True,False,False,False,2020,6.3
+USR2870,Zodiac,Movie,Comedy,HBO Max,Tablet,2024-08-18,20,Sunday,August,116,True,4,87.6,UK,Hindi,25-34,Basic,False,True,False,False,False,2024,6.9
+USR8311,Breaking Bad,Short Film,Action,Disney+,Smart TV,2024-03-28,12,Thursday,March,23,True,5,88.4,Canada,English,18-24,Basic,False,True,True,False,False,2018,6.7
+USR4401,Succession,Documentary,Sci-Fi,Disney+,Mobile,2024-11-07,21,Thursday,November,76,True,4,82.3,India,English,25-34,Free,True,True,False,True,True,2018,7.4
+USR1587,Poor Things,Short Film,Sci-Fi,Netflix,Laptop,2024-08-01,20,Thursday,August,24,True,4,81.8,Germany,English,45-54,Premium,False,False,True,False,True,2024,5.8
+USR5705,Peaky Blinders,Movie,Comedy,Netflix,Smart TV,2024-05-20,23,Monday,May,210,True,5,94.7,Canada,English,25-34,Premium,True,True,False,False,False,2021,7.7
+USR7783,The Bear,Documentary,Sci-Fi,Netflix,Smart TV,2024-04-02,20,Tuesday,April,71,True,5,91.6,USA,Japanese,35-44,Free,True,True,False,True,False,2020,8.0
+USR8774,The Bear,Movie,Drama,Amazon Prime,Mobile,2024-01-04,22,Thursday,January,161,True,3,99.0,Australia,Hindi,35-44,Premium,True,True,False,False,False,2024,6.7
+USR1510,Game of Thrones,Movie,Horror,Netflix,Mobile,2024-09-23,2,Monday,September,165,True,5,88.2,South Korea,Japanese,45-54,Standard,True,True,False,False,False,2020,8.8
+USR1612,Andor,Movie,Comedy,Amazon Prime,Smart TV,2024-12-29,9,Sunday,December,152,True,3,66.3,France,Hindi,13-17,Standard,True,True,False,False,False,2024,8.0
+USR2897,Dark S3,Movie,Documentary,Apple TV+,Desktop,2024-06-16,13,Sunday,June,192,True,5,83.1,USA,English,45-54,Premium,True,False,True,False,False,2018,6.7
+USR5483,Planet Earth III,Anime,Romance,Netflix,Smart TV,2024-10-22,4,Tuesday,October,43,True,5,82.8,India,Japanese,25-34,Basic,True,True,True,False,False,2019,8.5
+USR7421,Severance,Movie,Romance,Amazon Prime,Mobile,2024-03-28,13,Thursday,March,102,False,5,91.2,Australia,French,35-44,Standard,True,True,True,True,False,2024,8.1
+USR8625,Loki,Movie,Fantasy,Apple TV+,Mobile,2024-09-30,15,Monday,September,99,True,5,97.0,USA,English,45-54,Standard,False,True,False,False,False,2020,8.3
+USR2752,House of the Dragon,Series,Thriller,Netflix,Mobile,2024-08-20,6,Tuesday,August,58,True,4,88.7,Canada,English,25-34,Standard,False,True,True,True,False,2018,6.5
+USR8972,Planet Earth III,Movie,Horror,Amazon Prime,Desktop,2024-06-23,19,Sunday,June,119,False,5,78.3,Canada,Hindi,25-34,Premium,True,False,True,True,False,2024,6.8
+USR8421,Parasite,Movie,Romance,Netflix,Smart TV,2024-07-13,20,Saturday,July,75,True,5,91.8,USA,Japanese,25-34,Basic,False,True,False,False,False,2021,8.3
+USR6885,Planet Earth III,Short Film,Action,Disney+,Mobile,2024-06-25,23,Tuesday,June,27,False,2,94.0,Brazil,French,18-24,Standard,True,True,True,False,False,2023,5.4
+USR1257,Shogun 2024,Series,Sci-Fi,Amazon Prime,Desktop,2024-03-29,6,Friday,March,64,False,5,87.5,Germany,Hindi,25-34,Premium,True,True,True,False,False,2022,6.7
+USR4878,Zodiac,Series,Comedy,Amazon Prime,Tablet,2024-08-05,18,Monday,August,22,True,4,80.7,UK,Hindi,25-34,Basic,False,True,False,True,False,2023,7.7
+USR2279,Fight Club,Movie,Horror,HBO Max,Desktop,2024-02-10,11,Saturday,February,97,True,2,86.6,Canada,Spanish,25-34,Free,True,False,True,False,False,2023,6.0
+USR3770,Your Name,Series,Crime,Apple TV+,Smart TV,2024-06-18,11,Tuesday,June,58,True,5,99.0,India,Portuguese,45-54,Standard,True,True,False,False,False,2019,7.7
+USR4869,Black Mirror,Movie,Documentary,Netflix,Smart TV,2024-11-11,13,Monday,November,189,True,3,89.9,India,Hindi,13-17,Premium,False,True,False,False,False,2021,8.5
+USR8802,The Crown,Movie,Comedy,Disney+,Smart TV,2024-07-15,2,Monday,July,104,True,5,84.3,UK,German,55+,Basic,False,True,True,False,False,2020,6.2
+USR5466,Game of Thrones,Series,Drama,Amazon Prime,Desktop,2024-08-17,18,Saturday,August,49,True,4,93.1,USA,Spanish,25-34,Standard,True,True,True,False,False,2022,8.0
+USR4594,Breaking Bad,Anime,Mystery,Netflix,Smart TV,2024-06-21,3,Friday,June,38,True,4,88.0,USA,English,35-44,Free,False,False,True,False,True,2018,7.2
+USR2240,Fullmetal Alchemist,Documentary,Thriller,Disney+,Tablet,2024-02-14,11,Wednesday,February,68,True,5,65.9,UK,Portuguese,35-44,Standard,False,False,True,False,False,2018,6.0
+USR9061,Blue Eye Samurai,Series,Mystery,Netflix,Tablet,2024-07-14,18,Sunday,July,34,True,5,86.3,India,Spanish,18-24,Standard,False,True,True,True,False,2020,7.6
+USR9444,Zodiac,Movie,Comedy,Disney+,Smart TV,2024-08-16,22,Friday,August,159,True,3,92.7,France,Hindi,25-34,Premium,False,False,False,True,False,2024,7.5
+USR6571,Poor Things,Movie,Action,HBO Max,Smart TV,2024-09-03,13,Tuesday,September,98,True,5,84.1,Japan,Spanish,25-34,Basic,False,False,False,True,False,2018,7.6
+USR9856,The Social Network,Anime,Comedy,Apple TV+,Mobile,2024-11-18,11,Monday,November,40,True,1,85.8,USA,Japanese,45-54,Standard,False,True,True,False,True,2018,7.5
+USR1312,Loki,Documentary,Romance,Amazon Prime,Laptop,2024-04-18,1,Thursday,April,54,True,4,88.2,Brazil,Japanese,18-24,Standard,True,True,False,False,True,2022,6.8
+USR7586,House of the Dragon,Documentary,Thriller,Apple TV+,Smart TV,2024-03-28,14,Thursday,March,70,True,2,75.8,India,Korean,25-34,Basic,False,True,True,True,True,2020,6.3
+USR1256,Black Mirror,Anime,Sci-Fi,Amazon Prime,Smart TV,2024-03-13,18,Wednesday,March,42,True,3,85.4,India,English,55+,Standard,False,True,False,False,False,2019,8.7
+USR5934,Chernobyl,Movie,Drama,Amazon Prime,Smart TV,2024-04-15,18,Monday,April,202,False,4,90.6,USA,Japanese,18-24,Premium,False,True,False,False,False,2021,8.7
+USR1885,The Social Network,Anime,Drama,Netflix,Laptop,2024-11-16,8,Saturday,November,27,True,4,76.7,USA,English,25-34,Standard,False,True,True,True,False,2019,4.5
+USR2804,House of the Dragon,Series,Thriller,HBO Max,Laptop,2024-01-15,22,Monday,January,65,False,3,79.1,USA,English,25-34,Basic,False,True,False,True,False,2019,6.7
+USR5597,3 Body Problem,Series,Drama,Netflix,Laptop,2024-11-08,1,Friday,November,30,True,3,70.3,India,Hindi,25-34,Premium,True,True,True,False,False,2019,5.0
+USR5041,Squid Game,Short Film,Documentary,Netflix,Tablet,2024-10-22,11,Tuesday,October,24,True,4,58.7,USA,Japanese,45-54,Standard,True,True,True,False,True,2021,7.4
+USR4571,3 Body Problem,Movie,Action,Amazon Prime,Laptop,2024-09-15,19,Sunday,September,78,True,4,88.8,USA,English,55+,Free,False,True,True,False,False,2021,6.1
+USR9698,The Bear,Documentary,Documentary,Amazon Prime,Laptop,2024-08-25,13,Sunday,August,54,True,5,78.9,USA,Spanish,35-44,Standard,False,True,False,False,False,2018,8.1
+USR4354,3 Body Problem,Short Film,Romance,Apple TV+,Smart TV,2024-09-20,19,Friday,September,15,True,4,77.6,South Korea,English,18-24,Standard,False,True,False,True,False,2019,8.3
+USR9714,Fight Club,Series,Sci-Fi,Disney+,Smart TV,2024-06-13,21,Thursday,June,55,True,4,91.8,Japan,French,25-34,Basic,False,True,False,False,False,2021,7.6
+USR1371,Breaking Bad,Movie,Fantasy,Netflix,Desktop,2024-02-14,8,Wednesday,February,202,True,5,90.0,USA,Korean,55+,Standard,True,False,True,True,True,2024,7.8
+USR5982,Your Name,Documentary,Action,Amazon Prime,Mobile,2024-04-28,21,Sunday,April,112,True,4,77.1,India,Spanish,18-24,Basic,True,False,False,True,False,2021,5.6
+USR6187,Your Name,Series,Sci-Fi,Amazon Prime,Smart TV,2024-03-26,8,Tuesday,March,31,True,5,90.7,India,English,18-24,Standard,True,True,True,False,False,2019,8.7
+USR9313,Game of Thrones,Movie,Fantasy,Amazon Prime,Mobile,2024-09-30,23,Monday,September,76,True,4,90.4,Australia,English,45-54,Premium,False,False,False,False,False,2021,8.2
+USR1901,Demon Slayer,Anime,Horror,HBO Max,Smart TV,2024-06-22,15,Saturday,June,29,False,4,78.5,Australia,Japanese,18-24,Premium,True,True,False,False,False,2018,6.9
+USR5663,Chernobyl,Series,Comedy,Disney+,Mobile,2024-09-19,13,Thursday,September,49,True,4,96.1,USA,Portuguese,45-54,Free,False,True,False,False,False,2024,7.8
+USR7156,Poor Things,Anime,Comedy,Apple TV+,Mobile,2024-08-05,23,Monday,August,38,False,5,89.2,India,Japanese,25-34,Basic,True,True,False,True,False,2020,7.9
+USR8742,Planet Earth III,Series,Documentary,Netflix,Mobile,2024-10-10,8,Thursday,October,22,False,3,71.9,Australia,French,25-34,Standard,False,True,True,True,False,2018,7.3
+USR1287,Money Heist,Anime,Action,Disney+,Tablet,2024-11-02,13,Saturday,November,25,True,5,78.7,India,English,25-34,Premium,True,True,True,False,False,2020,6.3
+USR5932,Stranger Things,Movie,Action,HBO Max,Mobile,2024-01-25,17,Thursday,January,117,True,3,85.5,Australia,Korean,18-24,Standard,False,True,False,False,False,2020,6.5
+USR2867,Narcos,Movie,Sci-Fi,Netflix,Smart TV,2024-03-24,21,Sunday,March,209,True,5,93.8,UK,English,45-54,Premium,True,True,True,False,False,2022,6.3
+USR4438,3 Body Problem,Anime,Drama,Disney+,Smart TV,2024-09-24,19,Tuesday,September,26,True,5,87.2,South Korea,Hindi,35-44,Free,True,True,True,True,True,2023,6.5
+USR4277,Severance,Series,Comedy,HBO Max,Smart TV,2024-09-19,22,Thursday,September,29,True,3,84.6,Australia,English,18-24,Standard,True,True,True,False,False,2022,7.3
+USR2616,The Last of Us,Series,Thriller,Apple TV+,Laptop,2024-05-03,22,Friday,May,32,True,5,72.5,France,French,25-34,Standard,True,True,True,False,False,2021,6.9
+USR1665,Poor Things,Series,Comedy,Apple TV+,Smart TV,2024-04-19,19,Friday,April,45,True,4,75.5,USA,English,25-34,Standard,True,False,True,False,False,2024,7.5
+USR9563,Gone Girl,Movie,Thriller,Apple TV+,Mobile,2024-08-07,19,Wednesday,August,200,True,5,82.8,Australia,English,25-34,Standard,False,False,False,True,False,2019,6.6
+USR7557,Chernobyl,Movie,Documentary,Amazon Prime,Smart TV,2024-06-22,20,Saturday,June,144,True,5,76.6,UK,Japanese,25-34,Standard,True,False,True,True,False,2023,7.8
+USR2578,Dune Part Two,Movie,Horror,Apple TV+,Mobile,2024-03-09,8,Saturday,March,158,True,4,90.0,Australia,Hindi,25-34,Standard,True,True,False,False,False,2022,7.3
+USR5965,Zodiac,Movie,Anime,HBO Max,Tablet,2024-10-06,15,Sunday,October,188,False,5,91.4,India,Hindi,25-34,Basic,False,True,False,False,False,2021,8.0
+USR1739,3 Body Problem,Series,Sci-Fi,Netflix,Smart TV,2024-08-31,12,Saturday,August,40,False,5,78.4,Japan,English,35-44,Free,False,True,True,True,False,2020,6.6
+USR1612,WandaVision,Anime,Sci-Fi,Disney+,Mobile,2024-01-29,9,Monday,January,32,True,4,87.5,Australia,Hindi,25-34,Standard,True,True,True,True,False,2020,7.0
+USR8143,Andor,Movie,Comedy,Disney+,Smart TV,2024-10-20,18,Sunday,October,117,True,5,70.4,UK,French,35-44,Premium,True,True,True,False,False,2019,7.2
+USR2256,The Social Network,Anime,Thriller,Apple TV+,Smart TV,2024-11-15,14,Friday,November,37,True,5,83.5,Japan,Hindi,25-34,Standard,True,True,True,False,False,2022,7.6
+USR8106,Your Name,Documentary,Romance,Amazon Prime,Smart TV,2024-04-02,11,Tuesday,April,104,True,5,73.2,Germany,English,18-24,Standard,True,False,False,False,False,2024,7.2
+USR5023,The Crown,Series,Documentary,Netflix,Smart TV,2024-02-02,4,Friday,February,37,True,4,91.5,UK,Japanese,25-34,Standard,True,True,True,True,False,2023,8.6
+USR7668,The Wire,Movie,Documentary,HBO Max,Mobile,2024-10-08,21,Tuesday,October,151,True,2,99.0,Australia,French,25-34,Premium,False,True,False,False,True,2023,7.5
+USR4865,Peaky Blinders,Short Film,Crime,Netflix,Tablet,2024-10-24,21,Thursday,October,20,True,5,85.3,India,English,18-24,Basic,True,False,True,False,False,2018,7.8
+USR1570,Gone Girl,Series,Comedy,Netflix,Smart TV,2024-06-11,21,Tuesday,June,45,False,4,86.0,Japan,English,45-54,Standard,True,True,False,False,False,2023,6.6
+USR4857,The Crown,Series,Sci-Fi,Amazon Prime,Smart TV,2024-03-03,3,Sunday,March,41,True,5,99.0,India,French,45-54,Standard,False,False,True,True,False,2024,6.6
+USR9973,House of the Dragon,Series,Comedy,Apple TV+,Laptop,2024-09-08,16,Sunday,September,38,True,5,95.6,UK,English,18-24,Standard,False,False,True,False,False,2020,5.8
+USR8837,3 Body Problem,Movie,Sci-Fi,Amazon Prime,Desktop,2024-10-21,20,Monday,October,180,True,5,91.6,USA,Korean,45-54,Premium,True,True,True,False,False,2022,5.6
+USR7570,One Piece,Movie,Thriller,Amazon Prime,Laptop,2024-04-24,19,Wednesday,April,142,True,4,85.5,UK,English,18-24,Basic,False,True,False,False,False,2021,7.7
+USR4531,Breaking Bad,Series,Sci-Fi,Netflix,Desktop,2024-12-10,6,Tuesday,December,46,True,5,87.4,Germany,English,18-24,Premium,True,False,True,False,False,2022,6.4
+USR5198,Dune Part Two,Series,Thriller,Amazon Prime,Tablet,2024-12-16,19,Monday,December,46,True,3,92.9,India,English,25-34,Basic,False,False,False,False,False,2023,7.0
+USR9253,Black Mirror,Movie,Action,Amazon Prime,Desktop,2024-01-24,18,Wednesday,January,85,True,5,83.0,France,French,18-24,Basic,True,True,True,True,True,2024,6.7
+USR9049,Shogun 2024,Anime,Fantasy,Netflix,Tablet,2024-05-23,15,Thursday,May,32,False,4,74.7,Canada,German,35-44,Standard,True,True,True,False,True,2021,6.0
+USR3025,Chernobyl,Movie,Fantasy,Amazon Prime,Mobile,2024-08-11,21,Sunday,August,103,True,4,95.2,India,French,18-24,Basic,True,True,False,False,False,2018,7.1
+USR7458,The Wire,Anime,Sci-Fi,HBO Max,Smart TV,2024-09-26,19,Thursday,September,31,True,4,81.4,Canada,German,45-54,Basic,True,False,False,False,False,2022,7.2
+USR5635,House of the Dragon,Movie,Crime,Disney+,Desktop,2024-12-02,10,Monday,December,108,False,5,79.1,Japan,Korean,25-34,Standard,True,True,True,False,False,2018,8.8
+USR3151,Chernobyl,Movie,Anime,Netflix,Laptop,2024-04-16,20,Tuesday,April,185,True,4,82.7,Australia,French,25-34,Standard,False,True,False,False,False,2024,6.7
+USR9638,Fullmetal Alchemist,Series,Comedy,Amazon Prime,Smart TV,2024-07-07,19,Sunday,July,65,True,3,80.1,Australia,English,25-34,Free,False,True,False,False,False,2019,8.2
+USR5151,Chernobyl,Series,Action,Amazon Prime,Tablet,2024-09-24,19,Tuesday,September,51,True,4,75.5,USA,English,25-34,Free,False,True,True,False,True,2023,7.1
+USR5248,Fight Club,Movie,Horror,Disney+,Mobile,2024-06-01,10,Saturday,June,122,False,5,87.6,India,Japanese,13-17,Free,True,True,False,False,False,2022,6.3
+USR2833,Oppenheimer,Movie,Anime,Disney+,Laptop,2024-09-06,6,Friday,September,97,False,5,96.7,Australia,English,13-17,Standard,True,True,False,False,False,2018,6.8
+USR4975,Andor,Anime,Sci-Fi,Amazon Prime,Smart TV,2024-06-03,15,Monday,June,37,True,4,95.7,USA,Spanish,25-34,Basic,True,False,True,False,False,2022,6.2
+USR1311,Peaky Blinders,Anime,Mystery,Netflix,Mobile,2024-11-01,10,Friday,November,37,False,5,72.2,Canada,Japanese,25-34,Standard,False,True,False,False,False,2021,7.1
+USR7395,Narcos,Movie,Horror,Amazon Prime,Mobile,2024-01-11,6,Thursday,January,194,False,5,74.4,Japan,Korean,35-44,Premium,False,False,False,True,False,2023,7.1
+USR6878,Money Heist,Movie,Sci-Fi,Disney+,Smart TV,2024-09-04,17,Wednesday,September,128,True,4,63.0,USA,English,45-54,Premium,True,True,True,False,True,2019,9.0
+USR1826,The Mandalorian,Movie,Drama,Amazon Prime,Smart TV,2024-09-06,18,Friday,September,206,True,3,89.5,Japan,Portuguese,35-44,Premium,False,True,False,True,False,2022,6.6
+USR6959,Game of Thrones,Movie,Thriller,Netflix,Mobile,2024-02-23,20,Friday,February,202,False,5,83.3,Japan,English,18-24,Premium,False,True,False,False,False,2019,5.5
+USR7706,WandaVision,Movie,Horror,Amazon Prime,Laptop,2024-02-13,7,Tuesday,February,133,True,4,85.4,France,Hindi,35-44,Premium,True,False,False,False,True,2020,9.0
+USR9516,Breaking Bad,Series,Anime,Amazon Prime,Mobile,2024-06-10,2,Monday,June,58,True,3,99.0,USA,French,35-44,Premium,False,True,True,False,False,2022,7.8
+USR5940,Poor Things,Anime,Comedy,Netflix,Mobile,2024-03-16,14,Saturday,March,42,True,5,87.8,India,English,35-44,Standard,True,False,True,True,False,2022,5.6
+USR1982,The Wire,Anime,Sci-Fi,Netflix,Laptop,2024-06-23,14,Sunday,June,45,True,5,80.0,USA,Hindi,18-24,Premium,False,True,False,True,False,2019,6.8
+USR9514,Squid Game,Series,Fantasy,Disney+,Mobile,2024-10-24,19,Thursday,October,58,True,4,78.9,India,Hindi,18-24,Premium,True,True,True,False,True,2021,6.6
+USR8210,Se7en,Series,Comedy,Amazon Prime,Mobile,2024-03-07,18,Thursday,March,38,True,4,76.8,France,Hindi,55+,Premium,True,True,False,True,False,2024,6.5
+USR5744,The Bear,Movie,Sci-Fi,Amazon Prime,Laptop,2024-09-27,4,Friday,September,179,True,5,92.2,UK,English,25-34,Basic,True,True,True,False,False,2020,6.8
+USR7181,Loki,Movie,Anime,Amazon Prime,Smart TV,2024-05-25,17,Saturday,May,154,True,4,75.6,Japan,French,18-24,Free,False,False,False,True,False,2018,9.0
+USR3713,Zodiac,Anime,Comedy,Netflix,Mobile,2024-11-15,11,Friday,November,45,False,5,65.5,India,Japanese,35-44,Basic,False,True,True,False,False,2024,6.5
+USR8278,Poor Things,Short Film,Action,Disney+,Mobile,2024-01-28,11,Sunday,January,10,True,4,96.6,Japan,Japanese,25-34,Free,False,True,True,False,False,2020,7.4
+USR1965,One Piece,Movie,Thriller,Netflix,Smart TV,2024-07-14,22,Sunday,July,153,True,2,88.8,South Korea,English,35-44,Basic,True,True,False,True,False,2018,7.9
+USR2072,Loki,Movie,Horror,Disney+,Mobile,2024-01-27,12,Saturday,January,90,True,3,85.1,India,Japanese,45-54,Free,False,True,True,False,False,2019,6.1
+USR7942,Spirited Away,Series,Comedy,Apple TV+,Mobile,2024-06-04,20,Tuesday,June,32,True,4,85.9,UK,English,25-34,Premium,True,False,True,False,False,2022,6.6
+USR7476,Se7en,Documentary,Drama,Amazon Prime,Laptop,2024-05-08,17,Wednesday,May,113,False,2,76.8,India,English,25-34,Basic,True,True,False,True,False,2020,6.5
+USR1033,Demon Slayer,Movie,Horror,Amazon Prime,Smart TV,2024-11-21,0,Thursday,November,159,True,4,92.3,UK,German,35-44,Standard,False,True,False,False,False,2023,7.1
+USR1138,Planet Earth III,Movie,Thriller,Apple TV+,Laptop,2024-11-29,13,Friday,November,166,True,5,81.5,UK,German,25-34,Basic,True,True,False,False,True,2022,6.3
+USR7489,Planet Earth III,Movie,Horror,Netflix,Mobile,2024-11-16,0,Saturday,November,128,True,5,80.8,Brazil,Japanese,25-34,Standard,False,True,False,False,True,2019,7.9
+USR9731,One Piece,Movie,Crime,Apple TV+,Tablet,2024-02-03,23,Saturday,February,80,True,5,84.2,USA,Japanese,25-34,Premium,False,False,True,False,False,2021,6.3
+USR7420,Andor,Movie,Action,Amazon Prime,Mobile,2024-05-20,17,Monday,May,182,True,2,97.3,USA,French,45-54,Premium,True,True,False,False,False,2020,7.7
+USR6583,Succession,Movie,Romance,Netflix,Mobile,2024-06-08,11,Saturday,June,139,True,5,99.0,Japan,Hindi,18-24,Free,False,True,True,False,True,2018,7.5
+USR1914,Spirited Away,Series,Fantasy,Disney+,Laptop,2024-01-18,18,Thursday,January,61,False,2,98.3,India,French,25-34,Standard,True,False,False,False,False,2021,8.0
+USR2106,Attack on Titan,Documentary,Romance,Amazon Prime,Desktop,2024-08-07,4,Wednesday,August,69,False,4,86.8,Germany,English,35-44,Standard,True,True,False,False,False,2024,6.0
+USR6618,Breaking Bad,Movie,Drama,Amazon Prime,Desktop,2024-01-23,8,Tuesday,January,112,True,5,85.2,USA,English,35-44,Standard,True,True,False,False,False,2019,6.3
+USR6499,One Piece,Series,Sci-Fi,Netflix,Smart TV,2024-04-12,21,Friday,April,43,True,4,72.9,USA,English,18-24,Premium,False,True,False,False,False,2021,7.5
+USR1491,Spirited Away,Movie,Comedy,Apple TV+,Tablet,2024-11-15,13,Friday,November,76,False,4,87.7,India,English,18-24,Standard,False,True,True,True,True,2020,6.2
+USR2818,Game of Thrones,Movie,Action,Netflix,Smart TV,2024-03-30,13,Saturday,March,110,True,1,94.7,France,English,18-24,Premium,False,False,False,False,False,2023,5.2
+USR1756,One Piece,Movie,Fantasy,Netflix,Smart TV,2024-02-03,23,Saturday,February,184,False,4,72.9,Canada,French,25-34,Free,True,True,True,True,False,2022,6.9
+USR3932,House of the Dragon,Movie,Thriller,Amazon Prime,Laptop,2024-09-07,13,Saturday,September,205,True,5,93.8,Australia,Hindi,25-34,Premium,True,True,False,False,False,2019,7.7
+USR2376,Breaking Bad,Documentary,Comedy,Netflix,Smart TV,2024-04-22,11,Monday,April,92,False,3,78.1,UK,Hindi,35-44,Standard,False,True,True,False,False,2020,7.7
+USR5528,Wednesday,Series,Sci-Fi,Netflix,Laptop,2024-05-19,17,Sunday,May,54,False,5,82.9,India,English,13-17,Basic,True,True,True,False,False,2020,7.6
+USR7616,Ozark,Anime,Mystery,HBO Max,Laptop,2024-04-07,11,Sunday,April,31,True,1,83.9,Japan,Spanish,13-17,Standard,False,False,False,True,False,2019,4.8
+USR7843,The Last of Us,Movie,Action,Amazon Prime,Mobile,2024-08-30,14,Friday,August,123,True,2,87.9,UK,French,13-17,Free,False,True,False,False,False,2020,6.3
+USR6410,Your Name,Movie,Comedy,Disney+,Laptop,2024-06-22,22,Saturday,June,83,True,4,82.5,Canada,Japanese,35-44,Premium,False,True,True,False,False,2018,6.3
+USR2138,Mindhunter,Series,Comedy,HBO Max,Smart TV,2024-06-17,16,Monday,June,60,True,2,93.0,USA,English,35-44,Free,True,True,True,False,False,2019,8.1
+USR8778,Killers of the Flower Moon,Movie,Comedy,Disney+,Mobile,2024-02-26,14,Monday,February,154,True,5,89.5,Canada,German,35-44,Standard,False,True,True,True,True,2021,6.8
+USR6681,Se7en,Documentary,Action,HBO Max,Tablet,2024-11-05,19,Tuesday,November,81,True,5,74.8,Japan,Spanish,25-34,Premium,False,True,True,False,False,2021,7.6
+USR4559,Black Mirror,Movie,Action,Amazon Prime,Desktop,2024-12-03,19,Tuesday,December,149,False,4,86.0,USA,Spanish,18-24,Basic,False,True,False,False,True,2019,9.4
+USR2878,Zodiac,Movie,Thriller,Disney+,Laptop,2024-09-16,14,Monday,September,124,False,4,77.9,France,English,35-44,Standard,True,True,True,False,True,2024,7.4
+USR5476,Shogun 2024,Documentary,Sci-Fi,Netflix,Smart TV,2024-05-22,19,Wednesday,May,54,False,4,82.3,UK,English,35-44,Premium,True,True,True,False,False,2023,8.5
+USR2497,Oppenheimer,Documentary,Comedy,Netflix,Smart TV,2024-12-03,13,Tuesday,December,76,True,5,98.8,UK,Portuguese,25-34,Basic,False,True,False,False,False,2019,7.3
+USR4502,Blue Eye Samurai,Movie,Action,Apple TV+,Smart TV,2024-03-26,22,Tuesday,March,176,False,5,77.2,USA,English,25-34,Basic,True,True,True,False,False,2020,6.1
+USR6314,Fullmetal Alchemist,Movie,Sci-Fi,Netflix,Mobile,2024-01-23,11,Tuesday,January,118,False,4,88.7,Australia,Korean,55+,Standard,True,True,False,True,False,2021,7.1
+USR3032,The Crown,Movie,Romance,Disney+,Mobile,2024-02-04,10,Sunday,February,78,True,4,81.3,USA,Hindi,18-24,Free,True,True,True,False,False,2019,6.6
+USR1388,Wednesday,Short Film,Comedy,Apple TV+,Smart TV,2024-11-02,19,Saturday,November,23,False,2,79.2,Japan,English,18-24,Standard,False,True,True,False,False,2022,9.0
+USR3845,Attack on Titan,Series,Sci-Fi,Disney+,Smart TV,2024-07-14,22,Sunday,July,31,False,2,65.2,Canada,Spanish,18-24,Standard,True,True,True,True,False,2022,7.3
+USR8231,Peaky Blinders,Movie,Action,HBO Max,Smart TV,2024-05-07,14,Tuesday,May,167,True,5,90.9,UK,Korean,35-44,Premium,False,True,True,False,False,2020,6.2
+USR8688,Andor,Series,Action,Netflix,Mobile,2024-10-31,2,Thursday,October,52,True,4,82.8,India,English,13-17,Standard,False,True,False,False,False,2020,8.0
+USR5182,Chernobyl,Series,Romance,Disney+,Mobile,2024-07-15,8,Monday,July,58,True,4,99.0,UK,Hindi,35-44,Standard,False,False,False,True,True,2024,7.8
+USR3644,Dark S3,Series,Romance,Disney+,Laptop,2024-07-04,11,Thursday,July,38,True,5,84.4,India,English,35-44,Basic,False,False,True,False,False,2019,8.4
+USR6642,Shogun 2024,Movie,Drama,HBO Max,Laptop,2024-08-06,4,Tuesday,August,97,True,4,79.9,USA,English,35-44,Standard,True,True,False,True,False,2021,7.8
+USR4482,Severance,Series,Drama,Amazon Prime,Smart TV,2024-09-25,22,Wednesday,September,54,True,4,86.7,India,Korean,45-54,Basic,False,False,True,False,True,2023,7.7
+USR1118,Gone Girl,Movie,Thriller,Netflix,Smart TV,2024-03-26,0,Tuesday,March,100,True,4,90.8,Canada,Portuguese,18-24,Standard,True,True,False,False,False,2021,7.3
+USR6833,Game of Thrones,Series,Drama,Disney+,Smart TV,2024-06-21,13,Friday,June,47,False,4,82.6,Japan,English,45-54,Standard,False,False,True,True,False,2023,7.9
+USR1749,House of the Dragon,Series,Romance,Disney+,Mobile,2024-05-07,0,Tuesday,May,42,True,5,80.6,Australia,English,25-34,Standard,False,True,False,False,False,2023,7.6
+USR2426,The Crown,Short Film,Horror,Netflix,Smart TV,2024-12-24,1,Tuesday,December,26,True,4,91.0,Japan,Portuguese,55+,Standard,False,False,False,False,False,2019,8.2
+USR8803,Gone Girl,Anime,Thriller,HBO Max,Smart TV,2024-12-03,10,Tuesday,December,30,True,4,91.4,India,English,25-34,Standard,True,True,False,False,False,2022,6.8
+USR2895,Breaking Bad,Series,Drama,Disney+,Laptop,2024-02-03,20,Saturday,February,49,False,4,76.6,India,English,35-44,Premium,False,True,True,False,False,2022,8.3
+USR4639,Blue Eye Samurai,Movie,Action,Netflix,Mobile,2024-01-01,17,Monday,January,107,True,5,72.8,USA,Japanese,25-34,Free,False,False,False,False,False,2019,8.1
+USR9110,Breaking Bad,Documentary,Documentary,Netflix,Smart TV,2024-12-06,16,Friday,December,118,True,4,72.8,Australia,Hindi,55+,Basic,False,True,False,False,False,2018,7.2
+USR6706,Ozark,Documentary,Horror,Netflix,Tablet,2024-04-01,13,Monday,April,95,True,1,89.0,USA,Hindi,25-34,Standard,True,False,True,True,False,2022,6.9
+USR4205,The Social Network,Documentary,Horror,Amazon Prime,Smart TV,2024-01-28,10,Sunday,January,63,True,4,93.0,India,Korean,35-44,Standard,False,True,False,False,False,2018,8.5
+USR1556,Planet Earth III,Series,Comedy,HBO Max,Smart TV,2024-02-19,18,Monday,February,31,True,4,77.8,USA,Hindi,35-44,Premium,False,True,False,False,False,2024,7.1
+USR4685,Oppenheimer,Documentary,Romance,Netflix,Laptop,2024-08-25,19,Sunday,August,107,True,2,82.3,Canada,Portuguese,25-34,Standard,True,True,True,False,False,2020,7.6
+USR9684,Black Mirror,Movie,Drama,Disney+,Tablet,2024-10-19,17,Saturday,October,175,True,5,77.1,India,French,25-34,Premium,False,False,True,False,True,2024,6.9
+USR1573,Poor Things,Anime,Thriller,Amazon Prime,Smart TV,2024-11-02,17,Saturday,November,24,True,5,95.2,South Korea,Hindi,25-34,Standard,True,False,True,True,False,2022,7.6
+USR1732,Squid Game,Anime,Comedy,Disney+,Laptop,2024-05-30,16,Thursday,May,39,True,4,61.9,India,English,45-54,Basic,True,True,False,True,False,2021,6.7
+USR5413,Fullmetal Alchemist,Series,Sci-Fi,Disney+,Smart TV,2024-02-08,17,Thursday,February,31,False,5,66.5,Australia,English,25-34,Standard,False,True,True,True,False,2021,7.9
+USR5476,Shogun 2024,Movie,Romance,Netflix,Smart TV,2024-07-13,13,Saturday,July,97,True,2,92.8,Brazil,English,13-17,Basic,False,True,True,False,True,2023,8.1
+USR7382,Severance,Series,Anime,Netflix,Smart TV,2024-06-05,22,Wednesday,June,28,False,4,79.1,USA,Korean,55+,Standard,False,False,True,True,True,2022,6.8
+USR8500,Severance,Anime,Sci-Fi,Disney+,Smart TV,2024-03-20,19,Wednesday,March,29,True,4,95.0,UK,Hindi,25-34,Basic,False,True,False,False,False,2023,6.4
+USR5683,Spirited Away,Short Film,Comedy,Netflix,Smart TV,2024-02-14,18,Wednesday,February,15,False,5,96.4,France,Spanish,13-17,Premium,False,False,True,False,False,2023,8.1
+USR9652,Fight Club,Anime,Comedy,Disney+,Tablet,2024-09-29,13,Sunday,September,45,True,5,84.7,Canada,Japanese,55+,Standard,False,True,True,True,False,2022,5.5
+USR5752,The Crown,Short Film,Comedy,Amazon Prime,Mobile,2024-06-29,21,Saturday,June,27,True,4,98.4,UK,English,13-17,Standard,True,False,False,False,False,2018,8.8
+USR6808,Dark S3,Documentary,Documentary,Netflix,Smart TV,2024-08-25,22,Sunday,August,89,False,3,78.5,India,Hindi,18-24,Standard,True,True,False,True,False,2019,7.4
+USR8110,Dark S3,Series,Drama,Amazon Prime,Smart TV,2024-08-28,8,Wednesday,August,50,True,4,86.4,USA,French,18-24,Basic,True,True,False,False,True,2019,6.7
+USR7370,3 Body Problem,Short Film,Mystery,Netflix,Mobile,2024-09-02,16,Monday,September,22,True,3,72.9,India,English,13-17,Basic,True,False,True,False,False,2022,7.2
+USR5317,Se7en,Series,Drama,Amazon Prime,Laptop,2024-01-05,11,Friday,January,37,True,4,85.1,USA,Spanish,18-24,Standard,False,True,False,True,False,2022,7.8
+USR7231,Narcos,Series,Sci-Fi,Netflix,Smart TV,2024-11-18,10,Monday,November,61,True,4,99.0,UK,Korean,55+,Basic,True,True,True,True,True,2020,7.0
+USR2650,Peaky Blinders,Short Film,Horror,Netflix,Tablet,2024-05-23,10,Thursday,May,20,True,5,85.1,India,German,25-34,Basic,True,True,False,False,False,2023,7.2
+USR2971,The Bear,Anime,Action,Disney+,Smart TV,2024-07-04,6,Thursday,July,25,True,2,83.3,Canada,German,35-44,Basic,False,False,True,False,False,2023,8.6
+USR8347,Fullmetal Alchemist,Short Film,Sci-Fi,Disney+,Smart TV,2024-08-30,23,Friday,August,27,True,4,88.6,Australia,German,18-24,Standard,False,True,True,False,False,2019,8.5
+USR9344,Mindhunter,Movie,Action,Apple TV+,Laptop,2024-05-28,23,Tuesday,May,206,True,5,84.5,Canada,Hindi,35-44,Basic,True,True,False,True,False,2022,6.1
+USR1640,Fullmetal Alchemist,Series,Horror,Netflix,Tablet,2024-08-21,1,Wednesday,August,36,True,3,83.2,India,French,55+,Basic,False,True,True,False,False,2018,8.0
+USR1938,Fullmetal Alchemist,Movie,Romance,Amazon Prime,Smart TV,2024-11-28,22,Thursday,November,179,True,5,82.2,Japan,Spanish,18-24,Premium,True,False,False,False,False,2024,5.9
+USR7479,Shogun 2024,Movie,Horror,Amazon Prime,Laptop,2024-10-25,10,Friday,October,188,True,4,92.8,UK,Korean,25-34,Free,True,True,True,False,True,2022,6.1
+USR5018,WandaVision,Short Film,Sci-Fi,Netflix,Smart TV,2024-09-08,2,Sunday,September,16,False,5,96.1,Brazil,Portuguese,18-24,Standard,False,False,False,False,True,2024,5.9
+USR2742,Parasite,Anime,Romance,Netflix,Smart TV,2024-01-07,20,Sunday,January,22,False,5,88.8,Germany,English,35-44,Basic,True,True,True,True,False,2019,7.5
+USR1019,Wednesday,Movie,Horror,Disney+,Smart TV,2024-05-04,21,Saturday,May,205,True,4,86.7,India,Hindi,18-24,Standard,True,False,True,False,False,2018,6.7
+USR3917,Peaky Blinders,Movie,Thriller,Netflix,Desktop,2024-09-08,22,Sunday,September,96,True,3,78.1,UK,Japanese,35-44,Basic,False,True,False,True,True,2021,8.4
+USR8318,Loki,Series,Sci-Fi,HBO Max,Laptop,2024-12-04,8,Wednesday,December,63,True,5,88.8,Japan,English,25-34,Standard,True,True,True,False,False,2021,5.1
+USR9745,Black Mirror,Series,Mystery,Disney+,Laptop,2024-08-05,14,Monday,August,46,True,5,97.4,UK,Spanish,25-34,Standard,True,True,False,False,False,2019,9.2
+USR3283,Breaking Bad,Movie,Mystery,Netflix,Mobile,2024-07-04,13,Thursday,July,164,True,2,99.0,UK,French,25-34,Premium,True,True,True,False,True,2023,6.5
+USR1494,Shogun 2024,Movie,Horror,Disney+,Mobile,2024-12-26,21,Thursday,December,197,True,4,88.6,USA,English,18-24,Standard,False,True,True,False,False,2023,7.4
+USR9245,Killers of the Flower Moon,Series,Horror,Amazon Prime,Laptop,2024-06-02,1,Sunday,June,63,True,2,88.9,India,French,35-44,Premium,False,False,False,False,False,2021,7.2
+USR2264,Se7en,Movie,Thriller,Amazon Prime,Desktop,2024-03-21,9,Thursday,March,175,True,2,84.7,UK,English,35-44,Premium,True,False,False,True,True,2018,6.1
+USR1530,Squid Game,Series,Documentary,Netflix,Smart TV,2024-07-04,9,Thursday,July,41,True,4,82.2,USA,Portuguese,25-34,Standard,False,True,True,False,True,2020,7.1
+USR2654,Interstellar,Short Film,Action,Netflix,Mobile,2024-05-24,14,Friday,May,20,True,5,82.4,Japan,English,35-44,Basic,False,False,True,True,False,2023,7.7
+USR9573,Game of Thrones,Short Film,Sci-Fi,Netflix,Laptop,2024-02-17,16,Saturday,February,26,True,5,93.1,UK,English,25-34,Standard,False,True,False,False,False,2022,8.6
+USR3780,Breaking Bad,Movie,Sci-Fi,Disney+,Mobile,2024-11-06,16,Wednesday,November,97,True,5,86.5,India,English,25-34,Free,True,False,True,False,False,2021,6.6
+USR7008,Interstellar,Short Film,Crime,HBO Max,Mobile,2024-11-28,22,Thursday,November,29,True,4,80.7,Japan,German,25-34,Standard,True,True,False,False,False,2023,7.9
+USR8573,Gone Girl,Anime,Sci-Fi,Apple TV+,Smart TV,2024-01-30,21,Tuesday,January,34,True,3,89.0,India,Hindi,35-44,Premium,True,True,False,False,False,2024,6.5
+USR8699,Shogun 2024,Movie,Drama,Netflix,Desktop,2024-08-09,15,Friday,August,146,True,4,72.6,Australia,English,13-17,Standard,True,False,True,False,False,2018,7.3
+USR8396,Narcos,Documentary,Crime,Disney+,Smart TV,2024-04-18,3,Thursday,April,96,True,2,82.8,UK,Korean,25-34,Premium,True,False,True,False,True,2020,6.9
+USR4253,Dune Part Two,Series,Action,Apple TV+,Desktop,2024-08-02,17,Friday,August,22,True,4,68.7,Germany,Japanese,18-24,Standard,False,False,False,False,True,2021,8.1
+USR2596,The Bear,Series,Drama,Apple TV+,Laptop,2024-03-16,18,Saturday,March,30,True,5,84.0,India,Portuguese,25-34,Standard,True,True,True,False,False,2022,9.0
+USR9887,Peaky Blinders,Series,Drama,Netflix,Smart TV,2024-01-08,14,Monday,January,51,True,4,86.7,UK,Spanish,18-24,Basic,True,True,False,False,False,2024,6.7
+USR7738,Blue Eye Samurai,Anime,Comedy,Netflix,Laptop,2024-12-03,3,Tuesday,December,25,False,5,99.0,UK,Spanish,55+,Free,True,True,True,True,False,2019,6.2
+USR1124,The Wire,Series,Thriller,Apple TV+,Desktop,2024-08-20,19,Tuesday,August,63,True,4,76.6,Germany,Hindi,25-34,Standard,True,False,False,False,True,2021,8.8
+USR4156,One Piece,Movie,Sci-Fi,Amazon Prime,Tablet,2024-01-17,11,Wednesday,January,185,True,4,89.6,Australia,Spanish,45-54,Standard,True,True,False,True,False,2022,5.9
+USR3605,House of the Dragon,Series,Thriller,Apple TV+,Mobile,2024-03-22,22,Friday,March,62,True,5,75.5,India,English,25-34,Standard,False,True,False,False,True,2021,5.8
+USR7194,Money Heist,Anime,Thriller,Amazon Prime,Laptop,2024-01-13,9,Saturday,January,31,True,5,81.3,Australia,English,55+,Standard,False,True,True,False,False,2018,7.8
+USR8971,Fullmetal Alchemist,Movie,Fantasy,Netflix,Mobile,2024-03-13,20,Wednesday,March,200,True,4,75.2,India,Korean,25-34,Basic,False,False,True,True,True,2022,8.8
+USR2992,Andor,Series,Thriller,HBO Max,Desktop,2024-11-19,17,Tuesday,November,32,False,4,74.0,Canada,Japanese,25-34,Premium,True,True,False,True,True,2018,7.4
+USR4163,Money Heist,Short Film,Sci-Fi,Amazon Prime,Desktop,2024-12-20,15,Friday,December,25,True,4,79.1,India,Korean,45-54,Basic,True,True,False,True,False,2023,8.3
+USR2052,The Mandalorian,Series,Comedy,Disney+,Smart TV,2024-09-06,17,Friday,September,34,True,4,83.4,India,English,25-34,Standard,True,False,False,False,False,2018,7.7
+USR1178,Zodiac,Movie,Drama,Apple TV+,Mobile,2024-02-28,5,Wednesday,February,155,True,4,95.5,USA,Hindi,45-54,Premium,False,True,False,False,True,2020,7.9
+USR9092,Black Mirror,Short Film,Anime,Disney+,Mobile,2024-11-07,10,Thursday,November,20,False,4,77.7,India,English,18-24,Standard,False,True,True,True,True,2024,5.9
+USR8698,Blue Eye Samurai,Short Film,Fantasy,Netflix,Tablet,2024-10-21,13,Monday,October,11,False,5,71.1,Japan,Hindi,25-34,Basic,True,True,False,False,True,2020,8.5
+USR2722,House of the Dragon,Short Film,Comedy,Disney+,Tablet,2024-12-22,2,Sunday,December,17,False,3,95.4,Brazil,Korean,18-24,Free,False,False,False,False,True,2023,5.0
+USR3257,Attack on Titan,Movie,Anime,Netflix,Desktop,2024-01-27,11,Saturday,January,172,True,5,91.4,UK,English,45-54,Premium,False,False,True,False,True,2022,7.6
+USR4971,Gone Girl,Series,Romance,HBO Max,Smart TV,2024-05-03,19,Friday,May,40,True,4,84.3,Australia,French,35-44,Free,True,True,False,False,False,2021,6.4
+USR3130,Wednesday,Movie,Anime,Apple TV+,Mobile,2024-02-23,21,Friday,February,114,False,5,77.5,France,Hindi,25-34,Standard,True,True,True,False,False,2024,9.6
+USR6766,Money Heist,Series,Sci-Fi,Apple TV+,Laptop,2024-10-22,16,Tuesday,October,23,True,3,86.0,India,Japanese,25-34,Basic,True,True,True,False,False,2018,9.5
+USR5078,Planet Earth III,Series,Fantasy,Netflix,Smart TV,2024-11-28,14,Thursday,November,55,True,4,87.9,India,English,13-17,Basic,True,True,True,False,False,2021,8.0
+USR1050,Blue Eye Samurai,Movie,Horror,Apple TV+,Smart TV,2024-07-20,19,Saturday,July,148,True,4,88.9,India,German,35-44,Standard,False,True,True,False,True,2020,9.1
+USR1016,Black Mirror,Movie,Thriller,Amazon Prime,Smart TV,2024-08-21,18,Wednesday,August,77,True,2,87.8,Brazil,Hindi,13-17,Free,False,True,True,False,False,2024,8.0
+USR6777,The Crown,Movie,Anime,Amazon Prime,Mobile,2024-02-18,13,Sunday,February,139,False,5,79.1,Australia,French,35-44,Premium,False,True,True,False,False,2018,8.3
+USR4175,Mindhunter,Short Film,Documentary,Disney+,Smart TV,2024-03-16,13,Saturday,March,23,True,5,79.0,Canada,Portuguese,45-54,Standard,False,True,False,False,False,2023,7.2
+USR8455,Your Name,Documentary,Comedy,Amazon Prime,Desktop,2024-06-27,21,Thursday,June,88,True,4,84.2,South Korea,Spanish,25-34,Premium,True,True,True,True,False,2022,7.5
+USR1083,Peaky Blinders,Anime,Drama,Netflix,Laptop,2024-10-12,5,Saturday,October,40,True,4,87.3,USA,French,13-17,Free,False,False,False,False,False,2018,7.2
+USR7923,Ozark,Movie,Horror,Amazon Prime,Tablet,2024-05-18,21,Saturday,May,138,True,5,84.5,South Korea,English,25-34,Basic,True,True,False,True,False,2023,7.5
+USR8158,Blue Eye Samurai,Movie,Comedy,Netflix,Smart TV,2024-04-12,13,Friday,April,121,True,4,79.6,India,Hindi,25-34,Premium,False,True,True,False,False,2018,9.6
+USR5806,Succession,Movie,Anime,Netflix,Smart TV,2024-10-13,6,Sunday,October,170,True,4,96.7,Germany,Hindi,25-34,Free,False,False,True,True,True,2024,6.1
+USR4359,Inception,Movie,Action,Apple TV+,Mobile,2024-11-28,20,Thursday,November,205,False,3,79.2,India,Korean,25-34,Basic,False,False,True,True,False,2018,5.2
+USR8271,Ozark,Series,Sci-Fi,Netflix,Smart TV,2024-09-05,16,Thursday,September,28,True,4,92.1,India,English,25-34,Premium,False,False,False,False,False,2024,6.3
+USR5742,Gone Girl,Series,Comedy,Disney+,Smart TV,2024-12-02,10,Monday,December,56,True,3,89.9,India,Japanese,25-34,Basic,True,False,True,False,True,2020,5.7
+USR8509,Stranger Things,Movie,Drama,Disney+,Smart TV,2024-08-22,23,Thursday,August,165,True,4,78.1,India,English,25-34,Premium,True,False,False,False,True,2019,5.9
+USR8925,Mindhunter,Anime,Action,Amazon Prime,Tablet,2024-06-29,2,Saturday,June,34,True,5,93.9,South Korea,Japanese,18-24,Standard,True,True,True,False,False,2022,8.7
+USR4793,Squid Game,Series,Documentary,Netflix,Smart TV,2024-06-27,22,Thursday,June,53,True,5,84.4,India,French,35-44,Basic,False,False,True,True,True,2023,6.4
+USR4272,Andor,Series,Drama,Disney+,Smart TV,2024-02-07,23,Wednesday,February,30,True,4,86.8,USA,Hindi,25-34,Basic,True,False,False,True,False,2023,7.7
+USR9653,Black Mirror,Movie,Thriller,Netflix,Smart TV,2024-12-08,9,Sunday,December,162,True,5,86.6,India,English,45-54,Standard,True,False,False,False,False,2023,5.8
+USR5749,Money Heist,Documentary,Action,Netflix,Mobile,2024-07-11,12,Thursday,July,114,True,2,92.6,USA,Hindi,45-54,Basic,True,True,True,False,False,2020,8.0
+USR6481,Succession,Series,Action,HBO Max,Mobile,2024-07-23,13,Tuesday,July,24,True,5,99.0,India,Japanese,35-44,Premium,False,False,True,True,False,2022,6.0
+USR1683,Blue Eye Samurai,Documentary,Anime,Amazon Prime,Smart TV,2024-12-25,16,Wednesday,December,115,False,5,73.7,India,Hindi,35-44,Standard,True,False,False,True,True,2024,8.1
+USR3257,Planet Earth III,Series,Documentary,Disney+,Laptop,2024-04-10,14,Wednesday,April,30,True,5,82.5,UK,French,55+,Basic,True,True,True,True,False,2019,7.1
+USR3958,Breaking Bad,Anime,Fantasy,Apple TV+,Mobile,2024-07-30,2,Tuesday,July,23,True,5,86.4,India,English,35-44,Basic,True,True,True,True,True,2020,7.2
+USR5001,Inception,Movie,Horror,Apple TV+,Tablet,2024-10-05,20,Saturday,October,168,True,4,90.5,Brazil,English,25-34,Free,True,True,False,False,True,2019,6.3
+USR2871,Oppenheimer,Movie,Horror,Netflix,Mobile,2024-09-23,19,Monday,September,187,True,5,86.8,UK,English,25-34,Basic,False,True,True,False,False,2024,6.6
+USR6508,Money Heist,Series,Thriller,Netflix,Smart TV,2024-07-14,20,Sunday,July,56,True,4,82.6,Japan,Japanese,35-44,Basic,False,True,True,False,False,2018,7.4
+USR7247,WandaVision,Series,Crime,HBO Max,Smart TV,2024-02-25,20,Sunday,February,58,True,4,94.9,Germany,German,18-24,Free,False,False,True,True,False,2020,7.1
+USR5333,Severance,Series,Romance,Amazon Prime,Laptop,2024-10-19,12,Saturday,October,29,True,4,88.0,UK,English,13-17,Free,True,True,False,False,False,2018,5.2
+USR3406,One Piece,Documentary,Action,HBO Max,Mobile,2024-05-21,6,Tuesday,May,108,True,4,84.3,Australia,English,35-44,Basic,True,True,True,False,False,2023,9.1
+USR9372,Dune Part Two,Short Film,Thriller,Apple TV+,Tablet,2024-05-12,2,Sunday,May,13,True,4,82.7,USA,English,25-34,Premium,True,True,False,True,False,2024,7.1
+USR1418,Blue Eye Samurai,Movie,Comedy,Disney+,Mobile,2024-07-03,12,Wednesday,July,86,True,3,96.0,Canada,Spanish,25-34,Premium,True,True,True,True,False,2018,6.9
+USR7849,Parasite,Anime,Drama,HBO Max,Smart TV,2024-12-02,23,Monday,December,38,True,3,99.0,Germany,French,25-34,Free,True,True,True,True,False,2020,8.4
+USR6929,Poor Things,Movie,Anime,HBO Max,Smart TV,2024-05-04,20,Saturday,May,188,True,5,76.5,USA,Hindi,45-54,Standard,False,True,True,False,False,2019,9.9
+USR3431,Your Name,Movie,Fantasy,Disney+,Laptop,2024-10-02,3,Wednesday,October,105,True,4,73.8,UK,French,18-24,Basic,True,True,True,False,False,2021,6.0
+USR7591,Se7en,Movie,Thriller,Amazon Prime,Laptop,2024-02-21,22,Wednesday,February,174,True,5,89.3,Canada,Korean,18-24,Premium,False,True,False,False,True,2023,7.2
+USR9345,Poor Things,Short Film,Fantasy,Disney+,Laptop,2024-06-30,20,Sunday,June,15,True,5,72.6,India,English,35-44,Standard,True,True,True,False,False,2024,7.9
+USR3923,Shogun 2024,Movie,Comedy,Netflix,Mobile,2024-02-19,12,Monday,February,148,False,5,75.6,India,German,45-54,Standard,True,True,False,True,False,2019,7.0
+USR3310,Blue Eye Samurai,Movie,Comedy,Netflix,Smart TV,2024-03-01,22,Friday,March,102,True,4,90.8,India,French,35-44,Free,False,False,False,False,True,2024,6.9
+USR2965,The Mandalorian,Series,Drama,HBO Max,Mobile,2024-01-14,19,Sunday,January,29,True,4,81.1,Brazil,Hindi,18-24,Free,True,True,False,False,False,2019,7.4
+USR2645,Zodiac,Movie,Action,Netflix,Laptop,2024-02-08,22,Thursday,February,155,False,5,71.2,Japan,English,45-54,Standard,False,True,False,True,True,2021,7.0
+USR4509,Dark S3,Anime,Sci-Fi,Netflix,Tablet,2024-04-22,22,Monday,April,24,True,3,84.3,UK,Hindi,35-44,Standard,True,True,False,False,False,2020,6.3
+USR8880,Breaking Bad,Series,Crime,Apple TV+,Tablet,2024-09-04,14,Wednesday,September,62,True,4,93.4,India,English,45-54,Premium,True,False,True,False,True,2021,6.0
+USR5766,Stranger Things,Anime,Drama,Amazon Prime,Smart TV,2024-06-12,14,Wednesday,June,41,True,5,96.3,UK,French,35-44,Free,False,True,True,False,False,2021,5.8
+USR2807,One Piece,Short Film,Sci-Fi,Disney+,Smart TV,2024-05-13,21,Monday,May,28,True,4,87.9,Canada,English,25-34,Premium,True,True,False,True,False,2024,6.3
+USR7125,Game of Thrones,Movie,Thriller,Netflix,Mobile,2024-10-10,12,Thursday,October,133,True,4,99.0,USA,Japanese,18-24,Free,False,False,False,False,False,2018,7.0
+USR5423,Poor Things,Movie,Thriller,Disney+,Laptop,2024-03-21,19,Thursday,March,171,True,5,98.0,India,Hindi,35-44,Standard,True,False,False,False,True,2022,7.6
+USR8723,Mindhunter,Movie,Romance,Netflix,Smart TV,2024-07-19,3,Friday,July,126,True,4,83.3,USA,English,55+,Standard,True,False,False,True,True,2021,7.2
+USR6089,Game of Thrones,Short Film,Anime,Disney+,Mobile,2024-07-20,13,Saturday,July,24,True,5,83.4,India,Japanese,18-24,Standard,True,False,False,True,False,2024,7.1
+USR7660,Dark S3,Series,Documentary,Apple TV+,Smart TV,2024-08-30,1,Friday,August,31,True,5,76.8,USA,English,25-34,Standard,True,False,True,False,False,2022,7.2
+USR1639,Peaky Blinders,Short Film,Comedy,Netflix,Smart TV,2024-02-11,15,Sunday,February,16,True,3,94.7,UK,Japanese,25-34,Free,False,True,True,True,False,2023,7.3
+USR8583,The Last of Us,Movie,Drama,Apple TV+,Mobile,2024-12-12,16,Thursday,December,170,True,5,88.3,France,German,35-44,Premium,True,True,False,True,False,2019,8.0
+USR2093,Chernobyl,Movie,Mystery,Netflix,Smart TV,2024-08-28,18,Wednesday,August,90,True,4,81.6,Canada,French,25-34,Free,True,True,False,False,False,2020,5.9
+USR2676,3 Body Problem,Anime,Crime,Disney+,Laptop,2024-11-15,11,Friday,November,28,True,3,88.1,Japan,Japanese,35-44,Basic,False,True,True,False,False,2023,8.6
+USR1855,3 Body Problem,Movie,Thriller,Netflix,Smart TV,2024-08-30,21,Friday,August,196,True,3,95.0,UK,Hindi,35-44,Basic,True,True,False,False,False,2021,6.5
+USR8235,Black Mirror,Movie,Action,Amazon Prime,Tablet,2024-06-30,19,Sunday,June,146,True,5,95.9,Australia,English,18-24,Premium,False,True,False,False,False,2020,4.9
+USR4193,Dark S3,Movie,Action,HBO Max,Desktop,2024-08-05,9,Monday,August,77,True,5,81.3,Canada,English,45-54,Premium,True,True,True,False,False,2021,7.7
+USR9033,Severance,Short Film,Horror,Netflix,Smart TV,2024-01-23,23,Tuesday,January,25,True,5,83.2,UK,French,35-44,Premium,True,True,False,True,False,2024,7.1
+USR1273,Game of Thrones,Movie,Documentary,Netflix,Mobile,2024-03-08,23,Friday,March,146,True,5,83.3,Japan,French,25-34,Standard,False,True,False,False,False,2021,6.3
+USR9281,Narcos,Documentary,Romance,Netflix,Tablet,2024-08-01,1,Thursday,August,101,True,2,72.1,India,Korean,45-54,Free,True,True,True,False,False,2022,7.2
+USR7136,WandaVision,Movie,Fantasy,Netflix,Smart TV,2024-08-25,20,Sunday,August,118,True,1,80.4,India,Korean,18-24,Premium,False,False,True,False,True,2018,8.6
+USR8202,Money Heist,Anime,Sci-Fi,Netflix,Smart TV,2024-07-13,23,Saturday,July,27,True,5,85.8,India,Hindi,25-34,Premium,True,False,False,True,False,2022,7.9
+USR5406,Poor Things,Movie,Action,HBO Max,Mobile,2024-07-16,19,Tuesday,July,162,True,4,77.6,UK,English,18-24,Basic,False,True,False,False,False,2020,5.9
+USR2641,Severance,Series,Romance,HBO Max,Smart TV,2024-07-09,14,Tuesday,July,32,True,5,91.0,France,English,25-34,Basic,True,False,True,False,False,2021,7.8
+USR9306,Blue Eye Samurai,Documentary,Sci-Fi,Amazon Prime,Smart TV,2024-08-30,20,Friday,August,74,True,5,82.1,UK,Spanish,55+,Standard,True,True,False,False,False,2022,6.4
+USR3708,WandaVision,Short Film,Action,Netflix,Laptop,2024-04-11,20,Thursday,April,14,True,3,85.6,India,English,45-54,Basic,True,True,True,True,False,2023,6.8
+USR4977,Blue Eye Samurai,Documentary,Drama,Amazon Prime,Smart TV,2024-10-11,19,Friday,October,105,True,5,73.0,USA,English,55+,Basic,True,True,False,False,False,2022,7.5
+USR7523,Dune Part Two,Movie,Romance,HBO Max,Smart TV,2024-02-06,13,Tuesday,February,167,True,4,88.8,Australia,English,18-24,Basic,True,True,False,False,False,2021,6.7
+USR2661,The Social Network,Documentary,Thriller,HBO Max,Mobile,2024-12-11,20,Wednesday,December,104,True,5,91.3,Brazil,Spanish,13-17,Basic,False,True,True,False,False,2021,8.6
+USR9765,The Wire,Documentary,Drama,Netflix,Laptop,2024-08-04,20,Sunday,August,92,True,4,73.5,India,English,25-34,Premium,False,True,True,False,False,2020,6.0
+USR7050,Money Heist,Series,Romance,Apple TV+,Mobile,2024-04-11,13,Thursday,April,51,True,5,82.8,UK,Korean,35-44,Free,True,True,True,False,False,2018,7.3
+USR5500,Chernobyl,Movie,Horror,Amazon Prime,Mobile,2024-11-01,18,Friday,November,112,True,3,89.5,South Korea,Korean,18-24,Premium,False,False,False,False,True,2020,8.4
+USR5208,The Social Network,Movie,Mystery,Disney+,Tablet,2024-01-20,14,Saturday,January,152,False,2,68.5,Germany,English,45-54,Premium,False,True,False,False,False,2024,9.3
+USR7531,Severance,Anime,Thriller,Disney+,Smart TV,2024-05-04,11,Saturday,May,27,True,5,90.9,Australia,English,25-34,Free,True,True,True,False,False,2020,6.9
+USR7374,Loki,Movie,Thriller,Amazon Prime,Smart TV,2024-02-19,18,Monday,February,182,True,5,82.0,France,English,25-34,Basic,True,True,False,True,False,2023,8.9
+USR5981,Breaking Bad,Movie,Thriller,Apple TV+,Desktop,2024-07-18,20,Thursday,July,128,True,4,78.0,Germany,Hindi,25-34,Basic,False,True,False,False,False,2024,6.2
+USR2812,Your Name,Series,Comedy,Netflix,Desktop,2024-05-25,14,Saturday,May,28,True,5,92.4,USA,French,35-44,Premium,False,True,True,True,False,2020,8.3
+USR9107,WandaVision,Documentary,Romance,Disney+,Laptop,2024-06-12,14,Wednesday,June,113,True,4,77.4,USA,German,18-24,Premium,True,True,False,False,False,2023,6.0
+USR7697,Oppenheimer,Series,Romance,HBO Max,Mobile,2024-02-20,16,Tuesday,February,61,False,3,77.7,USA,English,25-34,Standard,True,True,False,False,False,2022,6.0
+USR1506,The Last of Us,Documentary,Documentary,Netflix,Mobile,2024-09-18,12,Wednesday,September,70,True,5,88.5,Canada,Hindi,35-44,Standard,True,True,True,False,False,2024,6.7
+USR7313,Dune Part Two,Documentary,Fantasy,Netflix,Laptop,2024-06-18,21,Tuesday,June,97,True,5,97.0,Germany,German,45-54,Standard,False,True,False,False,False,2024,8.0
+USR3391,Money Heist,Movie,Comedy,Apple TV+,Laptop,2024-01-31,14,Wednesday,January,187,False,4,76.7,Germany,Japanese,45-54,Standard,True,True,True,True,False,2020,8.5
+USR5225,Your Name,Movie,Horror,Amazon Prime,Laptop,2024-02-19,12,Monday,February,188,True,4,85.2,USA,English,18-24,Standard,True,False,False,False,False,2023,5.3
+USR4734,Oppenheimer,Series,Drama,Disney+,Laptop,2024-03-22,12,Friday,March,60,True,3,93.2,Brazil,Japanese,18-24,Free,True,True,False,False,False,2019,8.8
+USR7223,Dark S3,Series,Action,Amazon Prime,Mobile,2024-06-25,16,Tuesday,June,55,True,5,71.8,Australia,English,18-24,Basic,True,True,False,True,False,2021,8.9
+USR2619,Game of Thrones,Series,Romance,Netflix,Laptop,2024-08-23,13,Friday,August,34,False,5,90.9,UK,English,55+,Premium,True,True,False,False,False,2019,5.4
+USR4113,Dune Part Two,Documentary,Sci-Fi,HBO Max,Tablet,2024-05-11,17,Saturday,May,79,False,3,86.7,Brazil,English,25-34,Basic,True,False,True,True,False,2018,8.9
+USR8041,Planet Earth III,Documentary,Thriller,Amazon Prime,Mobile,2024-06-12,12,Wednesday,June,107,False,4,81.4,Australia,Hindi,35-44,Standard,False,False,False,True,False,2020,7.3
+USR6059,Fullmetal Alchemist,Series,Drama,Amazon Prime,Smart TV,2024-09-09,11,Monday,September,43,True,4,81.2,UK,Portuguese,55+,Standard,True,False,True,True,True,2021,6.5
+USR6243,Inception,Movie,Fantasy,Amazon Prime,Laptop,2024-12-10,10,Tuesday,December,134,True,5,80.1,UK,Korean,55+,Basic,False,True,True,False,True,2019,7.0
+USR5974,The Wire,Anime,Drama,Amazon Prime,Mobile,2024-11-08,22,Friday,November,29,True,5,78.1,India,English,25-34,Standard,True,True,True,False,False,2021,6.6
+USR7119,Oppenheimer,Short Film,Drama,Apple TV+,Desktop,2024-01-29,19,Monday,January,16,True,5,85.2,USA,Spanish,25-34,Standard,True,True,False,False,True,2019,7.0
+USR7144,Succession,Movie,Comedy,Disney+,Mobile,2024-03-23,11,Saturday,March,199,True,5,87.4,India,Japanese,25-34,Basic,False,True,True,False,False,2024,7.1
+USR9700,Breaking Bad,Documentary,Documentary,Disney+,Mobile,2024-07-30,20,Tuesday,July,114,False,4,77.0,Australia,English,35-44,Premium,False,False,False,False,False,2023,6.8
+USR8001,Ozark,Movie,Comedy,Amazon Prime,Smart TV,2024-04-19,7,Friday,April,80,True,4,79.5,Japan,Spanish,45-54,Free,False,True,False,False,False,2024,5.7
+USR2437,Your Name,Documentary,Comedy,Disney+,Laptop,2024-06-16,17,Sunday,June,59,True,5,84.0,France,Japanese,55+,Premium,False,True,True,False,False,2023,5.8
+USR5813,Dark S3,Anime,Thriller,Disney+,Smart TV,2024-03-18,22,Monday,March,35,True,5,72.9,Canada,Hindi,13-17,Basic,True,False,False,False,False,2023,6.9
+USR1429,Parasite,Movie,Documentary,HBO Max,Tablet,2024-12-06,10,Friday,December,112,True,3,82.7,Canada,French,35-44,Standard,False,True,True,True,False,2020,5.8
+USR1416,The Mandalorian,Series,Drama,HBO Max,Smart TV,2024-03-24,5,Sunday,March,50,True,5,82.3,Brazil,French,18-24,Free,True,True,False,False,True,2019,7.7
+USR2487,Interstellar,Short Film,Horror,Netflix,Laptop,2024-09-16,14,Monday,September,20,True,4,91.7,USA,English,18-24,Standard,True,False,True,False,False,2020,8.1
+USR6296,The Bear,Series,Documentary,Netflix,Desktop,2024-02-03,0,Saturday,February,52,True,4,94.9,India,English,25-34,Free,True,True,False,True,False,2024,8.0
+USR3660,Oppenheimer,Movie,Romance,Apple TV+,Mobile,2024-12-04,13,Wednesday,December,121,True,3,89.4,UK,English,35-44,Premium,True,True,False,True,False,2018,8.4
+USR2841,Loki,Short Film,Thriller,Amazon Prime,Mobile,2024-03-14,3,Thursday,March,17,True,1,80.4,UK,Hindi,45-54,Standard,False,False,True,False,False,2020,7.1
+USR3336,Wednesday,Movie,Action,HBO Max,Laptop,2024-03-06,6,Wednesday,March,125,True,5,92.7,Australia,Korean,35-44,Basic,False,True,True,False,False,2023,7.9
+USR1560,Mindhunter,Anime,Action,Disney+,Tablet,2024-08-24,8,Saturday,August,43,True,4,85.3,Canada,Spanish,55+,Free,False,False,True,False,True,2021,6.6
+USR5576,The Social Network,Documentary,Sci-Fi,Apple TV+,Desktop,2024-09-04,17,Wednesday,September,78,False,4,64.2,Germany,German,25-34,Premium,True,False,False,False,False,2023,9.1
+USR5844,3 Body Problem,Anime,Sci-Fi,Apple TV+,Mobile,2024-06-24,21,Monday,June,36,True,3,94.9,Brazil,English,25-34,Premium,True,False,False,False,False,2022,7.4
+USR6941,Parasite,Movie,Romance,Apple TV+,Smart TV,2024-04-09,17,Tuesday,April,210,True,5,84.7,USA,German,25-34,Basic,True,True,False,False,False,2024,5.9
+USR8807,WandaVision,Series,Crime,Amazon Prime,Smart TV,2024-03-18,22,Monday,March,46,True,4,99.0,USA,Korean,25-34,Free,False,True,True,False,False,2018,8.1
+USR7406,Attack on Titan,Anime,Sci-Fi,Amazon Prime,Smart TV,2024-01-31,20,Wednesday,January,34,True,5,99.0,India,French,18-24,Premium,True,False,True,False,False,2019,6.7
+USR8180,The Crown,Series,Romance,Apple TV+,Smart TV,2024-04-15,18,Monday,April,62,True,3,90.1,Japan,Japanese,35-44,Basic,False,False,False,False,False,2018,7.8
+USR2688,Poor Things,Documentary,Sci-Fi,Disney+,Mobile,2024-07-14,20,Sunday,July,107,True,5,91.2,South Korea,Japanese,35-44,Basic,False,True,False,False,False,2023,8.7
+USR2656,Zodiac,Documentary,Drama,Disney+,Smart TV,2024-02-23,23,Friday,February,77,False,4,84.9,Japan,English,25-34,Standard,False,True,False,False,False,2024,8.5
+USR4909,The Wire,Series,Action,HBO Max,Mobile,2024-10-16,18,Wednesday,October,28,False,5,76.4,Canada,Korean,35-44,Premium,False,True,False,False,False,2024,6.3
+USR2618,Breaking Bad,Movie,Comedy,Apple TV+,Laptop,2024-09-24,1,Tuesday,September,121,True,3,69.1,France,Spanish,35-44,Premium,True,False,True,False,False,2021,8.2
+USR3818,Black Mirror,Movie,Horror,Disney+,Laptop,2024-01-25,20,Thursday,January,157,True,5,90.4,Brazil,English,35-44,Standard,False,True,False,True,False,2023,8.4
+USR3761,House of the Dragon,Movie,Comedy,Netflix,Mobile,2024-07-26,22,Friday,July,187,True,4,83.8,India,English,25-34,Standard,False,True,False,True,False,2018,8.9
+USR2697,Breaking Bad,Movie,Horror,HBO Max,Laptop,2024-04-11,14,Thursday,April,165,True,4,87.7,Canada,Portuguese,25-34,Basic,False,True,True,False,True,2019,6.7
+USR8191,Narcos,Short Film,Sci-Fi,Netflix,Laptop,2024-12-21,21,Saturday,December,10,True,4,85.3,Canada,Portuguese,18-24,Basic,True,True,False,False,False,2020,7.4
+USR3203,House of the Dragon,Documentary,Drama,Apple TV+,Mobile,2024-12-27,13,Friday,December,114,True,4,73.0,Brazil,Portuguese,18-24,Standard,True,False,False,False,False,2020,9.1
+USR8540,One Piece,Documentary,Romance,Disney+,Laptop,2024-02-23,11,Friday,February,104,True,5,78.8,UK,Japanese,18-24,Premium,True,True,False,False,False,2023,6.1
+USR3184,Ozark,Movie,Drama,HBO Max,Smart TV,2024-03-16,14,Saturday,March,200,True,1,84.8,India,Hindi,25-34,Standard,True,True,False,False,True,2022,9.5
+USR3641,Andor,Series,Documentary,HBO Max,Smart TV,2024-12-14,18,Saturday,December,26,True,5,85.3,USA,Japanese,35-44,Basic,True,True,False,True,True,2021,5.7
+USR5128,Black Mirror,Anime,Romance,Apple TV+,Mobile,2024-10-20,13,Sunday,October,31,True,3,69.7,India,English,18-24,Basic,False,True,True,True,False,2022,7.5
+USR7141,Dune Part Two,Short Film,Thriller,Amazon Prime,Smart TV,2024-02-01,12,Thursday,February,22,True,1,94.6,France,English,35-44,Basic,True,True,False,False,False,2022,6.9
+USR2970,The Crown,Documentary,Horror,Apple TV+,Smart TV,2024-03-31,22,Sunday,March,49,True,2,93.8,France,English,35-44,Standard,True,True,True,True,False,2020,8.8
+USR9040,Andor,Short Film,Action,Amazon Prime,Mobile,2024-08-20,7,Tuesday,August,21,True,4,92.6,Japan,English,18-24,Premium,True,False,False,False,False,2024,8.1
+USR4244,Breaking Bad,Movie,Romance,HBO Max,Mobile,2024-09-23,11,Monday,September,126,True,5,82.1,France,Hindi,25-34,Free,True,True,False,False,False,2024,5.9
+USR1785,Parasite,Documentary,Horror,Amazon Prime,Smart TV,2024-05-27,17,Monday,May,118,True,4,91.5,India,Portuguese,25-34,Basic,True,False,False,False,False,2024,6.9
+USR4387,Your Name,Series,Romance,Netflix,Smart TV,2024-04-01,2,Monday,April,42,True,3,80.1,Australia,English,55+,Basic,False,False,True,True,False,2024,7.4
+USR7927,Fight Club,Short Film,Mystery,Apple TV+,Mobile,2024-06-18,18,Tuesday,June,17,True,3,86.3,Canada,French,35-44,Basic,False,False,True,False,False,2021,6.9
+USR2155,Fullmetal Alchemist,Movie,Fantasy,Apple TV+,Mobile,2024-07-12,6,Friday,July,189,True,4,75.9,India,English,45-54,Free,True,True,False,False,False,2023,6.3
+USR9158,Andor,Movie,Drama,Apple TV+,Smart TV,2024-07-22,22,Monday,July,126,True,5,85.6,India,Portuguese,25-34,Free,True,False,True,False,False,2019,6.1
+USR1716,Your Name,Series,Comedy,Netflix,Mobile,2024-08-11,20,Sunday,August,34,True,5,99.0,India,English,45-54,Basic,True,True,False,True,False,2020,7.9
+USR3639,Shogun 2024,Movie,Sci-Fi,Netflix,Laptop,2024-09-15,18,Sunday,September,137,False,2,70.0,Canada,English,18-24,Free,True,True,False,False,False,2018,8.0
+USR9938,Dune Part Two,Short Film,Romance,Netflix,Smart TV,2024-03-14,20,Thursday,March,17,False,4,92.4,India,Spanish,25-34,Standard,True,True,True,False,False,2021,7.6
+USR3856,Mindhunter,Movie,Mystery,Disney+,Mobile,2024-11-09,7,Saturday,November,132,True,5,92.1,South Korea,French,25-34,Free,False,True,True,False,False,2019,6.5
+USR7535,3 Body Problem,Movie,Romance,Netflix,Mobile,2024-07-24,15,Wednesday,July,174,True,4,91.6,Germany,English,18-24,Basic,True,False,False,False,False,2022,6.4
+USR6532,Spirited Away,Series,Drama,Amazon Prime,Mobile,2024-07-28,14,Sunday,July,61,False,5,76.5,Brazil,Korean,55+,Standard,False,True,True,False,True,2023,6.9
+USR9693,Fullmetal Alchemist,Series,Sci-Fi,Amazon Prime,Laptop,2024-12-14,20,Saturday,December,30,True,4,87.7,Brazil,Korean,35-44,Free,True,False,True,False,False,2020,8.3
+USR5747,The Crown,Anime,Crime,Netflix,Smart TV,2024-04-13,16,Saturday,April,36,True,5,80.0,India,Japanese,45-54,Basic,True,True,False,True,False,2021,6.5
+USR7215,Loki,Short Film,Romance,HBO Max,Desktop,2024-12-24,7,Tuesday,December,11,True,4,82.7,India,English,35-44,Premium,False,True,True,False,False,2023,6.7
+USR4229,Fullmetal Alchemist,Movie,Drama,Netflix,Mobile,2024-10-17,4,Thursday,October,113,True,5,89.9,USA,Korean,55+,Free,False,False,True,False,False,2019,8.6
+USR5310,The Mandalorian,Documentary,Sci-Fi,Netflix,Mobile,2024-07-05,19,Friday,July,51,True,5,93.0,South Korea,English,25-34,Premium,False,True,True,True,False,2022,6.6
+USR9398,Peaky Blinders,Anime,Thriller,Amazon Prime,Tablet,2024-01-06,13,Saturday,January,44,True,5,83.4,USA,English,55+,Standard,False,True,True,False,False,2018,7.4
+USR4882,Poor Things,Short Film,Documentary,HBO Max,Smart TV,2024-12-07,13,Saturday,December,15,True,4,94.4,Brazil,English,13-17,Premium,False,True,True,False,False,2021,8.5
+USR2500,Dark S3,Documentary,Anime,Netflix,Smart TV,2024-11-19,9,Tuesday,November,55,True,5,83.5,UK,Korean,18-24,Standard,True,True,True,False,False,2021,6.5
+USR3357,Parasite,Anime,Comedy,Disney+,Mobile,2024-11-05,9,Tuesday,November,24,True,4,90.6,Canada,English,18-24,Premium,True,False,False,True,False,2024,6.3
+USR5123,Breaking Bad,Movie,Comedy,Disney+,Smart TV,2024-10-30,19,Wednesday,October,76,True,4,85.0,Germany,English,18-24,Basic,False,True,False,True,False,2023,8.2
+USR6227,The Mandalorian,Movie,Horror,Netflix,Mobile,2024-08-16,17,Friday,August,91,True,5,91.6,USA,Spanish,25-34,Basic,True,True,False,True,True,2023,6.7
+USR7317,Narcos,Series,Documentary,Amazon Prime,Laptop,2024-06-29,15,Saturday,June,51,True,5,92.7,France,French,35-44,Basic,False,True,True,False,False,2019,6.8
+USR5549,Wednesday,Series,Sci-Fi,Netflix,Mobile,2024-03-18,8,Monday,March,47,True,1,89.3,India,Japanese,25-34,Standard,False,True,False,False,True,2020,8.0
+USR6089,Fight Club,Series,Drama,Netflix,Desktop,2024-12-27,18,Friday,December,41,True,1,87.7,Canada,Japanese,35-44,Standard,True,True,False,True,False,2021,6.1
+USR6424,Se7en,Movie,Drama,Netflix,Desktop,2024-02-02,20,Friday,February,196,True,5,78.4,India,English,25-34,Standard,False,True,False,True,False,2021,5.0
+USR5358,Dune Part Two,Series,Thriller,Amazon Prime,Smart TV,2024-10-15,15,Tuesday,October,53,True,2,85.0,UK,Spanish,45-54,Basic,True,False,True,True,False,2020,5.7
+USR4083,Demon Slayer,Documentary,Comedy,Netflix,Smart TV,2024-07-01,10,Monday,July,113,True,4,75.1,Canada,English,18-24,Premium,True,True,True,False,False,2024,10.0
+USR3571,Demon Slayer,Movie,Sci-Fi,Netflix,Smart TV,2024-01-06,15,Saturday,January,112,True,4,79.8,UK,English,55+,Standard,True,True,True,False,False,2018,6.3
+USR6351,One Piece,Movie,Drama,Amazon Prime,Smart TV,2024-03-04,19,Monday,March,186,True,1,88.8,Japan,English,25-34,Standard,False,False,True,False,True,2018,6.3
+USR9068,Ozark,Movie,Thriller,Netflix,Laptop,2024-02-04,14,Sunday,February,95,True,4,91.3,Canada,Hindi,35-44,Basic,True,False,False,False,True,2024,7.8
+USR3500,3 Body Problem,Movie,Thriller,Disney+,Smart TV,2024-05-13,10,Monday,May,85,False,4,77.3,UK,English,35-44,Standard,True,False,False,False,False,2022,5.9
+USR7507,The Last of Us,Movie,Action,Netflix,Mobile,2024-02-04,16,Sunday,February,169,True,4,97.4,India,English,35-44,Standard,True,True,True,False,False,2020,7.3
+USR2846,The Bear,Movie,Fantasy,Amazon Prime,Laptop,2024-06-20,20,Thursday,June,206,False,5,76.7,USA,English,55+,Basic,False,False,True,False,False,2022,7.6
+USR6471,The Last of Us,Series,Thriller,Disney+,Mobile,2024-06-04,0,Tuesday,June,41,True,4,89.6,UK,Korean,35-44,Standard,True,False,False,False,False,2024,6.6
+USR7249,Your Name,Documentary,Sci-Fi,Disney+,Tablet,2024-12-07,22,Saturday,December,80,True,5,91.7,South Korea,English,25-34,Standard,False,False,True,True,False,2020,6.0
+USR3860,Dark S3,Documentary,Drama,Netflix,Desktop,2024-01-18,21,Thursday,January,48,True,3,95.9,India,Korean,25-34,Premium,False,True,True,False,True,2023,5.9
+USR2032,Stranger Things,Movie,Comedy,Amazon Prime,Smart TV,2024-03-19,18,Tuesday,March,78,False,3,76.8,Australia,Korean,18-24,Basic,False,False,True,False,False,2023,7.7
+USR7017,WandaVision,Documentary,Documentary,Amazon Prime,Desktop,2024-01-23,12,Tuesday,January,51,False,5,79.2,Japan,Japanese,25-34,Premium,False,True,True,False,False,2022,7.3
+USR5148,3 Body Problem,Series,Mystery,Apple TV+,Smart TV,2024-07-24,13,Wednesday,July,48,True,5,77.2,USA,Hindi,25-34,Premium,False,True,True,False,False,2023,5.2
+USR7864,Planet Earth III,Series,Action,Apple TV+,Smart TV,2024-03-15,21,Friday,March,35,True,5,86.3,South Korea,Japanese,25-34,Standard,True,True,False,False,False,2024,6.6
+USR2743,Wednesday,Series,Drama,Apple TV+,Mobile,2024-06-20,18,Thursday,June,36,True,5,94.0,Australia,Hindi,45-54,Premium,True,True,False,False,True,2019,6.7
+USR2983,The Last of Us,Anime,Drama,Disney+,Smart TV,2024-02-06,1,Tuesday,February,28,False,5,87.9,India,Spanish,18-24,Basic,False,True,True,False,False,2020,8.7
+USR6758,Oppenheimer,Series,Sci-Fi,Amazon Prime,Mobile,2024-06-24,23,Monday,June,53,True,2,74.1,USA,Hindi,45-54,Premium,False,True,False,False,False,2023,7.4
+USR2540,WandaVision,Short Film,Drama,HBO Max,Laptop,2024-09-08,20,Sunday,September,17,True,3,90.2,USA,English,35-44,Standard,True,True,False,False,False,2018,7.6
+USR9776,The Social Network,Anime,Action,Disney+,Smart TV,2024-01-06,19,Saturday,January,30,True,3,82.0,Germany,English,18-24,Standard,True,True,False,True,False,2021,7.2
+USR1718,The Crown,Anime,Crime,Netflix,Mobile,2024-02-26,22,Monday,February,42,True,5,85.0,India,English,35-44,Premium,True,True,False,False,True,2019,8.3
+USR9904,Blue Eye Samurai,Anime,Crime,Disney+,Mobile,2024-03-08,22,Friday,March,38,True,1,76.7,USA,English,25-34,Standard,True,True,False,False,False,2022,8.5
+USR2094,Gone Girl,Short Film,Documentary,Netflix,Smart TV,2024-05-04,13,Saturday,May,27,False,4,74.3,India,Hindi,25-34,Basic,True,True,False,True,True,2024,6.5
+USR8778,Loki,Movie,Romance,Disney+,Smart TV,2024-01-07,20,Sunday,January,197,True,5,88.2,UK,English,25-34,Standard,True,False,True,True,False,2024,6.8
+USR8075,The Bear,Series,Mystery,Netflix,Smart TV,2024-02-04,21,Sunday,February,36,True,5,79.2,Brazil,Spanish,13-17,Standard,False,True,False,False,False,2019,6.4
+USR1506,Narcos,Series,Anime,Apple TV+,Laptop,2024-09-02,16,Monday,September,40,False,4,85.2,India,English,45-54,Free,False,True,True,False,False,2020,6.6
+USR3248,Loki,Documentary,Romance,HBO Max,Tablet,2024-06-04,19,Tuesday,June,120,True,5,75.9,USA,Korean,55+,Standard,False,True,False,False,False,2022,7.4
+USR5323,Demon Slayer,Movie,Fantasy,Amazon Prime,Smart TV,2024-09-19,16,Thursday,September,160,True,3,92.7,UK,Korean,35-44,Premium,True,False,True,False,False,2022,9.9
+USR6527,Severance,Movie,Anime,Disney+,Smart TV,2024-10-10,18,Thursday,October,127,True,5,82.4,Brazil,Spanish,25-34,Basic,False,False,True,True,False,2018,5.0
+USR5539,Interstellar,Movie,Drama,Amazon Prime,Mobile,2024-05-09,15,Thursday,May,201,True,4,98.4,Canada,English,18-24,Standard,False,True,True,False,True,2019,8.0
+USR4356,The Bear,Series,Anime,Netflix,Tablet,2024-03-03,22,Sunday,March,28,True,4,83.3,Brazil,Japanese,13-17,Basic,False,True,True,True,False,2022,8.6
+USR3627,Poor Things,Short Film,Drama,Netflix,Smart TV,2024-05-16,10,Thursday,May,22,True,3,73.3,Canada,Japanese,55+,Premium,True,True,True,True,False,2019,6.3
+USR8276,The Mandalorian,Movie,Thriller,Disney+,Mobile,2024-04-22,3,Monday,April,134,False,4,95.0,India,French,45-54,Premium,True,False,True,False,False,2022,5.6
+USR4570,House of the Dragon,Movie,Comedy,Disney+,Tablet,2024-06-24,9,Monday,June,171,True,5,78.9,USA,English,35-44,Premium,True,False,False,False,False,2023,6.5
+USR5176,Chernobyl,Movie,Horror,Netflix,Mobile,2024-12-23,22,Monday,December,189,False,4,84.0,USA,Hindi,55+,Standard,True,False,False,False,False,2024,7.4
+USR5180,The Mandalorian,Short Film,Drama,Apple TV+,Smart TV,2024-01-19,11,Friday,January,11,True,5,88.0,India,English,25-34,Premium,True,True,True,True,False,2022,7.0
+USR4201,Demon Slayer,Series,Anime,Apple TV+,Tablet,2024-01-27,22,Saturday,January,49,True,4,84.6,Australia,English,18-24,Premium,True,True,True,False,False,2019,6.3
+USR3736,Succession,Short Film,Sci-Fi,Netflix,Tablet,2024-09-30,22,Monday,September,26,True,1,86.0,UK,French,18-24,Standard,True,False,True,False,False,2023,5.9
+USR9871,Ozark,Movie,Romance,Netflix,Desktop,2024-05-07,19,Tuesday,May,200,True,4,89.3,Brazil,Hindi,35-44,Standard,False,True,False,False,False,2021,7.9
+USR5907,The Wire,Series,Comedy,Apple TV+,Smart TV,2024-03-26,22,Tuesday,March,60,True,4,78.8,India,Hindi,35-44,Basic,False,False,True,False,False,2019,6.6
+USR3136,Narcos,Documentary,Comedy,Netflix,Tablet,2024-11-28,13,Thursday,November,104,True,4,90.0,France,English,18-24,Standard,True,True,True,False,False,2024,6.7
+USR9302,Killers of the Flower Moon,Movie,Drama,Apple TV+,Mobile,2024-08-09,13,Friday,August,92,True,5,99.0,India,English,35-44,Standard,True,True,False,False,False,2020,8.0
+USR9978,Your Name,Series,Romance,Netflix,Smart TV,2024-11-09,14,Saturday,November,53,True,4,80.9,UK,Portuguese,18-24,Premium,True,True,False,False,True,2024,7.1
+USR3484,Peaky Blinders,Movie,Drama,Amazon Prime,Smart TV,2024-04-10,14,Wednesday,April,124,True,3,78.5,Canada,English,45-54,Free,True,False,True,False,True,2021,9.8
+USR9977,Game of Thrones,Short Film,Comedy,Netflix,Mobile,2024-03-25,23,Monday,March,25,True,5,93.9,Canada,English,18-24,Standard,False,True,True,False,False,2019,6.3
+USR2744,Shogun 2024,Series,Drama,HBO Max,Smart TV,2024-01-12,12,Friday,January,59,True,2,99.0,Canada,French,18-24,Premium,True,True,True,False,False,2023,6.6
+USR7650,Peaky Blinders,Series,Drama,Netflix,Smart TV,2024-07-23,22,Tuesday,July,42,False,2,66.8,India,Hindi,13-17,Premium,True,True,False,False,False,2022,7.5
+USR2348,Dark S3,Series,Documentary,Netflix,Laptop,2024-04-19,21,Friday,April,46,True,4,87.4,India,Hindi,45-54,Premium,False,True,True,True,False,2018,7.8
+USR1638,Attack on Titan,Movie,Documentary,Disney+,Tablet,2024-03-09,22,Saturday,March,117,True,2,81.3,India,English,13-17,Premium,False,False,False,False,False,2020,5.7
+USR5648,The Bear,Documentary,Thriller,Disney+,Smart TV,2024-11-11,3,Monday,November,110,True,3,69.8,USA,English,18-24,Standard,True,False,True,False,False,2021,7.7
+USR2764,The Mandalorian,Documentary,Documentary,Disney+,Smart TV,2024-04-30,18,Tuesday,April,52,False,2,72.9,India,Korean,25-34,Basic,True,True,False,False,False,2023,7.6
+USR5131,Mindhunter,Series,Action,HBO Max,Smart TV,2024-12-09,13,Monday,December,34,False,3,82.9,India,Hindi,35-44,Basic,False,True,True,True,False,2021,7.2
+USR6481,Shogun 2024,Movie,Fantasy,Disney+,Laptop,2024-12-03,3,Tuesday,December,181,True,5,99.0,India,English,25-34,Standard,True,True,True,True,True,2020,7.3
+USR9273,Stranger Things,Movie,Romance,Amazon Prime,Smart TV,2024-12-30,12,Monday,December,112,True,3,87.9,UK,French,55+,Standard,False,True,False,False,False,2023,4.3
+USR8594,Demon Slayer,Series,Action,Disney+,Smart TV,2024-10-29,16,Tuesday,October,26,True,5,80.9,Canada,German,45-54,Basic,True,False,False,False,False,2022,8.2
+USR5483,Parasite,Series,Thriller,Netflix,Smart TV,2024-05-10,23,Friday,May,25,True,1,87.6,Japan,Japanese,25-34,Standard,False,False,False,True,False,2018,6.5
+USR4281,Dark S3,Short Film,Sci-Fi,Disney+,Smart TV,2024-09-11,20,Wednesday,September,27,True,5,89.4,Australia,English,35-44,Premium,True,True,False,True,False,2023,7.7
+USR2248,Shogun 2024,Series,Fantasy,Netflix,Smart TV,2024-05-11,19,Saturday,May,56,True,4,99.0,Brazil,French,13-17,Basic,False,False,False,False,True,2021,8.7
+USR3890,Mindhunter,Movie,Anime,Apple TV+,Mobile,2024-06-21,13,Friday,June,96,False,4,93.6,Japan,Japanese,25-34,Free,False,False,False,True,True,2019,8.3
+USR9395,Ozark,Movie,Anime,Amazon Prime,Mobile,2024-06-24,20,Monday,June,174,True,1,95.1,India,English,35-44,Premium,False,True,False,True,False,2024,6.5
+USR7103,The Social Network,Series,Comedy,Amazon Prime,Mobile,2024-09-10,13,Tuesday,September,58,True,3,86.8,USA,Korean,13-17,Basic,True,True,True,False,False,2022,7.0
+USR7973,Breaking Bad,Series,Action,Amazon Prime,Laptop,2024-03-10,12,Sunday,March,62,True,5,95.7,India,English,55+,Standard,False,True,False,False,False,2024,8.6
+USR3251,Inception,Short Film,Mystery,Amazon Prime,Mobile,2024-07-29,12,Monday,July,19,True,1,84.4,Canada,French,25-34,Free,True,True,False,True,False,2024,6.1
+USR2645,Ozark,Movie,Drama,Apple TV+,Mobile,2024-02-10,22,Saturday,February,151,True,5,69.7,Germany,English,45-54,Standard,False,True,True,True,False,2022,6.6
+USR2701,Fullmetal Alchemist,Movie,Comedy,Amazon Prime,Mobile,2024-01-03,3,Wednesday,January,138,False,4,78.9,Japan,Hindi,35-44,Free,False,False,False,True,False,2023,7.0
+USR6640,3 Body Problem,Documentary,Action,Disney+,Tablet,2024-09-24,9,Tuesday,September,94,True,4,79.1,USA,Japanese,45-54,Basic,True,False,True,False,False,2021,7.2
+USR1658,Wednesday,Short Film,Comedy,Netflix,Smart TV,2024-01-01,23,Monday,January,13,True,5,88.5,South Korea,Korean,35-44,Standard,True,True,False,False,False,2023,7.7
+USR9501,Fight Club,Documentary,Thriller,Netflix,Smart TV,2024-02-26,12,Monday,February,92,True,5,92.9,USA,Korean,45-54,Free,True,True,False,False,False,2021,8.6
+USR5705,Shogun 2024,Series,Sci-Fi,Amazon Prime,Smart TV,2024-05-20,12,Monday,May,55,True,5,88.0,USA,English,35-44,Standard,False,True,True,True,False,2019,5.2
+USR9350,The Social Network,Documentary,Documentary,HBO Max,Smart TV,2024-12-18,19,Wednesday,December,75,True,3,76.5,France,English,35-44,Standard,False,True,False,False,False,2018,7.3
+USR9682,Severance,Series,Fantasy,Netflix,Smart TV,2024-02-02,21,Friday,February,57,True,5,89.9,Canada,Portuguese,13-17,Premium,True,True,False,False,True,2019,5.5
+USR4215,Squid Game,Movie,Drama,Apple TV+,Smart TV,2024-04-05,3,Friday,April,166,True,5,88.6,USA,French,25-34,Premium,True,True,True,False,False,2018,5.8
+USR4514,The Last of Us,Documentary,Sci-Fi,Apple TV+,Smart TV,2024-10-16,15,Wednesday,October,115,False,2,62.4,USA,English,13-17,Standard,True,True,False,False,False,2020,9.1
+USR1104,Black Mirror,Series,Thriller,Netflix,Mobile,2024-05-01,19,Wednesday,May,52,True,4,84.6,Japan,English,25-34,Basic,True,True,False,True,False,2020,4.6
+USR1740,Severance,Anime,Action,Netflix,Laptop,2024-07-01,9,Monday,July,28,True,5,95.3,India,English,18-24,Standard,False,True,True,True,False,2019,7.0
+USR1575,Parasite,Series,Fantasy,Netflix,Laptop,2024-07-06,13,Saturday,July,52,True,5,86.6,India,French,25-34,Free,True,True,True,False,False,2019,7.5
+USR3578,Demon Slayer,Anime,Horror,Apple TV+,Mobile,2024-05-16,23,Thursday,May,40,True,5,93.7,UK,Japanese,55+,Standard,False,False,True,True,False,2023,6.3
+USR9741,Planet Earth III,Movie,Drama,Apple TV+,Mobile,2024-01-11,22,Thursday,January,107,True,5,93.9,Canada,Hindi,35-44,Standard,False,True,True,False,False,2019,8.0
+USR3921,The Bear,Series,Romance,Apple TV+,Smart TV,2024-01-26,11,Friday,January,38,True,4,78.1,UK,French,18-24,Premium,True,True,False,False,True,2023,6.9
+USR1396,Oppenheimer,Series,Horror,Amazon Prime,Smart TV,2024-11-20,20,Wednesday,November,22,True,1,82.4,India,English,35-44,Standard,True,True,False,False,False,2022,9.3
+USR5749,Breaking Bad,Series,Anime,Disney+,Laptop,2024-11-27,4,Wednesday,November,65,True,4,80.4,USA,English,45-54,Standard,False,True,False,False,True,2019,4.0
+USR5024,Mindhunter,Series,Anime,Netflix,Mobile,2024-05-27,0,Monday,May,25,False,2,76.0,USA,English,25-34,Standard,True,True,False,True,True,2020,7.1
+USR8696,Succession,Movie,Drama,Disney+,Mobile,2024-09-18,17,Wednesday,September,85,False,4,91.1,USA,English,35-44,Standard,True,True,False,False,False,2024,5.5
+USR1081,Money Heist,Movie,Thriller,Netflix,Smart TV,2024-09-26,22,Thursday,September,106,True,5,90.7,Canada,English,45-54,Basic,False,True,False,False,False,2024,8.0
+USR6038,Narcos,Series,Thriller,Netflix,Smart TV,2024-04-06,20,Saturday,April,40,True,5,96.3,USA,English,45-54,Premium,True,False,False,False,True,2024,7.9
+USR1693,Severance,Movie,Documentary,Apple TV+,Smart TV,2024-05-08,20,Wednesday,May,170,True,4,92.9,USA,English,35-44,Basic,False,True,False,False,True,2018,7.1
+USR7035,Squid Game,Series,Comedy,Netflix,Smart TV,2024-08-28,20,Wednesday,August,23,True,4,71.9,Canada,Hindi,18-24,Premium,True,False,True,False,True,2023,6.3
+USR6162,Zodiac,Movie,Romance,Netflix,Tablet,2024-06-23,9,Sunday,June,165,True,3,86.3,India,Korean,45-54,Premium,True,True,True,False,False,2018,9.6
+USR7662,The Bear,Movie,Mystery,Netflix,Smart TV,2024-10-05,23,Saturday,October,157,False,3,81.0,Germany,German,45-54,Standard,True,False,True,False,False,2022,6.0
+USR7799,Planet Earth III,Documentary,Horror,Amazon Prime,Smart TV,2024-07-27,18,Saturday,July,48,True,1,89.6,Canada,French,25-34,Free,False,True,False,False,False,2024,6.8
+USR6099,Demon Slayer,Movie,Horror,Amazon Prime,Smart TV,2024-11-01,7,Friday,November,163,False,4,81.0,India,English,25-34,Premium,True,True,True,False,False,2024,6.7
+USR5505,Game of Thrones,Series,Horror,Amazon Prime,Smart TV,2024-01-14,8,Sunday,January,54,True,4,81.8,USA,English,25-34,Free,False,False,True,False,False,2018,4.6
+USR3110,Peaky Blinders,Series,Anime,Amazon Prime,Mobile,2024-07-06,16,Saturday,July,24,False,5,78.2,Germany,English,13-17,Basic,False,True,True,False,False,2018,7.9
+USR8041,Interstellar,Series,Romance,Netflix,Desktop,2024-01-14,22,Sunday,January,38,True,5,89.6,Canada,Hindi,18-24,Standard,True,False,False,True,False,2022,9.8
+USR9660,3 Body Problem,Movie,Crime,Netflix,Smart TV,2024-05-15,13,Wednesday,May,124,False,5,71.6,USA,English,35-44,Standard,True,True,True,False,True,2024,6.5
+USR3713,Ozark,Series,Mystery,Disney+,Smart TV,2024-01-25,23,Thursday,January,50,True,5,82.4,Germany,Korean,35-44,Standard,False,True,True,False,False,2022,8.6
+USR7293,Fullmetal Alchemist,Series,Romance,Disney+,Laptop,2024-11-24,8,Sunday,November,40,True,5,93.8,France,English,25-34,Free,True,True,True,False,False,2019,7.1
+USR1897,Narcos,Documentary,Thriller,Apple TV+,Tablet,2024-03-30,14,Saturday,March,100,True,5,87.3,Canada,English,25-34,Basic,False,True,True,False,False,2019,9.1
+USR9523,3 Body Problem,Movie,Crime,Disney+,Mobile,2024-04-20,19,Saturday,April,167,True,4,87.2,Australia,Japanese,13-17,Premium,True,True,True,False,False,2019,8.8
+USR5358,Poor Things,Series,Comedy,Netflix,Tablet,2024-12-21,19,Saturday,December,56,True,5,86.7,Germany,Hindi,25-34,Standard,True,False,True,False,False,2023,6.1
+USR3440,Squid Game,Documentary,Anime,Apple TV+,Smart TV,2024-12-17,20,Tuesday,December,69,True,3,75.6,Canada,Spanish,45-54,Basic,False,False,False,True,False,2018,9.3
+USR4167,One Piece,Anime,Action,Disney+,Tablet,2024-01-04,16,Thursday,January,34,False,3,62.9,USA,Portuguese,45-54,Free,True,True,False,True,False,2022,9.7
+USR1824,The Wire,Documentary,Drama,Amazon Prime,Laptop,2024-02-07,19,Wednesday,February,101,True,5,91.3,USA,English,13-17,Standard,True,True,True,False,False,2019,6.2
+USR7299,Succession,Anime,Comedy,Netflix,Smart TV,2024-07-25,20,Thursday,July,37,True,5,99.0,South Korea,Japanese,55+,Free,False,True,False,False,False,2019,7.4
+USR8654,Parasite,Movie,Sci-Fi,HBO Max,Desktop,2024-04-11,22,Thursday,April,163,True,3,80.0,France,Hindi,18-24,Premium,False,True,True,True,False,2019,8.8
+USR9932,Breaking Bad,Movie,Action,Disney+,Smart TV,2024-08-04,9,Sunday,August,106,True,4,74.6,USA,Japanese,35-44,Basic,False,True,False,True,True,2024,7.2
+USR8589,Black Mirror,Series,Drama,Netflix,Mobile,2024-02-18,4,Sunday,February,56,False,4,78.7,Australia,English,18-24,Free,True,True,False,False,False,2019,5.3
+USR7979,Wednesday,Series,Sci-Fi,HBO Max,Mobile,2024-02-22,18,Thursday,February,65,False,5,78.4,Brazil,Japanese,45-54,Premium,True,True,True,True,False,2024,6.8
+USR7597,Black Mirror,Short Film,Thriller,Apple TV+,Mobile,2024-08-18,15,Sunday,August,13,True,5,83.4,USA,Hindi,35-44,Free,False,True,True,False,True,2024,6.1
+USR8328,Blue Eye Samurai,Movie,Romance,Amazon Prime,Smart TV,2024-03-28,20,Thursday,March,78,True,5,97.0,Australia,Hindi,18-24,Free,False,False,True,False,False,2021,7.1
+USR1264,Killers of the Flower Moon,Anime,Crime,Amazon Prime,Mobile,2024-08-21,12,Wednesday,August,39,True,5,82.6,India,German,45-54,Premium,False,True,True,False,False,2023,6.5
+USR2376,Breaking Bad,Anime,Sci-Fi,HBO Max,Laptop,2024-11-02,16,Saturday,November,41,True,5,81.7,USA,Japanese,25-34,Premium,False,True,False,True,False,2019,8.6
+USR2040,Fullmetal Alchemist,Series,Comedy,Netflix,Laptop,2024-10-05,13,Saturday,October,39,False,5,84.0,Australia,Hindi,35-44,Standard,True,False,False,False,False,2024,7.0
+USR4051,Fight Club,Documentary,Thriller,Amazon Prime,Smart TV,2024-03-19,19,Tuesday,March,85,False,5,87.2,Canada,English,18-24,Basic,True,False,True,False,False,2022,7.2
+USR3990,Inception,Anime,Action,Netflix,Smart TV,2024-06-18,21,Tuesday,June,32,True,5,83.2,USA,Japanese,18-24,Basic,False,True,False,False,True,2022,8.6
+USR3693,Money Heist,Documentary,Anime,Apple TV+,Smart TV,2024-10-21,22,Monday,October,118,True,5,94.4,India,Korean,25-34,Standard,True,False,False,False,False,2019,6.7
+USR9265,Blue Eye Samurai,Movie,Crime,Netflix,Laptop,2024-10-21,10,Monday,October,101,True,5,78.9,Canada,Hindi,25-34,Premium,True,True,True,False,False,2022,8.5
+USR2220,Planet Earth III,Anime,Anime,Netflix,Smart TV,2024-06-13,22,Thursday,June,43,True,5,91.8,France,Japanese,18-24,Basic,False,True,True,False,True,2020,7.2
+USR7872,Loki,Series,Thriller,Netflix,Smart TV,2024-04-17,13,Wednesday,April,33,True,3,87.5,Germany,German,18-24,Premium,True,True,True,False,False,2019,6.5
+USR2999,Se7en,Documentary,Anime,Netflix,Laptop,2024-12-22,18,Sunday,December,94,True,3,96.8,Canada,Hindi,18-24,Standard,True,True,True,True,False,2022,8.2
+USR9297,Narcos,Documentary,Drama,Netflix,Smart TV,2024-10-12,14,Saturday,October,99,True,5,77.9,Japan,Hindi,25-34,Basic,True,True,True,True,False,2023,8.9
+USR5989,One Piece,Series,Drama,Disney+,Desktop,2024-05-23,12,Thursday,May,61,True,5,87.0,France,Portuguese,45-54,Standard,True,True,False,False,True,2024,6.3
+USR2134,The Last of Us,Series,Sci-Fi,Disney+,Smart TV,2024-06-06,20,Thursday,June,29,True,5,89.1,India,English,13-17,Basic,False,True,True,True,False,2024,7.0
+USR8226,Breaking Bad,Series,Drama,Disney+,Desktop,2024-09-23,14,Monday,September,36,True,5,75.6,Australia,English,13-17,Basic,True,False,True,False,False,2018,7.3
+USR1116,Fullmetal Alchemist,Movie,Anime,Disney+,Tablet,2024-09-26,10,Thursday,September,107,True,5,88.4,USA,English,25-34,Free,True,True,True,True,False,2021,7.6
+USR6950,Spirited Away,Movie,Sci-Fi,Amazon Prime,Mobile,2024-06-25,16,Tuesday,June,164,True,5,92.5,Canada,Hindi,25-34,Premium,False,True,False,False,False,2023,7.8
+USR8490,Fight Club,Series,Romance,Netflix,Smart TV,2024-08-20,19,Tuesday,August,29,True,5,99.0,India,Hindi,35-44,Basic,False,True,True,False,True,2019,7.9
+USR2234,Fullmetal Alchemist,Movie,Crime,HBO Max,Smart TV,2024-03-29,20,Friday,March,184,True,3,80.8,USA,Japanese,18-24,Premium,True,True,False,False,False,2022,7.6
+USR5748,Squid Game,Movie,Crime,Netflix,Smart TV,2024-04-14,10,Sunday,April,201,True,5,83.6,France,Japanese,25-34,Basic,False,False,False,False,False,2021,6.0
+USR9634,Black Mirror,Documentary,Documentary,Amazon Prime,Smart TV,2024-11-05,19,Tuesday,November,76,True,2,86.4,Australia,English,35-44,Premium,True,False,False,False,True,2018,7.6
+USR9010,Demon Slayer,Anime,Thriller,Apple TV+,Mobile,2024-12-11,1,Wednesday,December,27,False,4,89.0,Japan,Korean,25-34,Standard,False,True,False,False,False,2020,5.1
+USR5949,Squid Game,Series,Sci-Fi,Disney+,Mobile,2024-12-07,10,Saturday,December,24,True,5,99.0,France,Japanese,45-54,Premium,False,True,True,False,True,2019,8.0
+USR2515,The Crown,Documentary,Documentary,Netflix,Smart TV,2024-10-19,20,Saturday,October,120,True,5,72.7,India,English,45-54,Standard,True,False,False,False,False,2018,6.3
+USR8542,Narcos,Anime,Comedy,Disney+,Smart TV,2024-04-17,10,Wednesday,April,25,False,5,75.9,UK,Korean,18-24,Standard,False,True,True,False,True,2019,8.1
+USR4507,The Bear,Movie,Horror,Amazon Prime,Laptop,2024-01-22,10,Monday,January,138,True,5,75.4,USA,English,25-34,Basic,True,True,False,False,False,2022,5.1
+USR1143,Your Name,Movie,Anime,Netflix,Smart TV,2024-02-23,7,Friday,February,209,True,4,95.1,Australia,Portuguese,18-24,Basic,True,False,False,False,False,2020,7.4
+USR9135,Oppenheimer,Documentary,Thriller,Disney+,Laptop,2024-07-13,6,Saturday,July,89,True,5,86.9,Germany,English,25-34,Free,True,False,False,False,False,2024,6.5
+USR3653,Loki,Movie,Thriller,HBO Max,Tablet,2024-03-07,14,Thursday,March,88,True,5,85.3,USA,Hindi,18-24,Standard,True,True,False,False,False,2018,7.0
+USR1124,Wednesday,Movie,Thriller,Netflix,Laptop,2024-07-30,21,Tuesday,July,115,True,4,91.0,Australia,French,13-17,Free,True,True,False,False,False,2024,6.6
+USR3825,Squid Game,Series,Comedy,Apple TV+,Laptop,2024-11-23,13,Saturday,November,44,True,5,77.6,USA,French,18-24,Premium,True,True,True,True,True,2024,8.3
+USR3652,Peaky Blinders,Movie,Sci-Fi,Apple TV+,Laptop,2024-09-20,20,Friday,September,145,False,4,80.1,UK,Japanese,25-34,Premium,False,True,True,True,False,2020,7.6
+USR5714,The Wire,Movie,Thriller,Amazon Prime,Mobile,2024-12-26,3,Thursday,December,160,False,5,87.1,South Korea,German,25-34,Basic,True,True,True,True,False,2020,7.4
+USR4282,Demon Slayer,Documentary,Romance,Amazon Prime,Laptop,2024-09-29,0,Sunday,September,116,False,3,77.3,USA,Spanish,45-54,Standard,True,True,True,False,True,2022,6.5
+USR1408,Dune Part Two,Series,Documentary,Disney+,Mobile,2024-02-02,3,Friday,February,49,True,4,99.0,Japan,English,35-44,Standard,True,True,True,False,False,2022,7.8
+USR6188,Severance,Movie,Horror,Disney+,Tablet,2024-10-09,19,Wednesday,October,138,True,1,80.7,India,Japanese,25-34,Premium,True,False,False,False,False,2022,6.6
+USR2672,Narcos,Short Film,Romance,Disney+,Smart TV,2024-09-27,18,Friday,September,22,True,5,74.7,Brazil,German,18-24,Standard,False,True,False,True,False,2024,6.3
+USR1240,Dune Part Two,Series,Sci-Fi,Disney+,Mobile,2024-06-14,23,Friday,June,29,True,4,79.4,Australia,German,18-24,Standard,False,True,True,False,False,2024,6.7
+USR9941,Poor Things,Documentary,Thriller,Amazon Prime,Tablet,2024-10-03,3,Thursday,October,78,True,5,78.8,USA,Korean,35-44,Standard,False,False,False,False,True,2018,5.8
+USR2156,Parasite,Short Film,Crime,Disney+,Mobile,2024-02-12,1,Monday,February,26,True,5,70.5,France,French,25-34,Free,False,True,False,False,False,2019,5.2
+USR8754,Gone Girl,Short Film,Mystery,Amazon Prime,Desktop,2024-10-19,2,Saturday,October,27,True,1,82.2,India,French,45-54,Basic,True,True,True,False,True,2019,7.1
+USR8817,Gone Girl,Documentary,Romance,Disney+,Laptop,2024-09-18,15,Wednesday,September,64,True,5,78.2,Canada,English,35-44,Basic,True,False,True,False,True,2021,6.5
+USR2753,WandaVision,Series,Action,Netflix,Mobile,2024-01-23,12,Tuesday,January,36,True,4,78.3,Canada,French,35-44,Standard,True,True,False,False,False,2020,5.4
+USR6538,Blue Eye Samurai,Series,Action,Disney+,Desktop,2024-11-08,2,Friday,November,31,False,4,79.3,USA,English,55+,Standard,True,True,True,False,True,2022,7.6
+USR9637,The Mandalorian,Movie,Comedy,Disney+,Smart TV,2024-04-23,16,Tuesday,April,176,True,5,93.3,Canada,English,13-17,Premium,True,True,False,True,False,2023,7.5
+USR7678,Dark S3,Series,Horror,Disney+,Tablet,2024-05-07,10,Tuesday,May,28,True,5,99.0,USA,Portuguese,13-17,Basic,False,True,True,False,True,2019,7.2
+USR5482,Oppenheimer,Short Film,Drama,Netflix,Smart TV,2024-07-03,21,Wednesday,July,11,True,4,87.6,Germany,Hindi,45-54,Standard,False,False,False,True,False,2023,7.6
+USR2587,Stranger Things,Series,Action,Amazon Prime,Smart TV,2024-05-12,15,Sunday,May,47,True,1,68.1,India,English,25-34,Premium,False,False,False,False,False,2020,6.6
+USR7244,Your Name,Series,Romance,Disney+,Tablet,2024-10-06,15,Sunday,October,57,True,5,81.7,USA,French,18-24,Basic,True,True,False,True,False,2023,5.8
+USR8773,Poor Things,Anime,Thriller,Disney+,Mobile,2024-11-02,1,Saturday,November,44,False,4,77.0,UK,Korean,18-24,Standard,False,True,True,False,False,2023,8.5
+USR5099,Severance,Movie,Action,Netflix,Mobile,2024-11-27,20,Wednesday,November,152,True,2,93.7,India,German,55+,Standard,True,False,False,False,False,2021,7.6
+USR1478,Your Name,Movie,Comedy,Netflix,Tablet,2024-01-26,20,Friday,January,200,True,5,91.3,UK,German,35-44,Premium,True,True,False,False,False,2024,6.8
+USR6472,Demon Slayer,Movie,Comedy,Amazon Prime,Smart TV,2024-07-08,2,Monday,July,149,True,4,75.8,Canada,English,18-24,Standard,False,True,True,True,False,2024,5.8
+USR5602,Zodiac,Series,Fantasy,Disney+,Mobile,2024-08-19,1,Monday,August,46,False,5,73.9,South Korea,English,45-54,Premium,False,True,False,False,False,2018,8.3
+USR6871,The Mandalorian,Movie,Comedy,Amazon Prime,Mobile,2024-10-01,9,Tuesday,October,95,True,3,79.0,France,French,55+,Basic,True,True,False,False,False,2021,3.9
+USR7322,Parasite,Movie,Thriller,Netflix,Smart TV,2024-02-08,10,Thursday,February,162,True,5,84.9,India,Japanese,55+,Standard,True,True,False,True,True,2022,9.0
+USR7019,Breaking Bad,Anime,Action,Apple TV+,Mobile,2024-12-21,22,Saturday,December,43,True,2,85.3,Australia,English,18-24,Basic,False,True,False,True,False,2021,4.5
+USR7523,The Last of Us,Anime,Romance,Disney+,Desktop,2024-05-26,15,Sunday,May,24,True,5,80.4,USA,English,35-44,Standard,True,True,False,False,False,2019,5.8
+USR4184,The Bear,Documentary,Drama,Netflix,Mobile,2024-02-07,21,Wednesday,February,76,True,5,85.9,USA,Portuguese,55+,Basic,True,False,True,False,False,2019,6.8
+USR9424,Dune Part Two,Movie,Documentary,Apple TV+,Laptop,2024-06-05,15,Wednesday,June,176,True,5,84.4,Japan,English,18-24,Basic,False,False,True,False,False,2019,5.9
+USR3409,Parasite,Documentary,Romance,Amazon Prime,Laptop,2024-09-30,11,Monday,September,86,True,3,71.7,UK,Hindi,35-44,Premium,False,False,False,False,False,2022,7.8
+USR3253,Money Heist,Documentary,Anime,Disney+,Smart TV,2024-03-20,3,Wednesday,March,106,True,5,94.1,USA,English,18-24,Standard,False,False,True,True,False,2019,7.1
+USR7420,Killers of the Flower Moon,Series,Action,Netflix,Smart TV,2024-10-12,19,Saturday,October,63,True,5,81.6,France,Japanese,55+,Standard,True,True,False,False,True,2018,7.0
+USR1488,Interstellar,Documentary,Thriller,Netflix,Tablet,2024-01-23,13,Tuesday,January,100,False,4,97.2,Japan,Japanese,45-54,Premium,False,True,True,False,False,2019,7.4
+USR9361,Succession,Series,Thriller,Netflix,Laptop,2024-07-09,19,Tuesday,July,37,False,4,90.3,Germany,English,35-44,Premium,False,True,True,False,False,2020,6.7
+USR5570,Game of Thrones,Documentary,Thriller,Netflix,Laptop,2024-12-12,0,Thursday,December,68,True,4,99.0,France,Japanese,25-34,Free,True,True,True,False,False,2021,7.4
+USR8323,Parasite,Movie,Thriller,Disney+,Tablet,2024-05-17,23,Friday,May,132,False,3,84.0,USA,Hindi,45-54,Premium,True,True,True,False,False,2022,7.6
+USR1252,Inception,Series,Action,Netflix,Smart TV,2024-04-09,14,Tuesday,April,32,True,5,74.9,USA,Hindi,25-34,Premium,False,True,False,False,False,2022,6.9
+USR3072,Oppenheimer,Series,Drama,Disney+,Smart TV,2024-02-07,1,Wednesday,February,46,True,4,81.9,France,English,45-54,Premium,True,False,False,False,False,2019,7.3
+USR6918,Game of Thrones,Movie,Mystery,Amazon Prime,Smart TV,2024-07-13,22,Saturday,July,110,True,4,99.0,UK,Portuguese,18-24,Standard,True,True,False,False,False,2019,6.4
+USR3308,Demon Slayer,Movie,Romance,Apple TV+,Mobile,2024-02-08,15,Thursday,February,110,True,4,82.9,France,English,35-44,Standard,False,False,False,True,False,2020,8.7
+USR3318,3 Body Problem,Movie,Action,Disney+,Mobile,2024-03-08,6,Friday,March,204,True,4,86.2,Japan,Hindi,45-54,Standard,True,False,True,False,False,2020,6.9
+USR6375,Stranger Things,Movie,Thriller,Netflix,Tablet,2024-07-28,8,Sunday,July,203,True,5,82.2,India,English,25-34,Premium,False,True,False,False,False,2019,9.4
+USR1966,Poor Things,Movie,Crime,Amazon Prime,Desktop,2024-08-02,22,Friday,August,164,True,2,85.1,India,Hindi,13-17,Basic,True,False,False,False,False,2021,7.1
+USR2161,Peaky Blinders,Anime,Thriller,Amazon Prime,Desktop,2024-02-11,10,Sunday,February,26,False,5,90.6,Canada,Korean,13-17,Standard,False,False,False,False,False,2020,6.3
+USR7752,Chernobyl,Anime,Horror,Netflix,Laptop,2024-10-14,18,Monday,October,39,True,4,87.9,India,English,55+,Premium,True,False,False,False,False,2019,5.9
+USR7607,Wednesday,Movie,Drama,Amazon Prime,Smart TV,2024-08-30,1,Friday,August,160,True,2,86.8,Australia,English,45-54,Basic,False,False,True,True,False,2024,5.3
+USR4588,Zodiac,Movie,Fantasy,Amazon Prime,Smart TV,2024-05-03,15,Friday,May,184,True,4,99.0,South Korea,French,55+,Standard,True,False,True,True,False,2024,4.9
+USR8356,One Piece,Short Film,Drama,HBO Max,Mobile,2024-11-18,19,Monday,November,18,True,5,83.7,USA,English,55+,Basic,False,False,True,True,False,2024,7.5
+USR8580,Interstellar,Movie,Comedy,Disney+,Laptop,2024-06-15,22,Saturday,June,100,True,5,79.6,France,English,55+,Free,True,True,False,False,True,2023,5.9
+USR2354,Gone Girl,Movie,Thriller,Disney+,Mobile,2024-03-31,19,Sunday,March,96,True,5,86.5,India,Hindi,25-34,Premium,False,False,True,True,False,2024,9.2
+USR8211,Fullmetal Alchemist,Short Film,Thriller,Netflix,Smart TV,2024-12-24,19,Tuesday,December,30,True,5,84.0,Brazil,English,25-34,Free,False,True,True,True,True,2022,6.5
+USR5716,Fight Club,Movie,Drama,Disney+,Laptop,2024-10-08,2,Tuesday,October,91,True,5,74.1,Canada,Portuguese,35-44,Free,False,True,True,True,False,2019,5.3
+USR6518,One Piece,Movie,Romance,HBO Max,Smart TV,2024-08-07,23,Wednesday,August,99,True,5,91.1,Canada,English,25-34,Basic,False,False,False,True,True,2021,7.6
+USR8196,Loki,Movie,Comedy,Amazon Prime,Desktop,2024-02-06,2,Tuesday,February,90,True,4,86.6,USA,Spanish,45-54,Premium,True,True,True,False,False,2019,7.2
+USR3575,Game of Thrones,Documentary,Drama,Disney+,Desktop,2024-10-18,13,Friday,October,103,True,4,86.1,USA,English,35-44,Premium,True,True,True,True,False,2019,7.0
+USR6423,Blue Eye Samurai,Movie,Action,Netflix,Smart TV,2024-05-26,10,Sunday,May,113,True,5,92.5,India,Korean,13-17,Free,False,True,False,False,True,2024,9.7
+USR1106,Breaking Bad,Series,Comedy,Netflix,Smart TV,2024-10-03,10,Thursday,October,50,True,4,88.0,Brazil,English,55+,Premium,True,False,False,False,False,2020,6.8
+USR3935,Dark S3,Documentary,Thriller,Disney+,Mobile,2024-10-16,14,Wednesday,October,75,True,2,80.7,Brazil,English,25-34,Standard,True,True,True,True,False,2018,7.5
+USR3800,Dune Part Two,Movie,Anime,Apple TV+,Smart TV,2024-08-15,3,Thursday,August,118,True,3,85.0,USA,German,35-44,Standard,False,False,False,False,False,2024,7.1
+USR2543,Mindhunter,Series,Sci-Fi,Amazon Prime,Mobile,2024-02-27,19,Tuesday,February,51,True,4,94.3,Canada,English,18-24,Premium,True,True,False,False,False,2019,7.9
+USR1875,Gone Girl,Series,Drama,HBO Max,Mobile,2024-02-04,12,Sunday,February,39,True,5,70.1,India,Hindi,18-24,Premium,True,True,False,False,False,2023,6.0
+USR2797,Dune Part Two,Movie,Crime,Netflix,Smart TV,2024-04-27,22,Saturday,April,108,True,5,80.7,UK,German,25-34,Standard,True,True,True,False,True,2018,10.0
+USR2691,Squid Game,Movie,Thriller,HBO Max,Laptop,2024-11-20,13,Wednesday,November,202,True,5,85.8,USA,English,45-54,Premium,True,True,False,False,False,2018,7.8
+USR9802,Wednesday,Short Film,Thriller,Disney+,Mobile,2024-12-15,22,Sunday,December,22,False,4,92.9,India,English,13-17,Basic,False,True,False,False,False,2021,6.7
+USR9867,Stranger Things,Series,Romance,Apple TV+,Smart TV,2024-06-01,11,Saturday,June,23,True,3,84.9,India,Hindi,18-24,Standard,False,True,True,False,False,2020,5.8
+USR3506,Poor Things,Series,Drama,Apple TV+,Tablet,2024-07-26,13,Friday,July,24,True,5,92.4,Canada,Spanish,25-34,Free,False,False,False,True,True,2021,6.5
+USR4109,3 Body Problem,Short Film,Romance,Disney+,Smart TV,2024-07-19,18,Friday,July,30,True,1,86.3,Japan,Hindi,25-34,Premium,True,False,True,False,False,2024,8.3
+USR2607,One Piece,Short Film,Action,Amazon Prime,Laptop,2024-06-24,17,Monday,June,11,True,4,92.7,France,English,18-24,Basic,False,True,False,False,False,2019,8.0
+USR6974,Parasite,Movie,Sci-Fi,Netflix,Desktop,2024-10-13,22,Sunday,October,122,True,5,99.0,USA,English,55+,Premium,True,True,True,False,False,2023,7.0
+USR8430,Ozark,Series,Thriller,HBO Max,Smart TV,2024-09-27,19,Friday,September,58,True,4,94.1,Canada,French,45-54,Basic,False,False,False,False,False,2019,5.8
+USR3072,Poor Things,Series,Comedy,Apple TV+,Mobile,2024-08-11,14,Sunday,August,26,True,4,94.8,India,English,13-17,Standard,True,True,False,False,False,2022,6.6
+USR4924,Dark S3,Documentary,Sci-Fi,Amazon Prime,Smart TV,2024-02-14,21,Wednesday,February,83,True,4,86.8,UK,Portuguese,18-24,Basic,False,False,True,False,False,2020,6.2
+USR6061,The Last of Us,Short Film,Crime,Disney+,Mobile,2024-01-27,12,Saturday,January,13,True,5,85.2,Australia,English,25-34,Basic,False,True,False,False,True,2022,9.5
+USR5601,House of the Dragon,Anime,Thriller,HBO Max,Tablet,2024-11-26,20,Tuesday,November,33,True,3,88.9,India,Hindi,55+,Basic,False,True,False,False,False,2024,6.9
+USR6594,Shogun 2024,Anime,Romance,Netflix,Mobile,2024-12-14,1,Saturday,December,43,True,5,82.0,USA,Hindi,25-34,Standard,True,True,True,False,True,2018,6.7
+USR9505,Gone Girl,Documentary,Fantasy,Disney+,Mobile,2024-11-26,22,Tuesday,November,48,True,4,89.9,South Korea,English,55+,Standard,False,False,True,True,False,2024,8.2
+USR2422,Black Mirror,Movie,Thriller,Netflix,Desktop,2024-04-09,17,Tuesday,April,176,True,5,83.5,South Korea,German,18-24,Basic,False,True,True,False,True,2023,6.7
+USR4493,Squid Game,Series,Sci-Fi,Disney+,Tablet,2024-01-14,13,Sunday,January,61,True,5,86.6,India,English,35-44,Premium,True,True,False,False,True,2020,6.2
+USR1569,Loki,Documentary,Horror,Apple TV+,Laptop,2024-07-05,14,Friday,July,99,True,3,86.3,USA,German,25-34,Standard,True,True,False,False,False,2024,8.2
+USR3996,Zodiac,Documentary,Sci-Fi,Netflix,Smart TV,2024-03-22,10,Friday,March,115,True,4,90.7,India,French,35-44,Premium,True,True,True,False,False,2021,8.0
+USR9328,Oppenheimer,Movie,Horror,Netflix,Smart TV,2024-04-12,7,Friday,April,114,True,5,90.5,Canada,Spanish,25-34,Premium,True,False,False,False,False,2023,7.1
+USR7383,Squid Game,Series,Sci-Fi,Disney+,Mobile,2024-12-16,10,Monday,December,43,True,5,89.8,Japan,Japanese,35-44,Premium,True,False,True,True,False,2024,7.4
+USR1222,Gone Girl,Movie,Documentary,Netflix,Laptop,2024-09-08,19,Sunday,September,106,True,4,86.3,India,Spanish,18-24,Standard,True,True,True,False,False,2023,8.6
+USR7034,Poor Things,Series,Drama,Netflix,Mobile,2024-07-06,22,Saturday,July,33,True,2,81.1,UK,Korean,18-24,Standard,False,True,True,True,False,2018,7.8
+USR1297,Money Heist,Anime,Action,Netflix,Smart TV,2024-10-22,20,Tuesday,October,37,True,3,77.8,India,Portuguese,35-44,Free,False,True,True,False,True,2018,6.9
+USR8775,The Last of Us,Series,Horror,Amazon Prime,Desktop,2024-04-13,1,Saturday,April,47,True,5,76.9,India,Hindi,45-54,Basic,False,False,True,False,False,2024,8.0
+USR6058,Andor,Series,Drama,Disney+,Mobile,2024-01-15,21,Monday,January,37,True,4,76.6,India,English,35-44,Basic,True,False,False,False,False,2019,6.1
+USR8472,Breaking Bad,Movie,Thriller,Netflix,Smart TV,2024-04-29,11,Monday,April,171,True,4,92.6,UK,Korean,13-17,Standard,False,True,True,False,False,2021,5.6
+USR5209,Game of Thrones,Series,Action,HBO Max,Tablet,2024-06-01,14,Saturday,June,44,True,4,97.5,India,Hindi,25-34,Standard,True,True,False,False,False,2022,8.3
+USR7077,Attack on Titan,Short Film,Comedy,Netflix,Laptop,2024-04-05,12,Friday,April,17,False,5,82.4,UK,English,25-34,Free,True,True,False,False,False,2018,6.7
+USR5891,Game of Thrones,Series,Fantasy,Disney+,Mobile,2024-06-09,14,Sunday,June,40,True,4,78.5,Germany,French,55+,Basic,True,True,False,False,False,2018,6.8
+USR5417,Narcos,Series,Romance,Netflix,Laptop,2024-07-21,15,Sunday,July,59,True,4,94.7,USA,Hindi,35-44,Standard,False,True,True,True,False,2022,4.9
+USR1130,Your Name,Anime,Sci-Fi,Disney+,Tablet,2024-09-01,3,Sunday,September,30,False,4,74.7,UK,English,18-24,Premium,False,True,True,False,False,2020,5.4
+USR8091,The Crown,Anime,Comedy,Amazon Prime,Tablet,2024-11-18,1,Monday,November,22,True,2,94.4,USA,English,35-44,Basic,True,True,False,False,True,2024,8.6
+USR8722,Dark S3,Movie,Documentary,Amazon Prime,Mobile,2024-02-28,18,Wednesday,February,159,True,4,77.2,Canada,Hindi,45-54,Premium,False,False,True,False,False,2020,8.6
+USR7674,Killers of the Flower Moon,Movie,Drama,Netflix,Smart TV,2024-12-22,22,Sunday,December,150,False,5,77.6,France,Korean,13-17,Basic,True,True,True,True,True,2020,6.9
+USR6141,Zodiac,Anime,Horror,Amazon Prime,Laptop,2024-04-28,21,Sunday,April,39,False,5,79.7,Australia,English,45-54,Basic,False,True,False,False,False,2021,5.8
+USR7006,Succession,Documentary,Thriller,Netflix,Desktop,2024-08-12,17,Monday,August,74,True,2,80.1,India,Spanish,35-44,Basic,True,True,False,False,False,2024,9.2
+USR4349,Dark S3,Movie,Thriller,HBO Max,Laptop,2024-03-22,18,Friday,March,177,True,3,85.4,USA,English,25-34,Standard,True,True,False,False,False,2024,7.8
+USR4450,Succession,Series,Comedy,Apple TV+,Laptop,2024-01-06,9,Saturday,January,25,True,4,76.6,India,German,45-54,Standard,False,True,False,True,False,2023,8.9
+USR3677,Gone Girl,Movie,Action,Amazon Prime,Desktop,2024-03-08,3,Friday,March,79,True,5,89.5,Japan,English,45-54,Free,False,False,False,True,False,2021,5.3
+USR6894,Fullmetal Alchemist,Documentary,Comedy,Disney+,Mobile,2024-02-22,22,Thursday,February,68,False,5,88.7,Canada,Japanese,55+,Basic,False,True,True,False,True,2019,6.2
+USR3415,Squid Game,Series,Anime,Disney+,Laptop,2024-06-11,22,Tuesday,June,38,True,4,74.9,UK,Japanese,25-34,Premium,True,True,True,True,True,2022,8.4
+USR2211,WandaVision,Short Film,Thriller,Disney+,Desktop,2024-08-22,19,Thursday,August,11,True,5,71.3,Brazil,French,25-34,Standard,False,False,False,False,False,2022,6.5
+USR7353,Money Heist,Movie,Drama,Disney+,Laptop,2024-11-12,7,Tuesday,November,119,True,3,88.1,USA,Japanese,18-24,Free,False,True,True,True,False,2023,6.9
+USR5948,The Mandalorian,Series,Romance,Apple TV+,Smart TV,2024-05-13,10,Monday,May,34,True,5,89.4,Brazil,French,25-34,Premium,True,True,False,True,False,2024,8.9
+USR9140,Money Heist,Movie,Drama,Disney+,Laptop,2024-03-26,9,Tuesday,March,155,True,5,83.8,Canada,German,25-34,Standard,True,False,False,True,False,2019,6.8
+USR3192,Oppenheimer,Short Film,Comedy,Apple TV+,Smart TV,2024-08-19,13,Monday,August,22,False,4,82.1,Australia,Japanese,55+,Basic,True,True,False,False,False,2019,7.7
+USR5860,Gone Girl,Movie,Drama,Disney+,Laptop,2024-01-22,19,Monday,January,114,False,4,78.0,Germany,English,25-34,Free,False,True,True,False,False,2019,7.9
+USR2371,Severance,Anime,Sci-Fi,Amazon Prime,Tablet,2024-04-14,19,Sunday,April,29,True,5,95.1,Brazil,English,45-54,Premium,True,True,False,False,False,2022,7.6
+USR9802,Succession,Documentary,Action,Amazon Prime,Desktop,2024-03-19,17,Tuesday,March,59,True,5,84.7,USA,Portuguese,35-44,Premium,False,True,True,False,False,2021,7.3
+USR6092,Planet Earth III,Series,Comedy,Apple TV+,Mobile,2024-08-14,22,Wednesday,August,40,True,5,88.3,Canada,Korean,18-24,Standard,True,True,False,False,True,2019,4.4
+USR2833,Poor Things,Movie,Horror,Netflix,Smart TV,2024-04-03,20,Wednesday,April,147,True,5,84.9,UK,Japanese,18-24,Premium,False,True,False,False,False,2023,8.0
+USR6698,Andor,Series,Sci-Fi,Disney+,Smart TV,2024-03-23,19,Saturday,March,32,False,4,86.6,Germany,Japanese,18-24,Basic,False,True,False,True,True,2019,8.3
+USR2023,Succession,Documentary,Action,Netflix,Mobile,2024-09-28,19,Saturday,September,66,True,5,78.2,UK,Japanese,25-34,Premium,False,False,False,True,False,2019,4.9
+USR9885,Ozark,Series,Drama,Apple TV+,Desktop,2024-09-13,16,Friday,September,27,True,5,87.0,India,Hindi,18-24,Standard,False,True,False,True,False,2024,8.4
+USR2037,Inception,Movie,Sci-Fi,Disney+,Smart TV,2024-03-21,22,Thursday,March,164,True,5,75.8,UK,Korean,35-44,Premium,True,False,False,False,False,2021,6.9
+USR3087,WandaVision,Anime,Documentary,Netflix,Laptop,2024-11-18,11,Monday,November,30,False,5,93.9,Canada,German,18-24,Premium,False,True,False,False,False,2019,6.7
+USR7541,Parasite,Anime,Drama,Amazon Prime,Laptop,2024-10-04,14,Friday,October,44,True,5,97.6,USA,English,45-54,Standard,True,True,True,False,False,2019,7.4
+USR8291,Stranger Things,Movie,Romance,Disney+,Laptop,2024-06-24,18,Monday,June,109,True,4,93.7,Canada,English,35-44,Standard,False,True,False,False,False,2018,7.3
+USR9340,Andor,Movie,Anime,Amazon Prime,Laptop,2024-10-14,14,Monday,October,147,False,5,74.8,Japan,Spanish,45-54,Free,True,True,True,False,False,2021,7.2
+USR9433,Ozark,Series,Action,HBO Max,Smart TV,2024-10-24,20,Thursday,October,22,True,4,83.4,Brazil,English,18-24,Premium,False,True,True,False,False,2020,7.1
+USR4112,Gone Girl,Series,Thriller,Apple TV+,Smart TV,2024-10-10,0,Thursday,October,36,True,4,79.0,Japan,English,25-34,Premium,False,True,False,True,False,2018,7.0
+USR6651,Mindhunter,Movie,Mystery,Netflix,Smart TV,2024-10-10,0,Thursday,October,87,False,5,98.7,Germany,Hindi,35-44,Premium,False,True,True,False,False,2020,6.7
+USR8861,Oppenheimer,Series,Anime,Netflix,Mobile,2024-02-19,15,Monday,February,49,False,5,70.1,Australia,Japanese,18-24,Premium,False,True,False,True,False,2023,6.7
+USR7913,Spirited Away,Movie,Drama,Netflix,Desktop,2024-03-03,16,Sunday,March,175,True,5,84.9,Brazil,Hindi,45-54,Basic,False,True,False,True,False,2020,8.7
+USR4530,Fullmetal Alchemist,Series,Documentary,Netflix,Desktop,2024-11-08,18,Friday,November,29,True,5,85.6,Australia,English,45-54,Basic,True,False,True,True,False,2020,6.5
+USR5709,Game of Thrones,Movie,Comedy,Netflix,Tablet,2024-11-01,21,Friday,November,200,True,4,89.1,Germany,English,18-24,Premium,False,True,False,False,False,2018,6.0
+USR9938,Squid Game,Short Film,Anime,Netflix,Laptop,2024-02-04,20,Sunday,February,23,True,4,98.2,Canada,Japanese,35-44,Basic,True,True,False,True,False,2019,9.5
+USR1772,The Wire,Documentary,Thriller,Netflix,Mobile,2024-12-30,13,Monday,December,52,False,4,74.0,USA,English,25-34,Basic,True,False,False,False,True,2021,7.3
+USR4267,Money Heist,Anime,Documentary,Netflix,Tablet,2024-09-27,20,Friday,September,44,True,4,87.2,USA,German,18-24,Basic,True,True,True,True,False,2018,6.7
+USR2119,Chernobyl,Anime,Sci-Fi,Disney+,Tablet,2024-02-05,16,Monday,February,37,True,2,93.4,Japan,Hindi,25-34,Free,False,True,True,True,False,2021,7.1
+USR2759,Chernobyl,Movie,Drama,Disney+,Desktop,2024-12-20,2,Friday,December,206,True,5,83.8,UK,Hindi,25-34,Premium,True,False,True,False,True,2024,5.9
+USR6594,Succession,Series,Thriller,Netflix,Smart TV,2024-07-22,18,Monday,July,46,True,4,76.5,Canada,Japanese,45-54,Standard,True,True,False,False,False,2022,8.1
+USR5830,Mindhunter,Documentary,Romance,Amazon Prime,Smart TV,2024-04-29,22,Monday,April,82,True,5,94.3,USA,German,35-44,Basic,False,False,False,False,False,2021,8.0
+USR2821,Attack on Titan,Series,Documentary,Apple TV+,Tablet,2024-03-28,6,Thursday,March,55,True,4,79.0,India,English,25-34,Standard,False,True,False,False,False,2024,8.7
+USR5303,Game of Thrones,Movie,Action,Disney+,Tablet,2024-03-11,20,Monday,March,159,True,1,81.8,Japan,Spanish,45-54,Basic,True,False,False,False,False,2018,7.3
+USR9055,Parasite,Anime,Romance,Netflix,Mobile,2024-04-03,18,Wednesday,April,24,True,3,85.2,India,German,25-34,Free,False,False,False,False,False,2023,5.1
+USR4621,The Wire,Series,Sci-Fi,Netflix,Mobile,2024-10-20,22,Sunday,October,49,True,4,91.7,India,Spanish,25-34,Standard,False,False,True,False,False,2023,7.5
+USR3058,Your Name,Movie,Romance,Netflix,Laptop,2024-06-12,11,Wednesday,June,77,True,4,89.3,South Korea,English,35-44,Basic,True,False,True,True,False,2024,7.8
+USR6623,Se7en,Documentary,Documentary,Disney+,Smart TV,2024-09-30,10,Monday,September,104,False,4,77.3,Japan,Japanese,18-24,Premium,True,True,True,True,False,2021,9.2
+USR5782,The Mandalorian,Movie,Drama,Apple TV+,Smart TV,2024-10-17,3,Thursday,October,185,True,4,92.2,Australia,English,25-34,Basic,True,True,False,False,False,2018,7.2
+USR3595,Parasite,Series,Sci-Fi,HBO Max,Laptop,2024-02-21,16,Wednesday,February,52,True,5,76.8,Canada,Portuguese,35-44,Standard,True,True,True,True,False,2020,5.4
+USR9772,Fullmetal Alchemist,Documentary,Romance,Netflix,Tablet,2024-02-05,18,Monday,February,86,False,5,76.2,France,Hindi,25-34,Premium,False,True,False,False,True,2019,6.0
+USR9664,Attack on Titan,Movie,Comedy,Netflix,Smart TV,2024-01-05,19,Friday,January,141,True,4,95.1,USA,English,18-24,Free,True,False,True,False,False,2024,5.5
+USR5417,House of the Dragon,Documentary,Romance,Disney+,Smart TV,2024-12-03,22,Tuesday,December,80,True,5,89.4,Germany,Hindi,45-54,Basic,False,True,False,False,False,2018,8.4
+USR5439,The Bear,Movie,Sci-Fi,Disney+,Mobile,2024-08-20,20,Tuesday,August,102,True,3,75.3,India,German,35-44,Premium,False,True,True,False,False,2020,6.7
+USR2846,Chernobyl,Movie,Sci-Fi,Amazon Prime,Laptop,2024-09-19,18,Thursday,September,77,True,3,70.7,India,Spanish,45-54,Premium,True,True,True,True,True,2018,7.8
+USR5579,Dune Part Two,Movie,Documentary,Apple TV+,Smart TV,2024-05-14,15,Tuesday,May,190,False,5,86.8,India,Korean,25-34,Standard,False,True,True,True,False,2019,7.3
+USR8776,Shogun 2024,Series,Thriller,Amazon Prime,Laptop,2024-10-09,17,Wednesday,October,39,True,3,94.2,Germany,Portuguese,45-54,Standard,True,True,True,False,False,2019,8.1
+USR9615,Peaky Blinders,Movie,Sci-Fi,HBO Max,Laptop,2024-04-04,1,Thursday,April,88,True,3,86.9,India,Hindi,18-24,Free,True,True,False,True,False,2024,8.3
+USR1510,Dark S3,Movie,Drama,Apple TV+,Mobile,2024-01-18,9,Thursday,January,167,True,2,89.1,USA,Hindi,25-34,Free,True,True,False,False,True,2024,5.5
+USR1675,Interstellar,Movie,Comedy,Netflix,Laptop,2024-08-24,17,Saturday,August,127,True,3,82.2,UK,English,25-34,Free,True,False,True,False,False,2020,6.6
+USR7669,Succession,Documentary,Mystery,Netflix,Smart TV,2024-07-27,15,Saturday,July,45,True,4,92.3,South Korea,English,18-24,Basic,False,False,True,False,True,2021,4.5
+USR8308,Loki,Movie,Sci-Fi,HBO Max,Smart TV,2024-01-08,18,Monday,January,79,True,5,99.0,Brazil,Hindi,13-17,Standard,True,True,True,True,True,2021,8.6
+USR9848,Chernobyl,Anime,Romance,Netflix,Mobile,2024-02-10,21,Saturday,February,33,True,4,96.8,India,English,18-24,Standard,True,False,False,False,True,2024,6.9
+USR9416,Fight Club,Series,Comedy,Disney+,Smart TV,2024-08-08,17,Thursday,August,52,True,4,77.2,UK,English,25-34,Free,True,True,True,True,False,2019,6.4
+USR1714,Succession,Documentary,Action,Netflix,Mobile,2024-08-12,6,Monday,August,117,True,5,76.6,USA,Korean,35-44,Premium,False,False,True,False,False,2019,6.6
+USR9647,Narcos,Documentary,Mystery,Netflix,Smart TV,2024-04-11,8,Thursday,April,109,False,5,76.9,USA,Hindi,18-24,Premium,True,False,True,False,False,2023,7.7
+USR5779,Zodiac,Documentary,Drama,Amazon Prime,Tablet,2024-03-16,16,Saturday,March,115,True,1,85.0,South Korea,Hindi,35-44,Standard,True,True,False,False,True,2020,7.1
+USR9101,Andor,Series,Thriller,Disney+,Tablet,2024-03-01,21,Friday,March,31,True,5,93.7,France,Korean,35-44,Standard,False,False,False,False,False,2022,8.0
+USR1377,Demon Slayer,Movie,Mystery,HBO Max,Desktop,2024-06-21,14,Friday,June,141,False,4,91.7,Japan,Portuguese,25-34,Standard,True,True,True,False,False,2018,6.2
+USR6063,Shogun 2024,Series,Thriller,Netflix,Laptop,2024-02-19,20,Monday,February,31,True,4,77.5,South Korea,English,25-34,Premium,True,True,True,True,False,2018,5.9
+USR2564,Succession,Movie,Crime,Disney+,Smart TV,2024-08-16,15,Friday,August,185,True,5,74.1,Canada,English,35-44,Free,True,False,False,False,True,2019,6.4
+USR2147,Black Mirror,Movie,Comedy,HBO Max,Smart TV,2024-11-30,17,Saturday,November,83,True,4,99.0,USA,English,18-24,Basic,False,True,True,True,False,2019,7.2
+USR2903,Fight Club,Short Film,Thriller,Netflix,Smart TV,2024-06-25,19,Tuesday,June,27,True,5,96.4,USA,English,18-24,Standard,True,True,True,False,False,2018,8.3
+USR2470,Severance,Series,Sci-Fi,Netflix,Mobile,2024-02-01,7,Thursday,February,55,False,4,88.3,India,German,25-34,Premium,False,True,True,True,False,2022,7.3
+USR6004,The Social Network,Movie,Horror,Amazon Prime,Smart TV,2024-07-10,12,Wednesday,July,141,True,5,98.2,India,English,25-34,Premium,False,True,False,True,False,2020,6.7
+USR7911,Poor Things,Movie,Comedy,Disney+,Laptop,2024-05-01,11,Wednesday,May,113,True,4,88.6,UK,Hindi,18-24,Premium,False,False,True,False,False,2021,8.9
+USR5522,Dune Part Two,Short Film,Action,Apple TV+,Laptop,2024-08-19,22,Monday,August,22,True,5,79.3,France,Japanese,25-34,Premium,False,True,False,True,False,2021,7.9
+USR8919,The Crown,Documentary,Romance,Disney+,Laptop,2024-08-27,20,Tuesday,August,58,True,5,83.6,South Korea,English,25-34,Basic,True,True,False,False,False,2022,7.4
+USR3819,Oppenheimer,Short Film,Sci-Fi,Amazon Prime,Laptop,2024-03-19,13,Tuesday,March,15,True,5,91.0,South Korea,Korean,25-34,Basic,False,False,True,False,False,2019,6.0
+USR9236,Severance,Series,Action,Amazon Prime,Smart TV,2024-10-06,18,Sunday,October,65,True,3,82.1,Germany,Hindi,25-34,Premium,True,False,True,False,True,2024,6.5
+USR5049,Oppenheimer,Documentary,Mystery,Netflix,Smart TV,2024-02-20,3,Tuesday,February,80,True,5,90.0,India,Hindi,25-34,Standard,True,True,False,False,True,2023,6.5
+USR1810,Poor Things,Documentary,Drama,HBO Max,Smart TV,2024-11-24,17,Sunday,November,102,True,3,96.5,India,English,55+,Basic,False,True,True,True,False,2023,7.9
+USR6812,Fight Club,Series,Comedy,Disney+,Mobile,2024-02-20,21,Tuesday,February,46,True,5,85.7,Australia,Portuguese,55+,Standard,True,True,True,False,False,2022,6.7
+USR3727,Spirited Away,Documentary,Fantasy,Disney+,Smart TV,2024-06-17,19,Monday,June,66,False,4,92.1,UK,French,25-34,Standard,True,False,False,True,False,2018,6.9
+USR7294,Money Heist,Movie,Thriller,Disney+,Smart TV,2024-07-31,19,Wednesday,July,126,True,3,68.7,UK,Spanish,25-34,Standard,False,True,False,False,True,2018,5.2
+USR5208,Gone Girl,Documentary,Action,Disney+,Laptop,2024-04-03,1,Wednesday,April,109,True,5,80.0,Brazil,English,35-44,Basic,True,True,False,True,False,2024,8.0
+USR8158,One Piece,Series,Anime,Amazon Prime,Tablet,2024-07-15,19,Monday,July,50,True,1,84.3,Australia,English,45-54,Premium,True,False,False,True,False,2023,8.8
+USR9563,Money Heist,Documentary,Fantasy,Apple TV+,Mobile,2024-02-29,2,Thursday,February,91,True,3,99.0,Brazil,English,45-54,Standard,False,True,False,False,False,2024,7.3
+USR3414,Blue Eye Samurai,Series,Sci-Fi,Netflix,Tablet,2024-05-29,12,Wednesday,May,22,True,5,84.2,USA,English,25-34,Basic,False,True,True,True,False,2019,5.7
+USR9170,Narcos,Anime,Crime,Apple TV+,Smart TV,2024-04-28,21,Sunday,April,25,True,4,81.6,USA,Portuguese,25-34,Premium,False,True,False,True,False,2020,7.0
+USR9155,Interstellar,Anime,Fantasy,Netflix,Mobile,2024-06-13,7,Thursday,June,25,True,4,92.7,India,Hindi,18-24,Premium,False,False,False,False,False,2021,7.8
+USR2059,The Mandalorian,Movie,Anime,Amazon Prime,Laptop,2024-01-10,15,Wednesday,January,193,False,4,98.7,India,Hindi,18-24,Standard,True,True,True,False,False,2023,7.1
+USR2194,The Crown,Series,Horror,Netflix,Mobile,2024-04-27,22,Saturday,April,33,True,1,83.0,UK,English,25-34,Basic,True,True,True,False,False,2022,7.9
+USR7180,Fight Club,Short Film,Fantasy,Netflix,Mobile,2024-07-25,7,Thursday,July,18,True,4,84.2,India,Hindi,18-24,Premium,True,True,False,False,False,2021,7.5
+USR5313,Inception,Movie,Romance,Netflix,Mobile,2024-12-20,22,Friday,December,179,True,4,82.3,France,Hindi,25-34,Standard,True,True,False,False,False,2020,5.1
+USR5216,Dark S3,Anime,Crime,Disney+,Smart TV,2024-01-14,18,Sunday,January,32,True,2,87.6,USA,Korean,35-44,Standard,True,True,False,False,False,2020,8.3
+USR3133,WandaVision,Movie,Documentary,Disney+,Tablet,2024-05-10,16,Friday,May,121,True,4,85.8,Germany,English,35-44,Basic,False,True,True,True,False,2020,9.1
+USR7621,Your Name,Documentary,Comedy,Netflix,Mobile,2024-11-29,13,Friday,November,114,True,4,82.6,Canada,English,18-24,Free,True,True,True,False,True,2018,7.4
+USR2268,Succession,Anime,Mystery,HBO Max,Laptop,2024-04-02,19,Tuesday,April,27,True,5,99.0,UK,English,18-24,Standard,False,True,True,False,False,2019,7.5
+USR5581,Mindhunter,Documentary,Thriller,Amazon Prime,Smart TV,2024-08-16,21,Friday,August,97,True,3,95.4,Canada,French,45-54,Standard,False,False,True,True,False,2022,7.5
+USR2781,Se7en,Short Film,Thriller,Amazon Prime,Desktop,2024-04-23,21,Tuesday,April,29,True,4,84.7,Canada,Korean,18-24,Standard,True,False,True,False,True,2022,7.8
+USR6425,Killers of the Flower Moon,Documentary,Sci-Fi,Disney+,Smart TV,2024-03-01,20,Friday,March,100,True,2,87.1,UK,English,35-44,Basic,True,True,False,False,False,2021,5.2
+USR2692,Your Name,Series,Action,Netflix,Smart TV,2024-01-01,9,Monday,January,23,True,5,84.7,France,French,35-44,Basic,False,False,False,False,False,2019,3.7
+USR3748,Squid Game,Movie,Sci-Fi,Disney+,Smart TV,2024-11-13,11,Wednesday,November,124,True,4,87.7,USA,English,45-54,Premium,False,True,False,True,False,2019,9.5
+USR4172,Squid Game,Movie,Anime,Disney+,Smart TV,2024-06-21,19,Friday,June,147,True,5,91.5,India,English,45-54,Basic,True,True,True,False,False,2023,6.1
+USR7435,House of the Dragon,Short Film,Sci-Fi,Netflix,Desktop,2024-10-02,2,Wednesday,October,28,True,3,84.2,Brazil,Japanese,35-44,Premium,True,True,False,True,False,2020,8.1
+USR2602,Attack on Titan,Series,Sci-Fi,HBO Max,Mobile,2024-10-28,10,Monday,October,58,True,5,71.7,India,Hindi,18-24,Basic,True,True,True,False,False,2020,6.0
+USR8349,Wednesday,Movie,Romance,Amazon Prime,Tablet,2024-08-30,22,Friday,August,81,True,5,85.0,India,Japanese,18-24,Standard,True,True,False,True,False,2023,7.7
+USR5907,Squid Game,Movie,Horror,Apple TV+,Mobile,2024-02-24,3,Saturday,February,110,True,5,82.4,Australia,English,45-54,Standard,False,True,True,False,True,2023,8.0
+USR2793,Attack on Titan,Documentary,Sci-Fi,Netflix,Mobile,2024-05-08,19,Wednesday,May,86,True,5,83.4,India,German,13-17,Premium,True,True,False,False,False,2019,6.4
+USR5748,Peaky Blinders,Anime,Action,HBO Max,Mobile,2024-04-30,13,Tuesday,April,27,True,5,98.4,USA,French,25-34,Standard,False,False,False,False,False,2024,8.5
+USR3757,The Wire,Anime,Horror,Amazon Prime,Mobile,2024-06-13,6,Thursday,June,37,True,4,91.2,USA,English,35-44,Premium,False,True,False,True,True,2019,8.8
+USR4091,Attack on Titan,Movie,Thriller,Netflix,Laptop,2024-06-28,15,Friday,June,151,True,3,79.1,Germany,French,35-44,Free,False,False,True,True,False,2022,5.9
+USR6614,Succession,Series,Anime,Disney+,Laptop,2024-03-30,14,Saturday,March,30,False,4,73.1,South Korea,Hindi,18-24,Free,False,True,True,True,True,2023,8.5
+USR7263,Dark S3,Series,Sci-Fi,Apple TV+,Mobile,2024-02-13,3,Tuesday,February,27,True,5,87.1,Australia,Hindi,13-17,Standard,True,True,True,True,True,2023,7.8
+USR4739,WandaVision,Documentary,Thriller,HBO Max,Tablet,2024-08-02,0,Friday,August,90,True,4,80.7,India,English,18-24,Premium,False,False,False,True,False,2019,7.7
+USR5522,Breaking Bad,Movie,Romance,Apple TV+,Smart TV,2024-07-29,19,Monday,July,126,True,4,80.2,India,Korean,25-34,Standard,False,True,True,False,False,2024,4.4
+USR6573,Blue Eye Samurai,Series,Horror,Apple TV+,Laptop,2024-01-17,20,Wednesday,January,49,True,5,94.2,UK,Hindi,55+,Premium,True,True,True,True,False,2019,9.9
+USR9208,Mindhunter,Series,Comedy,Netflix,Smart TV,2024-05-26,20,Sunday,May,49,True,4,85.6,Canada,Hindi,35-44,Free,True,True,False,False,False,2024,6.5
+USR1052,Demon Slayer,Series,Action,Netflix,Mobile,2024-03-11,19,Monday,March,26,True,5,87.7,USA,Hindi,25-34,Premium,True,False,True,False,False,2020,8.3
+USR7726,Blue Eye Samurai,Series,Documentary,Netflix,Laptop,2024-10-29,12,Tuesday,October,25,True,5,81.8,USA,Hindi,55+,Standard,True,True,True,False,False,2021,7.3
+USR2100,The Wire,Short Film,Drama,Amazon Prime,Tablet,2024-11-29,14,Friday,November,17,True,5,87.5,Australia,French,18-24,Basic,True,True,True,True,False,2023,6.7
+USR4869,The Wire,Series,Thriller,Apple TV+,Smart TV,2024-03-26,13,Tuesday,March,57,True,5,93.5,USA,French,13-17,Premium,True,True,True,False,False,2019,7.5
+USR4004,Narcos,Series,Romance,Disney+,Smart TV,2024-01-14,17,Sunday,January,29,False,5,74.7,USA,French,45-54,Standard,False,True,False,False,False,2021,8.2
+USR3771,Se7en,Movie,Horror,Disney+,Tablet,2024-06-17,10,Monday,June,181,True,3,93.6,UK,Japanese,45-54,Premium,False,True,False,False,False,2024,7.6
+USR2273,Parasite,Documentary,Romance,Disney+,Smart TV,2024-01-12,14,Friday,January,116,True,4,91.5,Brazil,Korean,25-34,Standard,True,False,False,False,True,2023,8.0
+USR9036,Planet Earth III,Series,Crime,Disney+,Smart TV,2024-01-08,21,Monday,January,58,True,2,93.0,Canada,Hindi,25-34,Premium,True,False,True,False,False,2018,5.4
+USR4840,Poor Things,Series,Documentary,Disney+,Smart TV,2024-09-30,17,Monday,September,59,True,3,81.0,Australia,English,25-34,Standard,False,True,True,False,False,2021,6.9
+USR5449,Wednesday,Movie,Drama,Netflix,Laptop,2024-08-18,23,Sunday,August,141,True,1,88.6,Canada,Hindi,35-44,Standard,True,True,True,False,False,2023,6.1
+USR2866,Game of Thrones,Series,Action,Amazon Prime,Mobile,2024-02-08,11,Thursday,February,63,True,4,92.1,Brazil,Hindi,45-54,Premium,False,True,False,True,False,2023,6.7
+USR3557,Narcos,Movie,Documentary,Amazon Prime,Smart TV,2024-12-02,2,Monday,December,196,True,2,87.7,Canada,English,45-54,Basic,True,True,False,False,False,2018,8.3
+USR1494,Gone Girl,Movie,Sci-Fi,Netflix,Desktop,2024-08-20,21,Tuesday,August,151,False,5,74.0,Brazil,Hindi,25-34,Standard,False,False,True,False,False,2018,6.7
+USR7421,3 Body Problem,Series,Thriller,HBO Max,Laptop,2024-02-08,9,Thursday,February,29,True,4,81.8,India,English,18-24,Free,False,True,False,False,False,2021,5.0
+USR8938,Dark S3,Anime,Fantasy,Netflix,Smart TV,2024-04-09,11,Tuesday,April,42,True,5,87.6,India,English,35-44,Premium,False,True,True,False,False,2022,6.2
+USR1963,Squid Game,Series,Crime,Netflix,Smart TV,2024-01-10,17,Wednesday,January,39,True,4,84.3,Canada,Japanese,25-34,Free,False,True,True,False,False,2020,7.3
+USR1266,Squid Game,Series,Sci-Fi,Apple TV+,Smart TV,2024-01-22,20,Monday,January,45,True,5,85.3,Brazil,Spanish,25-34,Premium,True,True,True,False,False,2021,5.5
+USR9666,Narcos,Series,Drama,Disney+,Mobile,2024-05-07,13,Tuesday,May,24,True,4,99.0,USA,English,25-34,Basic,False,False,False,False,True,2023,7.2
+USR8433,Your Name,Short Film,Sci-Fi,Amazon Prime,Smart TV,2024-01-26,14,Friday,January,22,False,3,95.0,Canada,English,45-54,Basic,False,False,False,False,True,2023,6.9
+USR8388,One Piece,Documentary,Horror,Netflix,Smart TV,2024-11-04,16,Monday,November,116,True,5,76.4,India,German,25-34,Basic,True,True,True,False,False,2022,6.8
+USR2089,Breaking Bad,Movie,Sci-Fi,Amazon Prime,Smart TV,2024-05-06,0,Monday,May,178,False,5,85.3,USA,Korean,35-44,Standard,True,False,False,False,False,2020,6.7
+USR6265,Shogun 2024,Anime,Documentary,Apple TV+,Laptop,2024-11-29,16,Friday,November,28,True,3,79.8,Brazil,French,25-34,Free,False,True,True,False,False,2023,6.9
+USR1507,Your Name,Short Film,Thriller,HBO Max,Smart TV,2024-12-07,10,Saturday,December,15,True,2,96.4,France,Portuguese,25-34,Premium,True,False,False,False,True,2022,6.9
+USR1045,The Mandalorian,Short Film,Mystery,Netflix,Desktop,2024-10-06,16,Sunday,October,12,True,5,78.2,Canada,Hindi,55+,Standard,True,True,False,False,False,2024,8.2
+USR8899,Gone Girl,Documentary,Thriller,Netflix,Desktop,2024-05-28,23,Tuesday,May,73,True,3,81.0,Canada,French,18-24,Free,True,True,True,False,False,2018,7.2
+USR4248,Inception,Series,Horror,Apple TV+,Smart TV,2024-04-25,18,Thursday,April,59,False,5,96.8,UK,English,13-17,Basic,True,True,False,True,False,2022,7.7
+USR1084,Se7en,Movie,Drama,Amazon Prime,Mobile,2024-11-07,12,Thursday,November,132,False,3,93.0,Japan,Hindi,18-24,Premium,True,True,True,False,False,2024,6.9
+USR2202,Spirited Away,Movie,Horror,HBO Max,Smart TV,2024-07-01,9,Monday,July,173,False,4,77.8,Japan,Hindi,25-34,Standard,True,False,True,False,False,2020,7.0
+USR5027,Dark S3,Series,Drama,Disney+,Smart TV,2024-11-13,2,Wednesday,November,22,False,5,75.7,Australia,English,25-34,Standard,False,False,True,False,False,2019,8.1
+USR9912,Spirited Away,Movie,Action,Disney+,Mobile,2024-04-01,11,Monday,April,85,True,5,81.3,USA,German,35-44,Standard,True,True,False,True,False,2022,7.6
+USR4278,Succession,Movie,Mystery,Amazon Prime,Laptop,2024-12-23,13,Monday,December,135,True,3,83.6,France,Japanese,25-34,Basic,True,False,False,False,False,2021,6.5
+USR9861,Se7en,Series,Crime,Amazon Prime,Desktop,2024-01-22,18,Monday,January,29,True,5,89.7,Canada,Portuguese,45-54,Free,True,False,True,False,True,2020,7.4
+USR3603,Shogun 2024,Movie,Drama,Netflix,Smart TV,2024-10-02,1,Wednesday,October,178,True,3,80.9,India,English,45-54,Standard,True,False,True,True,False,2023,7.6
+USR6553,Squid Game,Documentary,Romance,Disney+,Smart TV,2024-01-30,12,Tuesday,January,53,True,4,81.6,Canada,Hindi,45-54,Premium,False,True,True,True,False,2022,6.6
+USR8346,Dark S3,Short Film,Drama,HBO Max,Smart TV,2024-07-11,13,Thursday,July,14,True,4,75.2,India,Hindi,25-34,Basic,False,True,True,False,False,2018,8.4
+USR1717,Attack on Titan,Movie,Horror,Apple TV+,Smart TV,2024-07-08,0,Monday,July,105,True,1,80.8,India,English,45-54,Basic,True,True,True,True,True,2019,6.6
+USR9739,Peaky Blinders,Anime,Action,Disney+,Mobile,2024-08-23,1,Friday,August,34,True,5,91.5,India,French,25-34,Premium,False,False,False,True,False,2023,6.1
+USR1266,Fullmetal Alchemist,Short Film,Thriller,Netflix,Mobile,2024-10-29,16,Tuesday,October,17,False,5,75.3,Canada,Korean,35-44,Basic,True,True,False,False,False,2021,6.2
+USR7691,Blue Eye Samurai,Movie,Sci-Fi,Apple TV+,Mobile,2024-07-26,13,Friday,July,179,True,2,92.9,Japan,French,25-34,Standard,True,True,False,True,False,2021,8.3
+USR2477,Peaky Blinders,Movie,Drama,HBO Max,Mobile,2024-01-09,2,Tuesday,January,76,True,5,83.0,UK,English,25-34,Basic,True,True,True,True,True,2019,7.5
+USR8660,Attack on Titan,Movie,Comedy,Netflix,Laptop,2024-10-29,19,Tuesday,October,99,True,4,97.7,India,Korean,18-24,Premium,True,True,False,False,False,2023,6.9
+USR8536,Ozark,Documentary,Comedy,Netflix,Smart TV,2024-06-02,19,Sunday,June,86,True,3,92.6,Canada,English,35-44,Free,True,True,False,False,False,2023,6.3
+USR3353,Se7en,Series,Sci-Fi,Netflix,Laptop,2024-02-15,16,Thursday,February,49,True,4,80.6,Australia,Korean,18-24,Standard,True,False,True,True,False,2022,6.9
+USR4879,One Piece,Movie,Anime,Apple TV+,Desktop,2024-03-09,11,Saturday,March,122,True,5,92.0,France,English,35-44,Premium,False,True,True,True,False,2020,6.5
+USR2156,Demon Slayer,Short Film,Thriller,Disney+,Smart TV,2024-12-18,23,Wednesday,December,16,True,4,87.9,Canada,English,35-44,Premium,True,False,False,True,False,2020,5.9
+USR1061,Zodiac,Documentary,Thriller,HBO Max,Smart TV,2024-03-05,23,Tuesday,March,115,False,2,75.0,Japan,Spanish,55+,Basic,True,False,True,False,False,2019,6.6
+USR8833,Oppenheimer,Series,Comedy,Netflix,Smart TV,2024-09-09,14,Monday,September,47,True,5,92.2,France,Hindi,18-24,Basic,True,False,True,True,False,2024,6.3
+USR8116,Loki,Movie,Drama,Disney+,Smart TV,2024-06-04,22,Tuesday,June,108,False,5,72.6,Germany,Hindi,18-24,Standard,True,True,True,False,False,2018,7.5
+USR7744,Dune Part Two,Movie,Comedy,Apple TV+,Laptop,2024-01-21,21,Sunday,January,178,True,5,75.4,USA,Hindi,25-34,Standard,False,True,False,False,False,2022,8.9
+USR6160,House of the Dragon,Series,Action,Amazon Prime,Smart TV,2024-12-13,14,Friday,December,54,True,4,99.0,India,English,35-44,Standard,True,True,False,True,True,2023,7.2
+USR2709,Game of Thrones,Short Film,Sci-Fi,Amazon Prime,Smart TV,2024-04-23,20,Tuesday,April,27,False,5,90.6,Canada,Japanese,25-34,Basic,True,True,False,False,False,2019,8.4
+USR8554,Interstellar,Short Film,Anime,HBO Max,Laptop,2024-03-11,8,Monday,March,30,True,3,81.9,Australia,English,25-34,Standard,True,False,True,False,False,2021,8.4
+USR7063,Ozark,Movie,Action,Apple TV+,Smart TV,2024-01-30,19,Tuesday,January,126,False,2,77.2,USA,Korean,35-44,Standard,False,True,True,False,False,2023,7.0
+USR4298,Ozark,Series,Action,Apple TV+,Smart TV,2024-08-15,21,Thursday,August,61,True,1,82.4,Japan,English,25-34,Standard,True,True,True,True,False,2020,6.5

@@ -1,0 +1,359 @@
+
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: var(--font-sans); background: transparent; }
+  :root {
+    --ss-blue: #378ADD; --ss-pink: #D4537E; --ss-purple: #7F77DD;
+    --ss-teal: #1D9E75; --ss-amber: #BA7517; --ss-coral: #D85A30;
+    --ss-blue-bg: #E6F1FB; --ss-pink-bg: #FBEAF0; --ss-purple-bg: #EEEDFE;
+    --ss-teal-bg: #E1F5EE; --ss-amber-bg: #FAEEDA;
+  }
+  .app-wrap { width: 100%; padding: 0 0 2rem; }
+  .header { display: flex; align-items: center; gap: 12px; padding: 1rem 0 0.5rem; border-bottom: 0.5px solid var(--color-border-tertiary); margin-bottom: 1rem; }
+  .logo-icon { width: 38px; height: 38px; background: linear-gradient(135deg, #378ADD 0%, #7F77DD 50%, #D4537E 100%); border-radius: var(--border-radius-md); display: flex; align-items: center; justify-content: center; }
+  .logo-play { width: 0; height: 0; border-top: 8px solid transparent; border-bottom: 8px solid transparent; border-left: 13px solid #fff; margin-left: 3px; }
+  .brand-name { font-size: 20px; font-weight: 500; color: var(--color-text-primary); }
+  .brand-name span { color: var(--ss-pink); }
+  .brand-sub { font-size: 11px; color: var(--color-text-secondary); letter-spacing: 0.06em; text-transform: uppercase; }
+  .nav { display: flex; gap: 4px; margin-left: auto; }
+  .nav-btn { font-size: 12px; padding: 5px 12px; border: 0.5px solid var(--color-border-tertiary); border-radius: var(--border-radius-md); background: transparent; color: var(--color-text-secondary); cursor: pointer; transition: all 0.15s; }
+  .nav-btn.active { background: var(--ss-blue-bg); color: var(--ss-blue); border-color: var(--ss-blue); font-weight: 500; }
+  .nav-btn:hover:not(.active) { background: var(--color-background-secondary); color: var(--color-text-primary); }
+  .tab-content { display: none; }
+  .tab-content.active { display: block; }
+  .metric-grid { display: grid; grid-template-columns: repeat(4, minmax(0,1fr)); gap: 10px; margin-bottom: 1.25rem; }
+  .metric { background: var(--color-background-secondary); border-radius: var(--border-radius-md); padding: 0.85rem 1rem; }
+  .metric-label { font-size: 11px; color: var(--color-text-secondary); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px; }
+  .metric-val { font-size: 22px; font-weight: 500; color: var(--color-text-primary); }
+  .metric-delta { font-size: 11px; margin-top: 2px; }
+  .metric-delta.up { color: var(--ss-teal); }
+  .metric-delta.down { color: var(--ss-coral); }
+  .chart-row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 1.25rem; }
+  .chart-card { background: var(--color-background-primary); border: 0.5px solid var(--color-border-tertiary); border-radius: var(--border-radius-lg); padding: 1rem 1.25rem; }
+  .chart-card.full { grid-column: 1/-1; }
+  .chart-title { font-size: 13px; font-weight: 500; color: var(--color-text-primary); margin-bottom: 0.75rem; }
+  .legend { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 8px; font-size: 11px; color: var(--color-text-secondary); }
+  .leg-dot { width: 9px; height: 9px; border-radius: 2px; display: inline-block; margin-right: 4px; }
+  .rec-grid { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 10px; margin-bottom: 1.25rem; }
+  .rec-card { background: var(--color-background-primary); border: 0.5px solid var(--color-border-tertiary); border-radius: var(--border-radius-lg); overflow: hidden; transition: border-color 0.15s; cursor: pointer; }
+  .rec-card:hover { border-color: var(--color-border-secondary); }
+  .rec-thumb { height: 90px; display: flex; align-items: center; justify-content: center; font-size: 28px; }
+  .rec-body { padding: 0.6rem 0.85rem 0.75rem; }
+  .rec-title { font-size: 13px; font-weight: 500; color: var(--color-text-primary); margin-bottom: 2px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .rec-meta { font-size: 11px; color: var(--color-text-secondary); }
+  .rec-match { display: inline-block; font-size: 10px; font-weight: 500; padding: 2px 7px; border-radius: var(--border-radius-md); margin-top: 5px; }
+  .search-bar { display: flex; gap: 8px; margin-bottom: 1rem; align-items: center; }
+  .search-bar input { flex: 1; height: 36px; border: 0.5px solid var(--color-border-tertiary); border-radius: var(--border-radius-md); padding: 0 12px; font-size: 13px; background: var(--color-background-primary); color: var(--color-text-primary); }
+  .search-bar input::placeholder { color: var(--color-text-tertiary); }
+  .search-bar select { height: 36px; border: 0.5px solid var(--color-border-tertiary); border-radius: var(--border-radius-md); padding: 0 8px; font-size: 13px; background: var(--color-background-primary); color: var(--color-text-primary); }
+  .ai-btn { height: 36px; padding: 0 16px; background: var(--ss-blue-bg); color: var(--ss-blue); border: 0.5px solid var(--ss-blue); border-radius: var(--border-radius-md); font-size: 13px; font-weight: 500; cursor: pointer; white-space: nowrap; }
+  .ai-btn:hover { background: #B5D4F4; }
+  .ai-output { background: var(--color-background-secondary); border-radius: var(--border-radius-lg); padding: 1rem 1.25rem; font-size: 13px; color: var(--color-text-primary); line-height: 1.6; margin-bottom: 1rem; min-height: 60px; border: 0.5px solid var(--color-border-tertiary); }
+  .ai-loading { display: inline-flex; gap: 4px; align-items: center; }
+  .dot { width: 6px; height: 6px; border-radius: 50%; background: var(--ss-blue); animation: pulse 1s infinite; }
+  .dot:nth-child(2) { animation-delay: 0.2s; }
+  .dot:nth-child(3) { animation-delay: 0.4s; }
+  @keyframes pulse { 0%,100%{opacity:0.3} 50%{opacity:1} }
+  .genre-row { display: grid; grid-template-columns: repeat(5, minmax(0,1fr)); gap: 8px; margin-bottom: 1.25rem; }
+  .genre-pill { background: var(--color-background-secondary); border: 0.5px solid var(--color-border-tertiary); border-radius: 20px; padding: 7px 12px; font-size: 12px; font-weight: 500; text-align: center; cursor: pointer; transition: all 0.15s; color: var(--color-text-secondary); }
+  .genre-pill.selected { border-color: var(--ss-purple); background: var(--ss-purple-bg); color: #3C3489; }
+  .genre-pill:hover:not(.selected) { background: var(--color-background-primary); color: var(--color-text-primary); }
+  .history-list { display: flex; flex-direction: column; gap: 6px; }
+  .history-item { display: flex; align-items: center; gap: 12px; padding: 0.6rem 0.85rem; background: var(--color-background-primary); border: 0.5px solid var(--color-border-tertiary); border-radius: var(--border-radius-md); font-size: 13px; }
+  .history-emo { font-size: 18px; width: 28px; text-align: center; }
+  .history-title { font-weight: 500; color: var(--color-text-primary); flex: 1; }
+  .history-meta { font-size: 11px; color: var(--color-text-secondary); }
+  .rating-stars { color: var(--ss-amber); font-size: 11px; }
+  .section-label { font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--color-text-secondary); font-weight: 500; margin-bottom: 8px; }
+</style>
+
+<div class="app-wrap">
+  <div class="header">
+    <div class="logo-icon"><div class="logo-play"></div></div>
+    <div>
+      <div class="brand-name">Smart<span>Stream</span></div>
+      <div class="brand-sub">AI-Powered Entertainment</div>
+    </div>
+    <div class="nav">
+      <button class="nav-btn active" onclick="switchTab('dashboard')">Dashboard</button>
+      <button class="nav-btn" onclick="switchTab('discover')">Discover</button>
+      <button class="nav-btn" onclick="switchTab('analytics')">Analytics</button>
+      <button class="nav-btn" onclick="switchTab('history')">History</button>
+    </div>
+  </div>
+
+  <!-- DASHBOARD TAB -->
+  <div id="tab-dashboard" class="tab-content active">
+    <div class="metric-grid">
+      <div class="metric"><div class="metric-label">Watch Hours</div><div class="metric-val">342</div><div class="metric-delta up">+12% this week</div></div>
+      <div class="metric"><div class="metric-label">Titles Watched</div><div class="metric-val">87</div><div class="metric-delta up">+5 new</div></div>
+      <div class="metric"><div class="metric-label">AI Score</div><div class="metric-val">94%</div><div class="metric-delta up">Match accuracy</div></div>
+      <div class="metric"><div class="metric-label">Genres Explored</div><div class="metric-val">11</div><div class="metric-delta down">-1 vs last month</div></div>
+    </div>
+
+    <div class="chart-row">
+      <div class="chart-card">
+        <div class="chart-title">Weekly watch hours by category</div>
+        <div class="legend">
+          <span><span class="leg-dot" style="background:#378ADD"></span>Movies</span>
+          <span><span class="leg-dot" style="background:#7F77DD"></span>Series</span>
+          <span><span class="leg-dot" style="background:#1D9E75"></span>Docs</span>
+        </div>
+        <div style="position:relative;width:100%;height:200px;"><canvas id="watchHours" role="img" aria-label="Bar chart of weekly watch hours by category">Weekly watching data by Movies, Series, and Documentaries.</canvas></div>
+      </div>
+      <div class="chart-card">
+        <div class="chart-title">Genre preference breakdown</div>
+        <div class="legend">
+          <span><span class="leg-dot" style="background:#D4537E"></span>Thriller</span>
+          <span><span class="leg-dot" style="background:#378ADD"></span>Sci-Fi</span>
+          <span><span class="leg-dot" style="background:#BA7517"></span>Drama</span>
+          <span><span class="leg-dot" style="background:#1D9E75"></span>Comedy</span>
+          <span><span class="leg-dot" style="background:#7F77DD"></span>Action</span>
+        </div>
+        <div style="position:relative;width:100%;height:200px;"><canvas id="genrePie" role="img" aria-label="Doughnut chart of genre preferences">Genre preference: Thriller 28%, Sci-Fi 22%, Drama 19%, Comedy 17%, Action 14%.</canvas></div>
+      </div>
+    </div>
+
+    <div class="chart-row">
+      <div class="chart-card full">
+        <div class="chart-title">AI recommendation accuracy over time</div>
+        <div class="legend">
+          <span><span class="leg-dot" style="background:#378ADD"></span>Predicted match</span>
+          <span><span class="leg-dot" style="background:#D4537E"></span>Actual rating</span>
+        </div>
+        <div style="position:relative;width:100%;height:190px;"><canvas id="accuracyLine" role="img" aria-label="Line chart showing AI recommendation accuracy over 12 months">Accuracy trend over 12 months showing improvement from 72% to 94%.</canvas></div>
+      </div>
+    </div>
+
+    <div class="section-label">Top AI picks for you today</div>
+    <div class="rec-grid" id="dashRecs">
+      <!-- filled by JS -->
+    </div>
+  </div>
+
+  <!-- DISCOVER TAB -->
+  <div id="tab-discover" class="tab-content">
+    <div class="search-bar">
+      <input type="text" id="searchInput" placeholder="Search movies, shows, documentaries..." />
+      <select id="searchCat">
+        <option>All types</option>
+        <option>Movies</option>
+        <option>Series</option>
+        <option>Documentaries</option>
+        <option>Anime</option>
+      </select>
+      <button class="ai-btn" onclick="doAISearch()">Ask AI ↗</button>
+    </div>
+
+    <div class="section-label">Filter by mood / genre</div>
+    <div class="genre-row" id="genreRow">
+      <div class="genre-pill selected" onclick="toggleGenre(this)">Thriller</div>
+      <div class="genre-pill" onclick="toggleGenre(this)">Sci-Fi</div>
+      <div class="genre-pill" onclick="toggleGenre(this)">Drama</div>
+      <div class="genre-pill" onclick="toggleGenre(this)">Comedy</div>
+      <div class="genre-pill" onclick="toggleGenre(this)">Action</div>
+      <div class="genre-pill" onclick="toggleGenre(this)">Romance</div>
+      <div class="genre-pill" onclick="toggleGenre(this)">Horror</div>
+      <div class="genre-pill" onclick="toggleGenre(this)">Anime</div>
+      <div class="genre-pill" onclick="toggleGenre(this)">Documentary</div>
+      <div class="genre-pill" onclick="toggleGenre(this)">Fantasy</div>
+    </div>
+
+    <div class="ai-output" id="discoverOutput">
+      <span style="color:var(--color-text-secondary);font-size:12px;">Ask AI for personalised recommendations, or browse by genre above.</span>
+    </div>
+
+    <div class="section-label">Trending now</div>
+    <div class="rec-grid" id="discoverRecs"></div>
+  </div>
+
+  <!-- ANALYTICS TAB -->
+  <div id="tab-analytics" class="tab-content">
+    <div class="metric-grid">
+      <div class="metric"><div class="metric-label">Avg Session</div><div class="metric-val">2.4h</div><div class="metric-delta up">+18 min</div></div>
+      <div class="metric"><div class="metric-label">Binge Rate</div><div class="metric-val">63%</div><div class="metric-delta up">+4%</div></div>
+      <div class="metric"><div class="metric-label">Skip Rate</div><div class="metric-val">8%</div><div class="metric-delta down">Improved</div></div>
+      <div class="metric"><div class="metric-label">Platforms</div><div class="metric-val">4</div><div class="metric-delta up">Connected</div></div>
+    </div>
+    <div class="chart-row">
+      <div class="chart-card">
+        <div class="chart-title">Monthly viewing trend (hours)</div>
+        <div class="legend"><span><span class="leg-dot" style="background:#378ADD"></span>This year</span><span><span class="leg-dot" style="background:#D3D1C7"></span>Last year</span></div>
+        <div style="position:relative;width:100%;height:210px;"><canvas id="monthlyLine" role="img" aria-label="Line chart comparing monthly viewing hours this year vs last year">Monthly hours comparison across the year.</canvas></div>
+      </div>
+      <div class="chart-card">
+        <div class="chart-title">Platform usage split</div>
+        <div class="legend">
+          <span><span class="leg-dot" style="background:#D4537E"></span>Netflix</span>
+          <span><span class="leg-dot" style="background:#378ADD"></span>Prime</span>
+          <span><span class="leg-dot" style="background:#BA7517"></span>Disney+</span>
+          <span><span class="leg-dot" style="background:#7F77DD"></span>Other</span>
+        </div>
+        <div style="position:relative;width:100%;height:210px;"><canvas id="platformPie" role="img" aria-label="Doughnut chart of platform usage split">Netflix 38%, Prime 27%, Disney+ 22%, Other 13%.</canvas></div>
+      </div>
+    </div>
+    <div class="chart-row">
+      <div class="chart-card full">
+        <div class="chart-title">Viewing by time of day (average minutes)</div>
+        <div class="legend"><span><span class="leg-dot" style="background:#7F77DD"></span>Weekday</span><span><span class="leg-dot" style="background:#D4537E"></span>Weekend</span></div>
+        <div style="position:relative;width:100%;height:190px;"><canvas id="timeOfDay" role="img" aria-label="Bar chart of viewing activity by hour of the day">Activity by hour split between weekday and weekend.</canvas></div>
+      </div>
+    </div>
+    <div class="chart-row">
+      <div class="chart-card full">
+        <div class="chart-title">Rating distribution (your ratings vs AI predicted)</div>
+        <div class="legend"><span><span class="leg-dot" style="background:#1D9E75"></span>Your ratings</span><span><span class="leg-dot" style="background:#378ADD"></span>AI prediction</span></div>
+        <div style="position:relative;width:100%;height:180px;"><canvas id="ratingDist" role="img" aria-label="Bar chart comparing user ratings vs AI predicted ratings">Rating distribution comparison.</canvas></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- HISTORY TAB -->
+  <div id="tab-history" class="tab-content">
+    <div class="section-label">Recently watched</div>
+    <div class="history-list" id="historyList"></div>
+  </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<script>
+const CONTENT = [
+  {t:'Oppenheimer', cat:'Movie', genre:'Drama', match:97, emo:'🎬', col:'#FBEAF0', tc:'#993556'},
+  {t:'Dark (S3)', cat:'Series', genre:'Sci-Fi', match:95, emo:'🌌', col:'#EEEDFE', tc:'#3C3489'},
+  {t:'Dune: Part Two', cat:'Movie', genre:'Sci-Fi', match:93, emo:'🏜️', col:'#FAEEDA', tc:'#854F0B'},
+  {t:'The Bear', cat:'Series', genre:'Drama', match:91, emo:'🍳', col:'#E1F5EE', tc:'#0F6E56'},
+  {t:'Poor Things', cat:'Movie', genre:'Fantasy', match:89, emo:'🎭', col:'#FBEAF0', tc:'#993556'},
+  {t:'Blue Eye Samurai', cat:'Anime', genre:'Action', match:88, emo:'⚔️', col:'#EEEDFE', tc:'#3C3489'},
+  {t:'Succession S4', cat:'Series', genre:'Drama', match:94, emo:'💼', col:'#E6F1FB', tc:'#185FA5'},
+  {t:'Planet Earth III', cat:'Doc', genre:'Nature', match:86, emo:'🌍', col:'#EAF3DE', tc:'#3B6D11'},
+  {t:'Killers of the Flower Moon', cat:'Movie', genre:'Thriller', match:92, emo:'🌸', col:'#FCEBEB', tc:'#A32D2D'},
+];
+
+const HISTORY = [
+  {t:'Shogun (2024)', cat:'Series', emo:'🏯', rating:5, dt:'Today, 9:40 PM', dur:'52 min'},
+  {t:'Dune: Part Two', cat:'Movie', emo:'🏜️', rating:5, dt:'Yesterday', dur:'2h 46min'},
+  {t:'The Bear S3', cat:'Series', emo:'🍳', rating:4, dt:'2 days ago', dur:'38 min'},
+  {t:'3 Body Problem', cat:'Series', emo:'🌌', rating:4, dt:'Apr 7', dur:'58 min'},
+  {t:'Poor Things', cat:'Movie', emo:'🎭', rating:4, dt:'Apr 6', dur:'2h 21min'},
+  {t:'Planet Earth III E4', cat:'Doc', emo:'🌍', rating:5, dt:'Apr 5', dur:'58 min'},
+  {t:'Blue Eye Samurai S1', cat:'Anime', emo:'⚔️', rating:5, dt:'Apr 4', dur:'3h 10min'},
+  {t:'Oppenheimer', cat:'Movie', emo:'🎬', rating:4, dt:'Apr 3', dur:'3h 1min'},
+];
+
+function renderRecs(container, items) {
+  container.innerHTML = '';
+  items.forEach(c => {
+    container.innerHTML += `<div class="rec-card">
+      <div class="rec-thumb" style="background:${c.col}">${c.emo}</div>
+      <div class="rec-body">
+        <div class="rec-title">${c.t}</div>
+        <div class="rec-meta">${c.cat} · ${c.genre}</div>
+        <span class="rec-match" style="background:${c.col};color:${c.tc}">${c.match}% match</span>
+      </div>
+    </div>`;
+  });
+}
+
+renderRecs(document.getElementById('dashRecs'), CONTENT.slice(0,6));
+renderRecs(document.getElementById('discoverRecs'), CONTENT.slice(3,9));
+
+const hist = document.getElementById('historyList');
+HISTORY.forEach(h => {
+  const stars = '★'.repeat(h.rating) + '☆'.repeat(5-h.rating);
+  hist.innerHTML += `<div class="history-item">
+    <span class="history-emo">${h.emo}</span>
+    <div style="flex:1"><div class="history-title">${h.t}</div><div class="history-meta">${h.cat} · ${h.dur}</div></div>
+    <div style="text-align:right"><div class="rating-stars">${stars}</div><div class="history-meta">${h.dt}</div></div>
+  </div>`;
+});
+
+function switchTab(name) {
+  document.querySelectorAll('.tab-content').forEach(t=>t.classList.remove('active'));
+  document.querySelectorAll('.nav-btn').forEach(b=>b.classList.remove('active'));
+  document.getElementById('tab-'+name).classList.add('active');
+  event.target.classList.add('active');
+}
+
+function toggleGenre(el) {
+  el.classList.toggle('selected');
+}
+
+function doAISearch() {
+  const q = document.getElementById('searchInput').value.trim();
+  const out = document.getElementById('discoverOutput');
+  if(!q){ out.innerHTML='<span style="color:var(--color-text-secondary);font-size:12px;">Please type a query first.</span>'; return; }
+  out.innerHTML='<div class="ai-loading"><div class="dot"></div><div class="dot"></div><div class="dot"></div><span style="margin-left:8px;font-size:12px;color:var(--color-text-secondary)">SmartStream AI is thinking...</span></div>';
+  setTimeout(()=>{
+    const recs = CONTENT.filter(c=>c.genre.toLowerCase().includes(q.toLowerCase())||c.t.toLowerCase().includes(q.toLowerCase()));
+    if(recs.length){
+      out.innerHTML=`<strong style="font-size:13px;">AI found ${recs.length} match${recs.length>1?'es':''} for "${q}"</strong><br><span style="font-size:12px;color:var(--color-text-secondary)">Based on your watch history and preferences, these titles best align with your taste profile.</span>`;
+      renderRecs(document.getElementById('discoverRecs'), recs);
+    } else {
+      out.innerHTML=`<span style="font-size:13px;">No direct matches for "<strong>${q}</strong>" — but here are AI picks you might enjoy based on similar vibes.</span>`;
+      renderRecs(document.getElementById('discoverRecs'), CONTENT.slice(0,6));
+    }
+  }, 1400);
+  sendPrompt('Find me entertainment recommendations for: ' + q);
+}
+
+const days = ['Mon','Tue','Wed','Thu','Fri','Sat','Sun'];
+new Chart(document.getElementById('watchHours'),{
+  type:'bar',
+  data:{labels:days,datasets:[
+    {label:'Movies',data:[1.2,0.8,1.5,0.5,2.1,3.2,2.8],backgroundColor:'#378ADD'},
+    {label:'Series',data:[2.1,1.8,2.4,1.2,3.0,4.1,3.6],backgroundColor:'#7F77DD'},
+    {label:'Docs',data:[0.5,0.3,0.8,0.2,1.1,1.5,0.9],backgroundColor:'#1D9E75'},
+  ]},
+  options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{grid:{display:false}},y:{grid:{color:'rgba(128,128,128,0.08)'},ticks:{font:{size:11}}}}}
+});
+
+new Chart(document.getElementById('genrePie'),{
+  type:'doughnut',
+  data:{labels:['Thriller','Sci-Fi','Drama','Comedy','Action'],datasets:[{data:[28,22,19,17,14],backgroundColor:['#D4537E','#378ADD','#BA7517','#1D9E75','#7F77DD'],borderWidth:0}]},
+  options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},cutout:'65%'}
+});
+
+const months=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+new Chart(document.getElementById('accuracyLine'),{
+  type:'line',
+  data:{labels:months,datasets:[
+    {label:'Predicted',data:[72,74,77,79,81,83,85,87,89,91,93,94],borderColor:'#378ADD',backgroundColor:'rgba(55,138,221,0.07)',tension:0.4,fill:true,borderWidth:2,pointRadius:3},
+    {label:'Actual',data:[68,73,75,78,80,82,84,86,88,90,92,94],borderColor:'#D4537E',backgroundColor:'rgba(212,83,126,0.04)',tension:0.4,fill:false,borderWidth:2,borderDash:[5,3],pointRadius:3},
+  ]},
+  options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{grid:{display:false},ticks:{font:{size:10}}},y:{min:60,max:100,grid:{color:'rgba(128,128,128,0.08)'},ticks:{font:{size:10},callback:v=>v+'%'}}}}
+});
+
+new Chart(document.getElementById('monthlyLine'),{
+  type:'line',
+  data:{labels:months,datasets:[
+    {label:'This year',data:[28,32,38,41,36,44,52,48,55,60,57,62],borderColor:'#378ADD',backgroundColor:'rgba(55,138,221,0.08)',tension:0.4,fill:true,borderWidth:2,pointRadius:3},
+    {label:'Last year',data:[22,26,30,34,28,38,42,39,44,48,45,50],borderColor:'#D3D1C7',tension:0.4,fill:false,borderWidth:2,borderDash:[4,3],pointRadius:3},
+  ]},
+  options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{grid:{display:false},ticks:{font:{size:10}}},y:{grid:{color:'rgba(128,128,128,0.08)'},ticks:{font:{size:10}}}}}
+});
+
+new Chart(document.getElementById('platformPie'),{
+  type:'doughnut',
+  data:{labels:['Netflix','Prime','Disney+','Other'],datasets:[{data:[38,27,22,13],backgroundColor:['#D4537E','#378ADD','#BA7517','#7F77DD'],borderWidth:0}]},
+  options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},cutout:'60%'}
+});
+
+const hours=['12a','2a','4a','6a','8a','10a','12p','2p','4p','6p','8p','10p'];
+new Chart(document.getElementById('timeOfDay'),{
+  type:'bar',
+  data:{labels:hours,datasets:[
+    {label:'Weekday',data:[2,1,0,0,3,5,8,10,12,18,32,22],backgroundColor:'#7F77DD'},
+    {label:'Weekend',data:[5,8,3,1,4,12,18,22,28,35,45,38],backgroundColor:'#D4537E'},
+  ]},
+  options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{grid:{display:false},ticks:{font:{size:10}}},y:{grid:{color:'rgba(128,128,128,0.08)'},ticks:{font:{size:10}}}}}
+});
+
+new Chart(document.getElementById('ratingDist'),{
+  type:'bar',
+  data:{labels:['1★','2★','3★','4★','5★'],datasets:[
+    {label:'Your ratings',data:[3,7,15,38,24],backgroundColor:'#1D9E75'},
+    {label:'AI prediction',data:[2,6,14,40,25],backgroundColor:'#378ADD'},
+  ]},
+  options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{grid:{display:false}},y:{grid:{color:'rgba(128,128,128,0.08)'},ticks:{font:{size:10}}}}}
+});
+</script>
