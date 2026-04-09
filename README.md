@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="ChatGPT_Image_Apr_6__2026__04_13_13_PM.png" alt="SmartStream Logo" width="220"/>
+<img src="Ai.png" alt="SmartStream Logo" width="220"/>
 
 # 🎬 SmartStream
 ### AI-Powered Entertainment Recommendation System
