@@ -411,7 +411,7 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more informa
 
 - GitHub: [@Harenpandya](https://github.com/cseharen-ux/SmartStream-Recommendation/new/main?readme=1)
 - Email: pandyaharen4@gmail.com
-- Project Link: https://github.com/cseharen-ux/SmartStream-Recommendation<img width="1100" height="81" alt="image" src="https://github.com/user-attachments/assets/abd10653-4735-4e86-8ac3-82d092d57a3a" />
+- Project Link: https://github.com/cseharen-ux/SmartStream-Recommendation
 
 
 ---
