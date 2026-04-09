@@ -409,9 +409,14 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more informa
 
 **SmartStream Team**
 
-- GitHub: [@yourusername](https://github.com/cseharen-ux/SmartStream-Recommendation/new/main?readme=1)
+- GitHub: [@Harenpandya](https://github.com/cseharen-ux/SmartStream-Recommendation/new/main?readme=1)
 - Email: pandyaharen4@gmail.com
 - Project Link: [https://github.com/yourusername/smartstream](https://github.com/yourusername/smartstream)
+- STUDENT NAME:  Haren Pandya
+COLLEGE NAME:R. N. G. Patel Institute of Technology 
+DEPARTMENT:  Computer Science and Engineering
+EMAIL ID:  pandyaharen4@gmail.com!
+
 
 ---
 
